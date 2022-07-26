@@ -1,0 +1,2337 @@
+﻿empresa,departamento,fecha,cod_pgc,pgc,D/H,cantidad,comentario
+Kreuzung,gesamt,01/01/2020,100,Capital social,H,3760000.00,apertura
+Kreuzung,gesamt,01/01/2020,112,Reserva legal,H,752000.00,apertura
+Kreuzung,gesamt,01/01/2020,113,Reservas voluntarias,H,4150000.00,apertura
+Kreuzung,gesamt,01/01/2020,203,Propiedad industrial,D,360390.00,apertura
+Kreuzung,gesamt,01/01/2020,210,Terrenos y bienes naturales,D,47000.00,apertura
+Kreuzung,gesamt,01/01/2020,211,Construcciones,D,252500.00,apertura
+Kreuzung,gesamt,01/01/2020,213,Maquinaria,D,1117000.00,apertura
+Kreuzung,gesamt,01/01/2020,216,Mobiliario,D,70000.00,apertura
+Kreuzung,gesamt,01/01/2020,218,Elementos de transporte,D,190000.00,apertura
+Kreuzung,gesamt,01/01/2020,250,Inversiones financieras l/p instrum. Patr.,D,264000.00,apertura
+Kreuzung,gesamt,01/01/2020,572,Bancos c/c,D,8407243.05,apertura
+Kreuzung,gesamt,01/01/2020,520,Deudas a c/p,H,801.00,apertura
+Kreuzung,gesamt,01/01/2020,475,H.P. acreedora por conceptos fiscales,H,2001020.56,apertura
+Kreuzung,gesamt,07/08/2020,203,Propiedad industrial,D,620000.00,
+Kreuzung,gesamt,07/08/2020,472,H.P. IVA Soportado,D,130200.00,
+Kreuzung,gesamt,07/08/2020,572,Bancos c/c,D,-750200.00
+Kreuzung,gesamt,12/06/2020,203,Propiedad industrial,D,619610.00
+Kreuzung,gesamt,12/06/2020,472,H.P. IVA Soportado,D,130118.10
+Kreuzung,gesamt,12/06/2020,572,Bancos c/c,D,-749728.10
+Kreuzung,gesamt,17/09/2020,210,Terrenos y bienes naturales,D,820000.00
+Kreuzung,gesamt,17/09/2020,472,H.P. IVA Soportado,D,172200.00
+Kreuzung,gesamt,17/09/2020,572,Bancos c/c,D,-992200.00
+Kreuzung,gesamt,11/02/2020,210,Terrenos y bienes naturales,D,685000.00
+Kreuzung,gesamt,11/02/2020,472,H.P. IVA Soportado,D,143850.00
+Kreuzung,gesamt,11/02/2020,572,Bancos c/c,D,-828850.00
+Kreuzung,gesamt,05/06/2020,211,Construcciones,D,1820000.00
+Kreuzung,gesamt,05/06/2020,472,H.P. IVA Soportado,D,382200.00
+Kreuzung,gesamt,05/06/2020,572,Bancos c/c,D,-2202200.00
+Kreuzung,gesamt,21/08/2020,211,Construcciones,D,1127500.00
+Kreuzung,gesamt,21/08/2020,472,H.P. IVA Soportado,D,236775.00
+Kreuzung,gesamt,21/08/2020,572,Bancos c/c,D,-1364275.00
+Kreuzung,gesamt,10/01/2020,213,Maquinaria,D,891211.00
+Kreuzung,gesamt,10/01/2020,472,H.P. IVA Soportado,D,187154.31
+Kreuzung,gesamt,10/01/2020,572,Bancos c/c,D,-1078365.31
+Kreuzung,gesamt,27/02/2020,213,Maquinaria,D,225789.00
+Kreuzung,gesamt,27/02/2020,472,H.P. IVA Soportado,D,47415.69
+Kreuzung,gesamt,27/02/2020,572,Bancos c/c,D,-273204.69
+Kreuzung,gesamt,18/11/2020,216,Mobiliario,D,21220.00
+Kreuzung,gesamt,18/11/2020,472,H.P. IVA Soportado,D,4456.20
+Kreuzung,gesamt,18/11/2020,572,Bancos c/c,D,-25676.20
+Kreuzung,gesamt,12/09/2020,216,Mobiliario,D,48780.00
+Kreuzung,gesamt,12/09/2020,472,H.P. IVA Soportado,D,10243.80
+Kreuzung,gesamt,12/09/2020,570,Caja €,D,-59023.80
+Kreuzung,gesamt,01/03/2020,218,Elementos de transporte,D,190000.00
+Kreuzung,gesamt,01/03/2020,472,H.P. IVA Soportado,D,39900.00
+Kreuzung,gesamt,01/03/2020,572,Bancos c/c,D,-229900.00
+Kreuzung,gesamt,17/06/2020,250,Inversiones financieras l/p instrum. Patr.,D,152000.00
+Kreuzung,gesamt,17/06/2020,570,Caja €,D,-152000.00
+Kreuzung,gesamt,19/01/2020,430,Clientes,D,44765.16
+Kreuzung,gesamt,19/01/2020,700,Ventas de mercaderías,H,36996.00
+Kreuzung,gesamt,19/01/2020,477,H.P. IVA Repercutido,H,7769.16
+Kreuzung,gesamt,20/06/2020,430,Clientes,D,73670.85
+Kreuzung,gesamt,20/06/2020,700,Ventas de mercaderías,H,60885.00
+Kreuzung,gesamt,20/06/2020,477,H.P. IVA Repercutido,H,12785.85
+Kreuzung,gesamt,01/09/2020,430,Clientes,D,90310.77
+Kreuzung,gesamt,01/09/2020,700,Ventas de mercaderías,H,74637.00
+Kreuzung,gesamt,01/09/2020,477,H.P. IVA Repercutido,H,15673.77
+Kreuzung,gesamt,11/10/2020,430,Clientes,D,97870.85
+Kreuzung,gesamt,11/10/2020,700,Ventas de mercaderías,H,80885.00
+Kreuzung,gesamt,11/10/2020,477,H.P. IVA Repercutido,H,16985.85
+Kreuzung,gesamt,10/04/2020,430,Clientes,D,41910.77
+Kreuzung,gesamt,10/04/2020,700,Ventas de mercaderías,H,34637.00
+Kreuzung,gesamt,10/04/2020,477,H.P. IVA Repercutido,H,7273.77
+Kreuzung,gesamt,27/07/2020,430,Clientes,D,41385.63
+Kreuzung,gesamt,27/07/2020,700,Ventas de mercaderías,H,34203.00
+Kreuzung,gesamt,27/07/2020,477,H.P. IVA Repercutido,H,7182.63
+Kreuzung,gesamt,17/05/2020,430,Clientes,D,202838.35
+Kreuzung,gesamt,17/05/2020,700,Ventas de mercaderías,H,167635.00
+Kreuzung,gesamt,17/05/2020,477,H.P. IVA Repercutido,H,35203.35
+Kreuzung,gesamt,04/06/2020,430,Clientes,D,67928.19
+Kreuzung,gesamt,04/06/2020,700,Ventas de mercaderías,H,56139.00
+Kreuzung,gesamt,04/06/2020,477,H.P. IVA Repercutido,H,11789.19
+Kreuzung,gesamt,22/09/2020,430,Clientes,D,185897.14
+Kreuzung,gesamt,22/09/2020,700,Ventas de mercaderías,H,153634.00
+Kreuzung,gesamt,22/09/2020,477,H.P. IVA Repercutido,H,32263.14
+Kreuzung,gesamt,09/11/2020,430,Clientes,D,78255.54
+Kreuzung,gesamt,09/11/2020,700,Ventas de mercaderías,H,64674.00
+Kreuzung,gesamt,09/11/2020,477,H.P. IVA Repercutido,H,13581.54
+Kreuzung,gesamt,19/07/2020,430,Clientes,D,48888.84
+Kreuzung,gesamt,19/07/2020,700,Ventas de mercaderías,H,40404.00
+Kreuzung,gesamt,19/07/2020,477,H.P. IVA Repercutido,H,8484.84
+Kreuzung,gesamt,11/02/2020,430,Clientes,D,70645.85
+Kreuzung,gesamt,11/02/2020,700,Ventas de mercaderías,H,58385.00
+Kreuzung,gesamt,11/02/2020,477,H.P. IVA Repercutido,H,12260.85
+Kreuzung,gesamt,10/07/2020,430,Clientes,D,85331.62
+Kreuzung,gesamt,10/07/2020,700,Ventas de mercaderías,H,70522.00
+Kreuzung,gesamt,10/07/2020,477,H.P. IVA Repercutido,H,14809.62
+Kreuzung,gesamt,27/07/2020,430,Clientes,D,128863.79
+Kreuzung,gesamt,27/07/2020,700,Ventas de mercaderías,H,106499.00
+Kreuzung,gesamt,27/07/2020,477,H.P. IVA Repercutido,H,22364.79
+Kreuzung,gesamt,13/09/2020,430,Clientes,D,102038.09
+Kreuzung,gesamt,13/09/2020,700,Ventas de mercaderías,H,84329.00
+Kreuzung,gesamt,13/09/2020,477,H.P. IVA Repercutido,H,17709.09
+Kreuzung,gesamt,12/09/2020,430,Clientes,D,103307.38
+Kreuzung,gesamt,12/09/2020,700,Ventas de mercaderías,H,85378.00
+Kreuzung,gesamt,12/09/2020,477,H.P. IVA Repercutido,H,17929.38
+Kreuzung,gesamt,25/10/2020,430,Clientes,D,112199.67
+Kreuzung,gesamt,25/10/2020,700,Ventas de mercaderías,H,92727.00
+Kreuzung,gesamt,25/10/2020,477,H.P. IVA Repercutido,H,19472.67
+Kreuzung,gesamt,24/01/2020,430,Clientes,D,30358.90
+Kreuzung,gesamt,24/01/2020,700,Ventas de mercaderías,H,25090.00
+Kreuzung,gesamt,24/01/2020,477,H.P. IVA Repercutido,H,5268.90
+Kreuzung,gesamt,07/01/2020,430,Clientes,D,83090.70
+Kreuzung,gesamt,07/01/2020,700,Ventas de mercaderías,H,68670.00
+Kreuzung,gesamt,07/01/2020,477,H.P. IVA Repercutido,H,14420.70
+Kreuzung,gesamt,28/07/2020,430,Clientes,D,66000.66
+Kreuzung,gesamt,28/07/2020,700,Ventas de mercaderías,H,54546.00
+Kreuzung,gesamt,28/07/2020,477,H.P. IVA Repercutido,H,11454.66
+Kreuzung,gesamt,13/02/2020,430,Clientes,D,50557.43
+Kreuzung,gesamt,13/02/2020,700,Ventas de mercaderías,H,41783.00
+Kreuzung,gesamt,13/02/2020,477,H.P. IVA Repercutido,H,8774.43
+Kreuzung,gesamt,17/01/2020,430,Clientes,D,97118.23
+Kreuzung,gesamt,17/01/2020,700,Ventas de mercaderías,H,80263.00
+Kreuzung,gesamt,17/01/2020,477,H.P. IVA Repercutido,H,16855.23
+Kreuzung,gesamt,12/02/2020,430,Clientes,D,100737.34
+Kreuzung,gesamt,12/02/2020,700,Ventas de mercaderías,H,83254.00
+Kreuzung,gesamt,12/02/2020,477,H.P. IVA Repercutido,H,17483.34
+Kreuzung,gesamt,10/09/2020,430,Clientes,D,124441.24
+Kreuzung,gesamt,10/09/2020,700,Ventas de mercaderías,H,102844.00
+Kreuzung,gesamt,10/09/2020,477,H.P. IVA Repercutido,H,21597.24
+Kreuzung,gesamt,24/07/2020,430,Clientes,D,44220.66
+Kreuzung,gesamt,24/07/2020,700,Ventas de mercaderías,H,36546.00
+Kreuzung,gesamt,24/07/2020,477,H.P. IVA Repercutido,H,7674.66
+Kreuzung,gesamt,20/11/2020,430,Clientes,D,121308.55
+Kreuzung,gesamt,20/11/2020,700,Ventas de mercaderías,H,100255.00
+Kreuzung,gesamt,20/11/2020,477,H.P. IVA Repercutido,H,21053.55
+Kreuzung,gesamt,27/08/2020,430,Clientes,D,207776.36
+Kreuzung,gesamt,27/08/2020,700,Ventas de mercaderías,H,171716.00
+Kreuzung,gesamt,27/08/2020,477,H.P. IVA Repercutido,H,36060.36
+Kreuzung,gesamt,01/12/2020,430,Clientes,D,222548.04
+Kreuzung,gesamt,01/12/2020,700,Ventas de mercaderías,H,183924.00
+Kreuzung,gesamt,01/12/2020,477,H.P. IVA Repercutido,H,38624.04
+Kreuzung,gesamt,13/07/2020,430,Clientes,D,105700.76
+Kreuzung,gesamt,13/07/2020,700,Ventas de mercaderías,H,87356.00
+Kreuzung,gesamt,13/07/2020,477,H.P. IVA Repercutido,H,18344.76
+Kreuzung,gesamt,23/09/2020,430,Clientes,D,64028.36
+Kreuzung,gesamt,23/09/2020,700,Ventas de mercaderías,H,52916.00
+Kreuzung,gesamt,23/09/2020,477,H.P. IVA Repercutido,H,11112.36
+Kreuzung,gesamt,03/01/2020,430,Clientes,D,77835.67
+Kreuzung,gesamt,03/01/2020,700,Ventas de mercaderías,H,64327.00
+Kreuzung,gesamt,03/01/2020,477,H.P. IVA Repercutido,H,13508.67
+Kreuzung,gesamt,20/08/2020,430,Clientes,D,78071.62
+Kreuzung,gesamt,20/08/2020,700,Ventas de mercaderías,H,64522.00
+Kreuzung,gesamt,20/08/2020,477,H.P. IVA Repercutido,H,13549.62
+Kreuzung,gesamt,08/03/2020,430,Clientes,D,41534.46
+Kreuzung,gesamt,08/03/2020,700,Ventas de mercaderías,H,34326.00
+Kreuzung,gesamt,08/03/2020,477,H.P. IVA Repercutido,H,7208.46
+Kreuzung,gesamt,14/09/2020,430,Clientes,D,88308.22
+Kreuzung,gesamt,14/09/2020,700,Ventas de mercaderías,H,72982.00
+Kreuzung,gesamt,14/09/2020,477,H.P. IVA Repercutido,H,15326.22
+Kreuzung,gesamt,16/01/2020,430,Clientes,D,66551.21
+Kreuzung,gesamt,16/01/2020,700,Ventas de mercaderías,H,55001.00
+Kreuzung,gesamt,16/01/2020,477,H.P. IVA Repercutido,H,11550.21
+Kreuzung,gesamt,21/05/2020,430,Clientes,D,103266.24
+Kreuzung,gesamt,21/05/2020,700,Ventas de mercaderías,H,85344.00
+Kreuzung,gesamt,21/05/2020,477,H.P. IVA Repercutido,H,17922.24
+Kreuzung,gesamt,18/10/2020,430,Clientes,D,75209.97
+Kreuzung,gesamt,18/10/2020,700,Ventas de mercaderías,H,62157.00
+Kreuzung,gesamt,18/10/2020,477,H.P. IVA Repercutido,H,13052.97
+Kreuzung,gesamt,15/01/2020,430,Clientes,D,55853.60
+Kreuzung,gesamt,15/01/2020,700,Ventas de mercaderías,H,46160.00
+Kreuzung,gesamt,15/01/2020,477,H.P. IVA Repercutido,H,9693.60
+Kreuzung,gesamt,08/10/2020,430,Clientes,D,111650.33
+Kreuzung,gesamt,08/10/2020,700,Ventas de mercaderías,H,92273.00
+Kreuzung,gesamt,08/10/2020,477,H.P. IVA Repercutido,H,19377.33
+Kreuzung,gesamt,23/11/2020,430,Clientes,D,109191.61
+Kreuzung,gesamt,23/11/2020,700,Ventas de mercaderías,H,90241.00
+Kreuzung,gesamt,23/11/2020,477,H.P. IVA Repercutido,H,18950.61
+Kreuzung,gesamt,09/10/2020,430,Clientes,D,49516.83
+Kreuzung,gesamt,09/10/2020,700,Ventas de mercaderías,H,40923.00
+Kreuzung,gesamt,09/10/2020,477,H.P. IVA Repercutido,H,8593.83
+Kreuzung,gesamt,28/01/2020,430,Clientes,D,47824.04
+Kreuzung,gesamt,28/01/2020,700,Ventas de mercaderías,H,39524.00
+Kreuzung,gesamt,28/01/2020,477,H.P. IVA Repercutido,H,8300.04
+Kreuzung,gesamt,26/06/2020,430,Clientes,D,54647.23
+Kreuzung,gesamt,26/06/2020,700,Ventas de mercaderías,H,45163.00
+Kreuzung,gesamt,26/06/2020,477,H.P. IVA Repercutido,H,9484.23
+Kreuzung,gesamt,05/09/2020,430,Clientes,D,111448.26
+Kreuzung,gesamt,05/09/2020,700,Ventas de mercaderías,H,92106.00
+Kreuzung,gesamt,05/09/2020,477,H.P. IVA Repercutido,H,19342.26
+Kreuzung,gesamt,17/04/2020,430,Clientes,D,54181.38
+Kreuzung,gesamt,17/04/2020,700,Ventas de mercaderías,H,44778.00
+Kreuzung,gesamt,17/04/2020,477,H.P. IVA Repercutido,H,9403.38
+Kreuzung,gesamt,26/02/2020,430,Clientes,D,53209.75
+Kreuzung,gesamt,26/02/2020,700,Ventas de mercaderías,H,43975.00
+Kreuzung,gesamt,26/02/2020,477,H.P. IVA Repercutido,H,9234.75
+Kreuzung,gesamt,11/10/2020,430,Clientes,D,93904.47
+Kreuzung,gesamt,11/10/2020,700,Ventas de mercaderías,H,77607.00
+Kreuzung,gesamt,11/10/2020,477,H.P. IVA Repercutido,H,16297.47
+Kreuzung,gesamt,02/04/2020,430,Clientes,D,109525.57
+Kreuzung,gesamt,02/04/2020,700,Ventas de mercaderías,H,90517.00
+Kreuzung,gesamt,02/04/2020,477,H.P. IVA Repercutido,H,19008.57
+Kreuzung,gesamt,04/07/2020,430,Clientes,D,77701.36
+Kreuzung,gesamt,04/07/2020,700,Ventas de mercaderías,H,64216.00
+Kreuzung,gesamt,04/07/2020,477,H.P. IVA Repercutido,H,13485.36
+Kreuzung,gesamt,02/04/2020,430,Clientes,D,111303.06
+Kreuzung,gesamt,02/04/2020,700,Ventas de mercaderías,H,91986.00
+Kreuzung,gesamt,02/04/2020,477,H.P. IVA Repercutido,H,19317.06
+Kreuzung,gesamt,21/04/2020,430,Clientes,D,48998.95
+Kreuzung,gesamt,21/04/2020,700,Ventas de mercaderías,H,40495.00
+Kreuzung,gesamt,21/04/2020,477,H.P. IVA Repercutido,H,8503.95
+Kreuzung,gesamt,20/02/2020,430,Clientes,D,87682.65
+Kreuzung,gesamt,20/02/2020,700,Ventas de mercaderías,H,72465.00
+Kreuzung,gesamt,20/02/2020,477,H.P. IVA Repercutido,H,15217.65
+Kreuzung,gesamt,12/08/2020,430,Clientes,D,48796.88
+Kreuzung,gesamt,12/08/2020,700,Ventas de mercaderías,H,40328.00
+Kreuzung,gesamt,12/08/2020,477,H.P. IVA Repercutido,H,8468.88
+Kreuzung,gesamt,25/06/2020,430,Clientes,D,113845.27
+Kreuzung,gesamt,25/06/2020,700,Ventas de mercaderías,H,94087.00
+Kreuzung,gesamt,25/06/2020,477,H.P. IVA Repercutido,H,19758.27
+Kreuzung,gesamt,10/05/2020,430,Clientes,D,98777.14
+Kreuzung,gesamt,10/05/2020,700,Ventas de mercaderías,H,81634.00
+Kreuzung,gesamt,10/05/2020,477,H.P. IVA Repercutido,H,17143.14
+Kreuzung,gesamt,17/01/2020,430,Clientes,D,44006.49
+Kreuzung,gesamt,17/01/2020,700,Ventas de mercaderías,H,36369.00
+Kreuzung,gesamt,17/01/2020,477,H.P. IVA Repercutido,H,7637.49
+Kreuzung,gesamt,14/02/2020,430,Clientes,D,93501.54
+Kreuzung,gesamt,14/02/2020,700,Ventas de mercaderías,H,77274.00
+Kreuzung,gesamt,14/02/2020,477,H.P. IVA Repercutido,H,16227.54
+Kreuzung,gesamt,05/10/2020,430,Clientes,D,118138.35
+Kreuzung,gesamt,05/10/2020,700,Ventas de mercaderías,H,97635.00
+Kreuzung,gesamt,05/10/2020,477,H.P. IVA Repercutido,H,20503.35
+Kreuzung,gesamt,22/01/2020,430,Clientes,D,54285.44
+Kreuzung,gesamt,22/01/2020,700,Ventas de mercaderías,H,44864.00
+Kreuzung,gesamt,22/01/2020,477,H.P. IVA Repercutido,H,9421.44
+Kreuzung,gesamt,08/11/2020,430,Clientes,D,75122.85
+Kreuzung,gesamt,08/11/2020,700,Ventas de mercaderías,H,62085.00
+Kreuzung,gesamt,08/11/2020,477,H.P. IVA Repercutido,H,13037.85
+Kreuzung,gesamt,27/05/2020,430,Clientes,D,49582.17
+Kreuzung,gesamt,27/05/2020,700,Ventas de mercaderías,H,40977.00
+Kreuzung,gesamt,27/05/2020,477,H.P. IVA Repercutido,H,8605.17
+Kreuzung,gesamt,04/03/2020,430,Clientes,D,125945.27
+Kreuzung,gesamt,04/03/2020,700,Ventas de mercaderías,H,104087.00
+Kreuzung,gesamt,04/03/2020,477,H.P. IVA Repercutido,H,21858.27
+Kreuzung,gesamt,22/12/2020,430,Clientes,D,80898.18
+Kreuzung,gesamt,22/12/2020,700,Ventas de mercaderías,H,66858.00
+Kreuzung,gesamt,22/12/2020,477,H.P. IVA Repercutido,H,14040.18
+Kreuzung,gesamt,28/06/2020,430,Clientes,D,110078.54
+Kreuzung,gesamt,28/06/2020,700,Ventas de mercaderías,H,90974.00
+Kreuzung,gesamt,28/06/2020,477,H.P. IVA Repercutido,H,19104.54
+Kreuzung,gesamt,25/10/2020,430,Clientes,D,74523.90
+Kreuzung,gesamt,25/10/2020,700,Ventas de mercaderías,H,61590.00
+Kreuzung,gesamt,25/10/2020,477,H.P. IVA Repercutido,H,12933.90
+Kreuzung,gesamt,04/03/2020,430,Clientes,D,112292.84
+Kreuzung,gesamt,04/03/2020,700,Ventas de mercaderías,H,92804.00
+Kreuzung,gesamt,04/03/2020,477,H.P. IVA Repercutido,H,19488.84
+Kreuzung,gesamt,11/02/2020,430,Clientes,D,74145.17
+Kreuzung,gesamt,11/02/2020,700,Ventas de mercaderías,H,61277.00
+Kreuzung,gesamt,11/02/2020,477,H.P. IVA Repercutido,H,12868.17
+Kreuzung,gesamt,02/06/2020,430,Clientes,D,105227.65
+Kreuzung,gesamt,02/06/2020,700,Ventas de mercaderías,H,86965.00
+Kreuzung,gesamt,02/06/2020,477,H.P. IVA Repercutido,H,18262.65
+Kreuzung,gesamt,12/04/2020,430,Clientes,D,72812.96
+Kreuzung,gesamt,12/04/2020,700,Ventas de mercaderías,H,60176.00
+Kreuzung,gesamt,12/04/2020,477,H.P. IVA Repercutido,H,12636.96
+Kreuzung,gesamt,05/01/2020,430,Clientes,D,92148.76
+Kreuzung,gesamt,05/01/2020,700,Ventas de mercaderías,H,76156.00
+Kreuzung,gesamt,05/01/2020,477,H.P. IVA Repercutido,H,15992.76
+Kreuzung,gesamt,06/11/2020,430,Clientes,D,118035.50
+Kreuzung,gesamt,06/11/2020,700,Ventas de mercaderías,H,97550.00
+Kreuzung,gesamt,06/11/2020,477,H.P. IVA Repercutido,H,20485.50
+Kreuzung,gesamt,17/11/2020,430,Clientes,D,45009.58
+Kreuzung,gesamt,17/11/2020,700,Ventas de mercaderías,H,37198.00
+Kreuzung,gesamt,17/11/2020,477,H.P. IVA Repercutido,H,7811.58
+Kreuzung,gesamt,07/06/2020,430,Clientes,D,54013.19
+Kreuzung,gesamt,07/06/2020,700,Ventas de mercaderías,H,44639.00
+Kreuzung,gesamt,07/06/2020,477,H.P. IVA Repercutido,H,9374.19
+Kreuzung,gesamt,08/02/2020,430,Clientes,D,125087.38
+Kreuzung,gesamt,08/02/2020,700,Ventas de mercaderías,H,103378.00
+Kreuzung,gesamt,08/02/2020,477,H.P. IVA Repercutido,H,21709.38
+Kreuzung,gesamt,02/09/2020,430,Clientes,D,87691.12
+Kreuzung,gesamt,02/09/2020,700,Ventas de mercaderías,H,72472.00
+Kreuzung,gesamt,02/09/2020,477,H.P. IVA Repercutido,H,15219.12
+Kreuzung,gesamt,25/10/2020,430,Clientes,D,71900.62
+Kreuzung,gesamt,25/10/2020,700,Ventas de mercaderías,H,59422.00
+Kreuzung,gesamt,25/10/2020,477,H.P. IVA Repercutido,H,12478.62
+Kreuzung,gesamt,05/08/2020,430,Clientes,D,66715.77
+Kreuzung,gesamt,05/08/2020,700,Ventas de mercaderías,H,55137.00
+Kreuzung,gesamt,05/08/2020,477,H.P. IVA Repercutido,H,11578.77
+Kreuzung,gesamt,27/06/2020,430,Clientes,D,109086.34
+Kreuzung,gesamt,27/06/2020,700,Ventas de mercaderías,H,90154.00
+Kreuzung,gesamt,27/06/2020,477,H.P. IVA Repercutido,H,18932.34
+Kreuzung,gesamt,16/01/2020,430,Clientes,D,43763.28
+Kreuzung,gesamt,16/01/2020,700,Ventas de mercaderías,H,36168.00
+Kreuzung,gesamt,16/01/2020,477,H.P. IVA Repercutido,H,7595.28
+Kreuzung,gesamt,06/10/2020,430,Clientes,D,100333.20
+Kreuzung,gesamt,06/10/2020,700,Ventas de mercaderías,H,82920.00
+Kreuzung,gesamt,06/10/2020,477,H.P. IVA Repercutido,H,17413.20
+Kreuzung,gesamt,17/02/2020,430,Clientes,D,54920.69
+Kreuzung,gesamt,17/02/2020,700,Ventas de mercaderías,H,45389.00
+Kreuzung,gesamt,17/02/2020,477,H.P. IVA Repercutido,H,9531.69
+Kreuzung,gesamt,26/01/2020,430,Clientes,D,62627.18
+Kreuzung,gesamt,26/01/2020,700,Ventas de mercaderías,H,51758.00
+Kreuzung,gesamt,26/01/2020,477,H.P. IVA Repercutido,H,10869.18
+Kreuzung,gesamt,16/04/2020,430,Clientes,D,47727.24
+Kreuzung,gesamt,16/04/2020,700,Ventas de mercaderías,H,39444.00
+Kreuzung,gesamt,16/04/2020,477,H.P. IVA Repercutido,H,8283.24
+Kreuzung,gesamt,13/06/2020,430,Clientes,D,72430.60
+Kreuzung,gesamt,13/06/2020,700,Ventas de mercaderías,H,59860.00
+Kreuzung,gesamt,13/06/2020,477,H.P. IVA Repercutido,H,12570.60
+Kreuzung,gesamt,06/03/2020,430,Clientes,D,102519.67
+Kreuzung,gesamt,06/03/2020,700,Ventas de mercaderías,H,84727.00
+Kreuzung,gesamt,06/03/2020,477,H.P. IVA Repercutido,H,17792.67
+Kreuzung,gesamt,04/07/2020,430,Clientes,D,117285.30
+Kreuzung,gesamt,04/07/2020,700,Ventas de mercaderías,H,96930.00
+Kreuzung,gesamt,04/07/2020,477,H.P. IVA Repercutido,H,20355.30
+Kreuzung,gesamt,10/07/2020,430,Clientes,D,108061.47
+Kreuzung,gesamt,10/07/2020,700,Ventas de mercaderías,H,89307.00
+Kreuzung,gesamt,10/07/2020,477,H.P. IVA Repercutido,H,18754.47
+Kreuzung,gesamt,21/03/2020,430,Clientes,D,111886.28
+Kreuzung,gesamt,21/03/2020,700,Ventas de mercaderías,H,92468.00
+Kreuzung,gesamt,21/03/2020,477,H.P. IVA Repercutido,H,19418.28
+Kreuzung,gesamt,10/07/2020,430,Clientes,D,102323.65
+Kreuzung,gesamt,10/07/2020,700,Ventas de mercaderías,H,84565.00
+Kreuzung,gesamt,10/07/2020,477,H.P. IVA Repercutido,H,17758.65
+Kreuzung,gesamt,02/09/2020,430,Clientes,D,63382.22
+Kreuzung,gesamt,02/09/2020,700,Ventas de mercaderías,H,52382.00
+Kreuzung,gesamt,02/09/2020,477,H.P. IVA Repercutido,H,11000.22
+Kreuzung,gesamt,05/12/2020,430,Clientes,D,119253.97
+Kreuzung,gesamt,05/12/2020,700,Ventas de mercaderías,H,98557.00
+Kreuzung,gesamt,05/12/2020,477,H.P. IVA Repercutido,H,20696.97
+Kreuzung,gesamt,06/10/2020,430,Clientes,D,119495.97
+Kreuzung,gesamt,06/10/2020,700,Ventas de mercaderías,H,98757.00
+Kreuzung,gesamt,06/10/2020,477,H.P. IVA Repercutido,H,20738.97
+Kreuzung,gesamt,14/01/2020,430,Clientes,D,105933.08
+Kreuzung,gesamt,14/01/2020,700,Ventas de mercaderías,H,87548.00
+Kreuzung,gesamt,14/01/2020,477,H.P. IVA Repercutido,H,18385.08
+Kreuzung,gesamt,14/10/2020,430,Clientes,D,105380.11
+Kreuzung,gesamt,14/10/2020,700,Ventas de mercaderías,H,87091.00
+Kreuzung,gesamt,14/10/2020,477,H.P. IVA Repercutido,H,18289.11
+Kreuzung,gesamt,12/02/2020,430,Clientes,D,69758.92
+Kreuzung,gesamt,12/02/2020,700,Ventas de mercaderías,H,57652.00
+Kreuzung,gesamt,12/02/2020,477,H.P. IVA Repercutido,H,12106.92
+Kreuzung,gesamt,22/06/2020,430,Clientes,D,48257.22
+Kreuzung,gesamt,22/06/2020,700,Ventas de mercaderías,H,39882.00
+Kreuzung,gesamt,22/06/2020,477,H.P. IVA Repercutido,H,8375.22
+Kreuzung,gesamt,18/10/2020,430,Clientes,D,91801.49
+Kreuzung,gesamt,18/10/2020,700,Ventas de mercaderías,H,75869.00
+Kreuzung,gesamt,18/10/2020,477,H.P. IVA Repercutido,H,15932.49
+Kreuzung,gesamt,14/10/2020,430,Clientes,D,83323.02
+Kreuzung,gesamt,14/10/2020,700,Ventas de mercaderías,H,68862.00
+Kreuzung,gesamt,14/10/2020,477,H.P. IVA Repercutido,H,14461.02
+Kreuzung,gesamt,15/03/2020,430,Clientes,D,114481.73
+Kreuzung,gesamt,15/03/2020,700,Ventas de mercaderías,H,94613.00
+Kreuzung,gesamt,15/03/2020,477,H.P. IVA Repercutido,H,19868.73
+Kreuzung,gesamt,01/12/2020,430,Clientes,D,44929.72
+Kreuzung,gesamt,01/12/2020,700,Ventas de mercaderías,H,37132.00
+Kreuzung,gesamt,01/12/2020,477,H.P. IVA Repercutido,H,7797.72
+Kreuzung,gesamt,16/10/2020,430,Clientes,D,74060.47
+Kreuzung,gesamt,16/10/2020,700,Ventas de mercaderías,H,61207.00
+Kreuzung,gesamt,16/10/2020,477,H.P. IVA Repercutido,H,12853.47
+Kreuzung,gesamt,18/01/2020,430,Clientes,D,92878.39
+Kreuzung,gesamt,18/01/2020,700,Ventas de mercaderías,H,76759.00
+Kreuzung,gesamt,18/01/2020,477,H.P. IVA Repercutido,H,16119.39
+Kreuzung,gesamt,05/11/2020,430,Clientes,D,109537.67
+Kreuzung,gesamt,05/11/2020,700,Ventas de mercaderías,H,90527.00
+Kreuzung,gesamt,05/11/2020,477,H.P. IVA Repercutido,H,19010.67
+Kreuzung,gesamt,23/04/2020,430,Clientes,D,63619.38
+Kreuzung,gesamt,23/04/2020,700,Ventas de mercaderías,H,52578.00
+Kreuzung,gesamt,23/04/2020,477,H.P. IVA Repercutido,H,11041.38
+Kreuzung,gesamt,20/03/2020,430,Clientes,D,110907.39
+Kreuzung,gesamt,20/03/2020,700,Ventas de mercaderías,H,91659.00
+Kreuzung,gesamt,20/03/2020,477,H.P. IVA Repercutido,H,19248.39
+Kreuzung,gesamt,01/01/2020,430,Clientes,D,58991.13
+Kreuzung,gesamt,01/01/2020,700,Ventas de mercaderías,H,48753.00
+Kreuzung,gesamt,01/01/2020,477,H.P. IVA Repercutido,H,10238.13
+Kreuzung,gesamt,22/11/2020,430,Clientes,D,76983.83
+Kreuzung,gesamt,22/11/2020,700,Ventas de mercaderías,H,63623.00
+Kreuzung,gesamt,22/11/2020,477,H.P. IVA Repercutido,H,13360.83
+Kreuzung,gesamt,19/03/2020,430,Clientes,D,63027.69
+Kreuzung,gesamt,19/03/2020,700,Ventas de mercaderías,H,52089.00
+Kreuzung,gesamt,19/03/2020,477,H.P. IVA Repercutido,H,10938.69
+Kreuzung,gesamt,21/12/2020,430,Clientes,D,81933.94
+Kreuzung,gesamt,21/12/2020,700,Ventas de mercaderías,H,67714.00
+Kreuzung,gesamt,21/12/2020,477,H.P. IVA Repercutido,H,14219.94
+Kreuzung,gesamt,08/02/2020,430,Clientes,D,97262.22
+Kreuzung,gesamt,08/02/2020,700,Ventas de mercaderías,H,80382.00
+Kreuzung,gesamt,08/02/2020,477,H.P. IVA Repercutido,H,16880.22
+Kreuzung,gesamt,06/08/2020,430,Clientes,D,99775.39
+Kreuzung,gesamt,06/08/2020,700,Ventas de mercaderías,H,82459.00
+Kreuzung,gesamt,06/08/2020,477,H.P. IVA Repercutido,H,17316.39
+Kreuzung,gesamt,20/11/2020,430,Clientes,D,112749.01
+Kreuzung,gesamt,20/11/2020,700,Ventas de mercaderías,H,93181.00
+Kreuzung,gesamt,20/11/2020,477,H.P. IVA Repercutido,H,19568.01
+Kreuzung,gesamt,22/05/2020,430,Clientes,D,46784.65
+Kreuzung,gesamt,22/05/2020,700,Ventas de mercaderías,H,38665.00
+Kreuzung,gesamt,22/05/2020,477,H.P. IVA Repercutido,H,8119.65
+Kreuzung,gesamt,26/03/2020,430,Clientes,D,120773.73
+Kreuzung,gesamt,26/03/2020,700,Ventas de mercaderías,H,99813.00
+Kreuzung,gesamt,26/03/2020,477,H.P. IVA Repercutido,H,20960.73
+Kreuzung,gesamt,09/06/2020,430,Clientes,D,72328.96
+Kreuzung,gesamt,09/06/2020,700,Ventas de mercaderías,H,59776.00
+Kreuzung,gesamt,09/06/2020,477,H.P. IVA Repercutido,H,12552.96
+Kreuzung,gesamt,26/03/2020,430,Clientes,D,123802.36
+Kreuzung,gesamt,26/03/2020,700,Ventas de mercaderías,H,102316.00
+Kreuzung,gesamt,26/03/2020,477,H.P. IVA Repercutido,H,21486.36
+Kreuzung,gesamt,23/01/2020,430,Clientes,D,92315.74
+Kreuzung,gesamt,23/01/2020,700,Ventas de mercaderías,H,76294.00
+Kreuzung,gesamt,23/01/2020,477,H.P. IVA Repercutido,H,16021.74
+Kreuzung,gesamt,21/01/2020,430,Clientes,D,109571.55
+Kreuzung,gesamt,21/01/2020,700,Ventas de mercaderías,H,90555.00
+Kreuzung,gesamt,21/01/2020,477,H.P. IVA Repercutido,H,19016.55
+Kreuzung,gesamt,04/10/2020,430,Clientes,D,71739.69
+Kreuzung,gesamt,04/10/2020,700,Ventas de mercaderías,H,59289.00
+Kreuzung,gesamt,04/10/2020,477,H.P. IVA Repercutido,H,12450.69
+Kreuzung,gesamt,02/08/2020,431,Clientes efectos comerciales a cobrar,D,765822.49
+Kreuzung,gesamt,02/08/2020,700,Ventas de mercaderías,H,632911.15
+Kreuzung,gesamt,02/08/2020,477,H.P. IVA Repercutido,H,132911.34
+Kreuzung,gesamt,02/05/2020,431,Clientes efectos comerciales a cobrar,D,125115.21
+Kreuzung,gesamt,02/05/2020,700,Ventas de mercaderías,H,103401.00
+Kreuzung,gesamt,02/05/2020,477,H.P. IVA Repercutido,H,21714.21
+Kreuzung,gesamt,22/08/2020,431,Clientes efectos comerciales a cobrar,D,110221.32
+Kreuzung,gesamt,22/08/2020,700,Ventas de mercaderías,H,91092.00
+Kreuzung,gesamt,22/08/2020,477,H.P. IVA Repercutido,H,19129.32
+Kreuzung,gesamt,02/02/2020,431,Clientes efectos comerciales a cobrar,D,48496.80
+Kreuzung,gesamt,02/02/2020,700,Ventas de mercaderías,H,40080.00
+Kreuzung,gesamt,02/02/2020,477,H.P. IVA Repercutido,H,8416.80
+Kreuzung,gesamt,26/11/2020,431,Clientes efectos comerciales a cobrar,D,63867.43
+Kreuzung,gesamt,26/11/2020,700,Ventas de mercaderías,H,52783.00
+Kreuzung,gesamt,26/11/2020,477,H.P. IVA Repercutido,H,11084.43
+Kreuzung,gesamt,07/09/2020,431,Clientes efectos comerciales a cobrar,D,98164.88
+Kreuzung,gesamt,07/09/2020,700,Ventas de mercaderías,H,81128.00
+Kreuzung,gesamt,07/09/2020,477,H.P. IVA Repercutido,H,17036.88
+Kreuzung,gesamt,24/01/2020,431,Clientes efectos comerciales a cobrar,D,61648.29
+Kreuzung,gesamt,24/01/2020,700,Ventas de mercaderías,H,50949.00
+Kreuzung,gesamt,24/01/2020,477,H.P. IVA Repercutido,H,10699.29
+Kreuzung,gesamt,15/09/2020,431,Clientes efectos comerciales a cobrar,D,66873.07
+Kreuzung,gesamt,15/09/2020,700,Ventas de mercaderías,H,55267.00
+Kreuzung,gesamt,15/09/2020,477,H.P. IVA Repercutido,H,11606.07
+Kreuzung,gesamt,13/09/2020,431,Clientes efectos comerciales a cobrar,D,65791.33
+Kreuzung,gesamt,13/09/2020,700,Ventas de mercaderías,H,54373.00
+Kreuzung,gesamt,13/09/2020,477,H.P. IVA Repercutido,H,11418.33
+Kreuzung,gesamt,18/01/2020,431,Clientes efectos comerciales a cobrar,D,65813.11
+Kreuzung,gesamt,18/01/2020,700,Ventas de mercaderías,H,54391.00
+Kreuzung,gesamt,18/01/2020,477,H.P. IVA Repercutido,H,11422.11
+Kreuzung,gesamt,02/11/2020,431,Clientes efectos comerciales a cobrar,D,77655.38
+Kreuzung,gesamt,02/11/2020,700,Ventas de mercaderías,H,64178.00
+Kreuzung,gesamt,02/11/2020,477,H.P. IVA Repercutido,H,13477.38
+Kreuzung,gesamt,16/10/2020,431,Clientes efectos comerciales a cobrar,D,124602.17
+Kreuzung,gesamt,16/10/2020,700,Ventas de mercaderías,H,102977.00
+Kreuzung,gesamt,16/10/2020,477,H.P. IVA Repercutido,H,21625.17
+Kreuzung,gesamt,01/07/2020,431,Clientes efectos comerciales a cobrar,D,63523.79
+Kreuzung,gesamt,01/07/2020,700,Ventas de mercaderías,H,52499.00
+Kreuzung,gesamt,01/07/2020,477,H.P. IVA Repercutido,H,11024.79
+Kreuzung,gesamt,11/09/2020,431,Clientes efectos comerciales a cobrar,D,102019.94
+Kreuzung,gesamt,11/09/2020,700,Ventas de mercaderías,H,84314.00
+Kreuzung,gesamt,11/09/2020,477,H.P. IVA Repercutido,H,17705.94
+Kreuzung,gesamt,12/12/2020,431,Clientes efectos comerciales a cobrar,D,81578.20
+Kreuzung,gesamt,12/12/2020,700,Ventas de mercaderías,H,67420.00
+Kreuzung,gesamt,12/12/2020,477,H.P. IVA Repercutido,H,14158.20
+Kreuzung,gesamt,09/06/2020,431,Clientes efectos comerciales a cobrar,D,80333.11
+Kreuzung,gesamt,09/06/2020,700,Ventas de mercaderías,H,66391.00
+Kreuzung,gesamt,09/06/2020,477,H.P. IVA Repercutido,H,13942.11
+Kreuzung,gesamt,27/04/2020,431,Clientes efectos comerciales a cobrar,D,121925.65
+Kreuzung,gesamt,27/04/2020,700,Ventas de mercaderías,H,100765.00
+Kreuzung,gesamt,27/04/2020,477,H.P. IVA Repercutido,H,21160.65
+Kreuzung,gesamt,15/11/2020,431,Clientes efectos comerciales a cobrar,D,49784.24
+Kreuzung,gesamt,15/11/2020,700,Ventas de mercaderías,H,41144.00
+Kreuzung,gesamt,15/11/2020,477,H.P. IVA Repercutido,H,8640.24
+Kreuzung,gesamt,21/05/2020,431,Clientes efectos comerciales a cobrar,D,57712.16
+Kreuzung,gesamt,21/05/2020,700,Ventas de mercaderías,H,47696.00
+Kreuzung,gesamt,21/05/2020,477,H.P. IVA Repercutido,H,10016.16
+Kreuzung,gesamt,23/05/2020,431,Clientes efectos comerciales a cobrar,D,81451.15
+Kreuzung,gesamt,23/05/2020,700,Ventas de mercaderías,H,67315.00
+Kreuzung,gesamt,23/05/2020,477,H.P. IVA Repercutido,H,14136.15
+Kreuzung,gesamt,27/07/2020,431,Clientes efectos comerciales a cobrar,D,99885.50
+Kreuzung,gesamt,27/07/2020,700,Ventas de mercaderías,H,82550.00
+Kreuzung,gesamt,27/07/2020,477,H.P. IVA Repercutido,H,17335.50
+Kreuzung,gesamt,18/05/2020,431,Clientes efectos comerciales a cobrar,D,125145.46
+Kreuzung,gesamt,18/05/2020,700,Ventas de mercaderías,H,103426.00
+Kreuzung,gesamt,18/05/2020,477,H.P. IVA Repercutido,H,21719.46
+Kreuzung,gesamt,04/07/2020,431,Clientes efectos comerciales a cobrar,D,120662.41
+Kreuzung,gesamt,04/07/2020,700,Ventas de mercaderías,H,99721.00
+Kreuzung,gesamt,04/07/2020,477,H.P. IVA Repercutido,H,20941.41
+Kreuzung,gesamt,15/10/2020,431,Clientes efectos comerciales a cobrar,D,123784.21
+Kreuzung,gesamt,15/10/2020,700,Ventas de mercaderías,H,102301.00
+Kreuzung,gesamt,15/10/2020,477,H.P. IVA Repercutido,H,21483.21
+Kreuzung,gesamt,25/04/2020,431,Clientes efectos comerciales a cobrar,D,77447.26
+Kreuzung,gesamt,25/04/2020,700,Ventas de mercaderías,H,64006.00
+Kreuzung,gesamt,25/04/2020,477,H.P. IVA Repercutido,H,13441.26
+Kreuzung,gesamt,28/10/2020,431,Clientes efectos comerciales a cobrar,D,52756.00
+Kreuzung,gesamt,28/10/2020,700,Ventas de mercaderías,H,43600.00
+Kreuzung,gesamt,28/10/2020,477,H.P. IVA Repercutido,H,9156.00
+Kreuzung,gesamt,11/03/2020,431,Clientes efectos comerciales a cobrar,D,107088.63
+Kreuzung,gesamt,11/03/2020,700,Ventas de mercaderías,H,88503.00
+Kreuzung,gesamt,11/03/2020,477,H.P. IVA Repercutido,H,18585.63
+Kreuzung,gesamt,03/05/2020,431,Clientes efectos comerciales a cobrar,D,113606.90
+Kreuzung,gesamt,03/05/2020,700,Ventas de mercaderías,H,93890.00
+Kreuzung,gesamt,03/05/2020,477,H.P. IVA Repercutido,H,19716.90
+Kreuzung,gesamt,22/08/2020,431,Clientes efectos comerciales a cobrar,D,116439.51
+Kreuzung,gesamt,22/08/2020,700,Ventas de mercaderías,H,96231.00
+Kreuzung,gesamt,22/08/2020,477,H.P. IVA Repercutido,H,20208.51
+Kreuzung,gesamt,13/10/2020,431,Clientes efectos comerciales a cobrar,D,99887.92
+Kreuzung,gesamt,13/10/2020,700,Ventas de mercaderías,H,82552.00
+Kreuzung,gesamt,13/10/2020,477,H.P. IVA Repercutido,H,17335.92
+Kreuzung,gesamt,03/02/2020,431,Clientes efectos comerciales a cobrar,D,77821.15
+Kreuzung,gesamt,03/02/2020,700,Ventas de mercaderías,H,64315.00
+Kreuzung,gesamt,03/02/2020,477,H.P. IVA Repercutido,H,13506.15
+Kreuzung,gesamt,19/12/2020,431,Clientes efectos comerciales a cobrar,D,106968.84
+Kreuzung,gesamt,19/12/2020,700,Ventas de mercaderías,H,88404.00
+Kreuzung,gesamt,19/12/2020,477,H.P. IVA Repercutido,H,18564.84
+Kreuzung,gesamt,14/08/2020,431,Clientes efectos comerciales a cobrar,D,98850.95
+Kreuzung,gesamt,14/08/2020,700,Ventas de mercaderías,H,81695.00
+Kreuzung,gesamt,14/08/2020,477,H.P. IVA Repercutido,H,17155.95
+Kreuzung,gesamt,05/04/2020,431,Clientes efectos comerciales a cobrar,D,115968.82
+Kreuzung,gesamt,05/04/2020,700,Ventas de mercaderías,H,95842.00
+Kreuzung,gesamt,05/04/2020,477,H.P. IVA Repercutido,H,20126.82
+Kreuzung,gesamt,20/09/2020,431,Clientes efectos comerciales a cobrar,D,88558.69
+Kreuzung,gesamt,20/09/2020,700,Ventas de mercaderías,H,73189.00
+Kreuzung,gesamt,20/09/2020,477,H.P. IVA Repercutido,H,15369.69
+Kreuzung,gesamt,21/09/2020,431,Clientes efectos comerciales a cobrar,D,52021.53
+Kreuzung,gesamt,21/09/2020,700,Ventas de mercaderías,H,42993.00
+Kreuzung,gesamt,21/09/2020,477,H.P. IVA Repercutido,H,9028.53
+Kreuzung,gesamt,23/10/2020,431,Clientes efectos comerciales a cobrar,D,52778.99
+Kreuzung,gesamt,23/10/2020,700,Ventas de mercaderías,H,43619.00
+Kreuzung,gesamt,23/10/2020,477,H.P. IVA Repercutido,H,9159.99
+Kreuzung,gesamt,27/02/2020,431,Clientes efectos comerciales a cobrar,D,44421.52
+Kreuzung,gesamt,27/02/2020,700,Ventas de mercaderías,H,36712.00
+Kreuzung,gesamt,27/02/2020,477,H.P. IVA Repercutido,H,7709.52
+Kreuzung,gesamt,01/06/2020,431,Clientes efectos comerciales a cobrar,D,86279.05
+Kreuzung,gesamt,01/06/2020,700,Ventas de mercaderías,H,71305.00
+Kreuzung,gesamt,01/06/2020,477,H.P. IVA Repercutido,H,14974.05
+Kreuzung,gesamt,06/06/2020,431,Clientes efectos comerciales a cobrar,D,68844.16
+Kreuzung,gesamt,06/06/2020,700,Ventas de mercaderías,H,56896.00
+Kreuzung,gesamt,06/06/2020,477,H.P. IVA Repercutido,H,11948.16
+Kreuzung,gesamt,19/11/2020,431,Clientes efectos comerciales a cobrar,D,64557.13
+Kreuzung,gesamt,19/11/2020,700,Ventas de mercaderías,H,53353.00
+Kreuzung,gesamt,19/11/2020,477,H.P. IVA Repercutido,H,11204.13
+Kreuzung,gesamt,09/03/2020,431,Clientes efectos comerciales a cobrar,D,109651.41
+Kreuzung,gesamt,09/03/2020,700,Ventas de mercaderías,H,90621.00
+Kreuzung,gesamt,09/03/2020,477,H.P. IVA Repercutido,H,19030.41
+Kreuzung,gesamt,06/12/2020,431,Clientes efectos comerciales a cobrar,D,97943.45
+Kreuzung,gesamt,06/12/2020,700,Ventas de mercaderías,H,80945.00
+Kreuzung,gesamt,06/12/2020,477,H.P. IVA Repercutido,H,16998.45
+Kreuzung,gesamt,07/03/2020,431,Clientes efectos comerciales a cobrar,D,112690.93
+Kreuzung,gesamt,07/03/2020,700,Ventas de mercaderías,H,93133.00
+Kreuzung,gesamt,07/03/2020,477,H.P. IVA Repercutido,H,19557.93
+Kreuzung,gesamt,08/04/2020,431,Clientes efectos comerciales a cobrar,D,99048.18
+Kreuzung,gesamt,08/04/2020,700,Ventas de mercaderías,H,81858.00
+Kreuzung,gesamt,08/04/2020,477,H.P. IVA Repercutido,H,17190.18
+Kreuzung,gesamt,09/11/2020,431,Clientes efectos comerciales a cobrar,D,53267.83
+Kreuzung,gesamt,09/11/2020,700,Ventas de mercaderías,H,44023.00
+Kreuzung,gesamt,09/11/2020,477,H.P. IVA Repercutido,H,9244.83
+Kreuzung,gesamt,07/12/2020,431,Clientes efectos comerciales a cobrar,D,49222.80
+Kreuzung,gesamt,07/12/2020,700,Ventas de mercaderías,H,40680.00
+Kreuzung,gesamt,07/12/2020,477,H.P. IVA Repercutido,H,8542.80
+Kreuzung,gesamt,22/01/2020,431,Clientes efectos comerciales a cobrar,D,110477.84
+Kreuzung,gesamt,22/01/2020,700,Ventas de mercaderías,H,91304.00
+Kreuzung,gesamt,22/01/2020,477,H.P. IVA Repercutido,H,19173.84
+Kreuzung,gesamt,07/08/2020,431,Clientes efectos comerciales a cobrar,D,116619.80
+Kreuzung,gesamt,07/08/2020,700,Ventas de mercaderías,H,96380.00
+Kreuzung,gesamt,07/08/2020,477,H.P. IVA Repercutido,H,20239.80
+Kreuzung,gesamt,28/06/2020,431,Clientes efectos comerciales a cobrar,D,120799.14
+Kreuzung,gesamt,28/06/2020,700,Ventas de mercaderías,H,99834.00
+Kreuzung,gesamt,28/06/2020,477,H.P. IVA Repercutido,H,20965.14
+Kreuzung,gesamt,20/11/2020,431,Clientes efectos comerciales a cobrar,D,94136.79
+Kreuzung,gesamt,20/11/2020,700,Ventas de mercaderías,H,77799.00
+Kreuzung,gesamt,20/11/2020,477,H.P. IVA Repercutido,H,16337.79
+Kreuzung,gesamt,06/02/2020,431,Clientes efectos comerciales a cobrar,D,48830.76
+Kreuzung,gesamt,06/02/2020,700,Ventas de mercaderías,H,40356.00
+Kreuzung,gesamt,06/02/2020,477,H.P. IVA Repercutido,H,8474.76
+Kreuzung,gesamt,06/03/2020,431,Clientes efectos comerciales a cobrar,D,76334.06
+Kreuzung,gesamt,06/03/2020,700,Ventas de mercaderías,H,63086.00
+Kreuzung,gesamt,06/03/2020,477,H.P. IVA Repercutido,H,13248.06
+Kreuzung,gesamt,18/12/2020,431,Clientes efectos comerciales a cobrar,D,92715.04
+Kreuzung,gesamt,18/12/2020,700,Ventas de mercaderías,H,76624.00
+Kreuzung,gesamt,18/12/2020,477,H.P. IVA Repercutido,H,16091.04
+Kreuzung,gesamt,18/02/2020,431,Clientes efectos comerciales a cobrar,D,101589.18
+Kreuzung,gesamt,18/02/2020,700,Ventas de mercaderías,H,83958.00
+Kreuzung,gesamt,18/02/2020,477,H.P. IVA Repercutido,H,17631.18
+Kreuzung,gesamt,22/02/2020,431,Clientes efectos comerciales a cobrar,D,111831.83
+Kreuzung,gesamt,22/02/2020,700,Ventas de mercaderías,H,92423.00
+Kreuzung,gesamt,22/02/2020,477,H.P. IVA Repercutido,H,19408.83
+Kreuzung,gesamt,06/09/2020,431,Clientes efectos comerciales a cobrar,D,120453.08
+Kreuzung,gesamt,06/09/2020,700,Ventas de mercaderías,H,99548.00
+Kreuzung,gesamt,06/09/2020,477,H.P. IVA Repercutido,H,20905.08
+Kreuzung,gesamt,20/06/2020,431,Clientes efectos comerciales a cobrar,D,72574.59
+Kreuzung,gesamt,20/06/2020,700,Ventas de mercaderías,H,59979.00
+Kreuzung,gesamt,20/06/2020,477,H.P. IVA Repercutido,H,12595.59
+Kreuzung,gesamt,26/05/2020,431,Clientes efectos comerciales a cobrar,D,60700.86
+Kreuzung,gesamt,26/05/2020,700,Ventas de mercaderías,H,50166.00
+Kreuzung,gesamt,26/05/2020,477,H.P. IVA Repercutido,H,10534.86
+Kreuzung,gesamt,17/11/2020,431,Clientes efectos comerciales a cobrar,D,105190.14
+Kreuzung,gesamt,17/11/2020,700,Ventas de mercaderías,H,86934.00
+Kreuzung,gesamt,17/11/2020,477,H.P. IVA Repercutido,H,18256.14
+Kreuzung,gesamt,20/04/2020,431,Clientes efectos comerciales a cobrar,D,109561.87
+Kreuzung,gesamt,20/04/2020,700,Ventas de mercaderías,H,90547.00
+Kreuzung,gesamt,20/04/2020,477,H.P. IVA Repercutido,H,19014.87
+Kreuzung,gesamt,13/06/2020,431,Clientes efectos comerciales a cobrar,D,113979.58
+Kreuzung,gesamt,13/06/2020,700,Ventas de mercaderías,H,94198.00
+Kreuzung,gesamt,13/06/2020,477,H.P. IVA Repercutido,H,19781.58
+Kreuzung,gesamt,12/12/2020,431,Clientes efectos comerciales a cobrar,D,53121.42
+Kreuzung,gesamt,12/12/2020,700,Ventas de mercaderías,H,43902.00
+Kreuzung,gesamt,12/12/2020,477,H.P. IVA Repercutido,H,9219.42
+Kreuzung,gesamt,26/10/2020,431,Clientes efectos comerciales a cobrar,D,109184.35
+Kreuzung,gesamt,26/10/2020,700,Ventas de mercaderías,H,90235.00
+Kreuzung,gesamt,26/10/2020,477,H.P. IVA Repercutido,H,18949.35
+Kreuzung,gesamt,23/06/2020,431,Clientes efectos comerciales a cobrar,D,105061.88
+Kreuzung,gesamt,23/06/2020,700,Ventas de mercaderías,H,86828.00
+Kreuzung,gesamt,23/06/2020,477,H.P. IVA Repercutido,H,18233.88
+Kreuzung,gesamt,21/09/2020,431,Clientes efectos comerciales a cobrar,D,49796.34
+Kreuzung,gesamt,21/09/2020,700,Ventas de mercaderías,H,41154.00
+Kreuzung,gesamt,21/09/2020,477,H.P. IVA Repercutido,H,8642.34
+Kreuzung,gesamt,14/04/2020,431,Clientes efectos comerciales a cobrar,D,85131.97
+Kreuzung,gesamt,14/04/2020,700,Ventas de mercaderías,H,70357.00
+Kreuzung,gesamt,14/04/2020,477,H.P. IVA Repercutido,H,14774.97
+Kreuzung,gesamt,20/07/2020,431,Clientes efectos comerciales a cobrar,D,75330.97
+Kreuzung,gesamt,20/07/2020,700,Ventas de mercaderías,H,62257.00
+Kreuzung,gesamt,20/07/2020,477,H.P. IVA Repercutido,H,13073.97
+Kreuzung,gesamt,23/10/2020,431,Clientes efectos comerciales a cobrar,D,104944.51
+Kreuzung,gesamt,23/10/2020,700,Ventas de mercaderías,H,86731.00
+Kreuzung,gesamt,23/10/2020,477,H.P. IVA Repercutido,H,18213.51
+Kreuzung,gesamt,02/05/2020,431,Clientes efectos comerciales a cobrar,D,68966.37
+Kreuzung,gesamt,02/05/2020,700,Ventas de mercaderías,H,56997.00
+Kreuzung,gesamt,02/05/2020,477,H.P. IVA Repercutido,H,11969.37
+Kreuzung,gesamt,26/01/2020,431,Clientes efectos comerciales a cobrar,D,49317.18
+Kreuzung,gesamt,26/01/2020,700,Ventas de mercaderías,H,40758.00
+Kreuzung,gesamt,26/01/2020,477,H.P. IVA Repercutido,H,8559.18
+Kreuzung,gesamt,03/09/2020,431,Clientes efectos comerciales a cobrar,D,88672.43
+Kreuzung,gesamt,03/09/2020,700,Ventas de mercaderías,H,73283.00
+Kreuzung,gesamt,03/09/2020,477,H.P. IVA Repercutido,H,15389.43
+Kreuzung,gesamt,11/03/2020,431,Clientes efectos comerciales a cobrar,D,125157.56
+Kreuzung,gesamt,11/03/2020,700,Ventas de mercaderías,H,103436.00
+Kreuzung,gesamt,11/03/2020,477,H.P. IVA Repercutido,H,21721.56
+Kreuzung,gesamt,07/02/2020,431,Clientes efectos comerciales a cobrar,D,118981.72
+Kreuzung,gesamt,07/02/2020,700,Ventas de mercaderías,H,98332.00
+Kreuzung,gesamt,07/02/2020,477,H.P. IVA Repercutido,H,20649.72
+Kreuzung,gesamt,22/02/2020,431,Clientes efectos comerciales a cobrar,D,106744.99
+Kreuzung,gesamt,22/02/2020,700,Ventas de mercaderías,H,88219.00
+Kreuzung,gesamt,22/02/2020,477,H.P. IVA Repercutido,H,18525.99
+Kreuzung,gesamt,28/11/2020,431,Clientes efectos comerciales a cobrar,D,106986.99
+Kreuzung,gesamt,28/11/2020,700,Ventas de mercaderías,H,88419.00
+Kreuzung,gesamt,28/11/2020,477,H.P. IVA Repercutido,H,18567.99
+Kreuzung,gesamt,16/07/2020,431,Clientes efectos comerciales a cobrar,D,91408.24
+Kreuzung,gesamt,16/07/2020,700,Ventas de mercaderías,H,75544.00
+Kreuzung,gesamt,16/07/2020,477,H.P. IVA Repercutido,H,15864.24
+Kreuzung,gesamt,05/07/2020,431,Clientes efectos comerciales a cobrar,D,76013.41
+Kreuzung,gesamt,05/07/2020,700,Ventas de mercaderías,H,62821.00
+Kreuzung,gesamt,05/07/2020,477,H.P. IVA Repercutido,H,13192.41
+Kreuzung,gesamt,25/07/2020,431,Clientes efectos comerciales a cobrar,D,62262.97
+Kreuzung,gesamt,25/07/2020,700,Ventas de mercaderías,H,51457.00
+Kreuzung,gesamt,25/07/2020,477,H.P. IVA Repercutido,H,10805.97
+Kreuzung,gesamt,17/11/2020,431,Clientes efectos comerciales a cobrar,D,50613.09
+Kreuzung,gesamt,17/11/2020,700,Ventas de mercaderías,H,41829.00
+Kreuzung,gesamt,17/11/2020,477,H.P. IVA Repercutido,H,8784.09
+Kreuzung,gesamt,09/09/2020,431,Clientes efectos comerciales a cobrar,D,80719.10
+Kreuzung,gesamt,09/09/2020,700,Ventas de mercaderías,H,66710.00
+Kreuzung,gesamt,09/09/2020,477,H.P. IVA Repercutido,H,14009.10
+Kreuzung,gesamt,23/11/2020,431,Clientes efectos comerciales a cobrar,D,123743.07
+Kreuzung,gesamt,23/11/2020,700,Ventas de mercaderías,H,102267.00
+Kreuzung,gesamt,23/11/2020,477,H.P. IVA Repercutido,H,21476.07
+Kreuzung,gesamt,04/03/2020,431,Clientes efectos comerciales a cobrar,D,72315.65
+Kreuzung,gesamt,04/03/2020,700,Ventas de mercaderías,H,59765.00
+Kreuzung,gesamt,04/03/2020,477,H.P. IVA Repercutido,H,12550.65
+Kreuzung,gesamt,18/06/2020,431,Clientes efectos comerciales a cobrar,D,111629.76
+Kreuzung,gesamt,18/06/2020,700,Ventas de mercaderías,H,92256.00
+Kreuzung,gesamt,18/06/2020,477,H.P. IVA Repercutido,H,19373.76
+Kreuzung,gesamt,11/03/2020,431,Clientes efectos comerciales a cobrar,D,89616.23
+Kreuzung,gesamt,11/03/2020,700,Ventas de mercaderías,H,74063.00
+Kreuzung,gesamt,11/03/2020,477,H.P. IVA Repercutido,H,15553.23
+Kreuzung,gesamt,27/03/2020,431,Clientes efectos comerciales a cobrar,D,98538.77
+Kreuzung,gesamt,27/03/2020,700,Ventas de mercaderías,H,81437.00
+Kreuzung,gesamt,27/03/2020,477,H.P. IVA Repercutido,H,17101.77
+Kreuzung,gesamt,18/03/2020,431,Clientes efectos comerciales a cobrar,D,72544.34
+Kreuzung,gesamt,18/03/2020,700,Ventas de mercaderías,H,59954.00
+Kreuzung,gesamt,18/03/2020,477,H.P. IVA Repercutido,H,12590.34
+Kreuzung,gesamt,23/01/2020,431,Clientes efectos comerciales a cobrar,D,100572.78
+Kreuzung,gesamt,23/01/2020,700,Ventas de mercaderías,H,83118.00
+Kreuzung,gesamt,23/01/2020,477,H.P. IVA Repercutido,H,17454.78
+Kreuzung,gesamt,08/08/2020,431,Clientes efectos comerciales a cobrar,D,99091.74
+Kreuzung,gesamt,08/08/2020,700,Ventas de mercaderías,H,81894.00
+Kreuzung,gesamt,08/08/2020,477,H.P. IVA Repercutido,H,17197.74
+Kreuzung,gesamt,01/04/2020,431,Clientes efectos comerciales a cobrar,D,95114.47
+Kreuzung,gesamt,01/04/2020,700,Ventas de mercaderías,H,78607.00
+Kreuzung,gesamt,01/04/2020,477,H.P. IVA Repercutido,H,16507.47
+Kreuzung,gesamt,24/06/2020,431,Clientes efectos comerciales a cobrar,D,93829.45
+Kreuzung,gesamt,24/06/2020,700,Ventas de mercaderías,H,77545.00
+Kreuzung,gesamt,24/06/2020,477,H.P. IVA Repercutido,H,16284.45
+Kreuzung,gesamt,04/08/2020,431,Clientes efectos comerciales a cobrar,D,116840.02
+Kreuzung,gesamt,04/08/2020,700,Ventas de mercaderías,H,96562.00
+Kreuzung,gesamt,04/08/2020,477,H.P. IVA Repercutido,H,20278.02
+Kreuzung,gesamt,26/08/2020,431,Clientes efectos comerciales a cobrar,D,75062.35
+Kreuzung,gesamt,26/08/2020,700,Ventas de mercaderías,H,62035.00
+Kreuzung,gesamt,26/08/2020,477,H.P. IVA Repercutido,H,13027.35
+Kreuzung,gesamt,23/10/2020,431,Clientes efectos comerciales a cobrar,D,99810.48
+Kreuzung,gesamt,23/10/2020,700,Ventas de mercaderías,H,82488.00
+Kreuzung,gesamt,23/10/2020,477,H.P. IVA Repercutido,H,17322.48
+Kreuzung,gesamt,03/04/2020,431,Clientes efectos comerciales a cobrar,D,92197.16
+Kreuzung,gesamt,03/04/2020,700,Ventas de mercaderías,H,76196.00
+Kreuzung,gesamt,03/04/2020,477,H.P. IVA Repercutido,H,16001.16
+Kreuzung,gesamt,01/07/2020,431,Clientes efectos comerciales a cobrar,D,71024.58
+Kreuzung,gesamt,01/07/2020,700,Ventas de mercaderías,H,58698.00
+Kreuzung,gesamt,01/07/2020,477,H.P. IVA Repercutido,H,12326.58
+Kreuzung,gesamt,15/06/2020,431,Clientes efectos comerciales a cobrar,D,118796.59
+Kreuzung,gesamt,15/06/2020,700,Ventas de mercaderías,H,98179.00
+Kreuzung,gesamt,15/06/2020,477,H.P. IVA Repercutido,H,20617.59
+Kreuzung,gesamt,21/09/2020,431,Clientes efectos comerciales a cobrar,D,47006.08
+Kreuzung,gesamt,21/09/2020,700,Ventas de mercaderías,H,38848.00
+Kreuzung,gesamt,21/09/2020,477,H.P. IVA Repercutido,H,8158.08
+Kreuzung,gesamt,09/08/2020,431,Clientes efectos comerciales a cobrar,D,54562.53
+Kreuzung,gesamt,09/08/2020,700,Ventas de mercaderías,H,45093.00
+Kreuzung,gesamt,09/08/2020,477,H.P. IVA Repercutido,H,9469.53
+Kreuzung,gesamt,02/09/2020,431,Clientes efectos comerciales a cobrar,D,84096.21
+Kreuzung,gesamt,02/09/2020,700,Ventas de mercaderías,H,69501.00,
+Kreuzung,gesamt,02/09/2020,477,H.P. IVA Repercutido,H,14595.21,
+Kreuzung,gesamt,19/06/2020,431,Clientes efectos comerciales a cobrar,D,66738.76,
+Kreuzung,gesamt,19/06/2020,700,Ventas de mercaderías,H,55156.00,
+Kreuzung,gesamt,19/06/2020,477,H.P. IVA Repercutido,H,11582.76,
+Kreuzung,gesamt,19/03/2020,431,Clientes efectos comerciales a cobrar,D,64659.98,
+Kreuzung,gesamt,19/03/2020,700,Ventas de mercaderías,H,53438.00,
+Kreuzung,gesamt,19/03/2020,477,H.P. IVA Repercutido,H,11221.98,
+Kreuzung,gesamt,13/11/2020,431,Clientes efectos comerciales a cobrar,D,48694.84,
+Kreuzung,gesamt,13/11/2020,700,Ventas de mercaderías,H,8451.17,
+Kreuzung,gesamt,13/11/2020,477,H.P. IVA Repercutido,H,40243.67,
+Kreuzung,gesamt,13/11/2020,440,Deudores,D,48694.84,
+Kreuzung,gesamt,13/11/2020,431,Clientes efectos comerciales a cobrar,D,-48694.84,
+Kreuzung,gesamt,26/04/2020,431,Clientes efectos comerciales a cobrar,D,107088.63,
+Kreuzung,gesamt,26/04/2020,700,Ventas de mercaderías,H,88503.00,
+Kreuzung,gesamt,26/04/2020,477,H.P. IVA Repercutido,H,18585.63,
+Kreuzung,gesamt,26/04/2020,440,Deudores,D,107088.63
+Kreuzung,gesamt,26/04/2020,431,Clientes efectos comerciales a cobrar,D,-107088.63
+Kreuzung,gesamt,26/05/2020,431,Clientes efectos comerciales a cobrar,D,113606.90
+Kreuzung,gesamt,26/05/2020,700,Ventas de mercaderías,H,93890.00
+Kreuzung,gesamt,26/05/2020,477,H.P. IVA Repercutido,H,19716.90
+Kreuzung,gesamt,26/05/2020,440,Deudores,D,113606.90
+Kreuzung,gesamt,26/05/2020,431,Clientes efectos comerciales a cobrar,D,-113606.90
+Kreuzung,gesamt,02/11/2020,431,Clientes efectos comerciales a cobrar,D,116439.51
+Kreuzung,gesamt,02/11/2020,700,Ventas de mercaderías,H,96231.00
+Kreuzung,gesamt,02/11/2020,477,H.P. IVA Repercutido,H,20208.51
+Kreuzung,gesamt,02/11/2020,440,Deudores,D,116439.51
+Kreuzung,gesamt,02/11/2020,431,Clientes efectos comerciales a cobrar,D,-116439.51
+Kreuzung,gesamt,17/06/2020,431,Clientes efectos comerciales a cobrar,D,99887.92
+Kreuzung,gesamt,17/06/2020,700,Ventas de mercaderías,H,82552.00
+Kreuzung,gesamt,17/06/2020,477,H.P. IVA Repercutido,H,17335.92
+Kreuzung,gesamt,17/06/2020,440,Deudores,D,99887.92
+Kreuzung,gesamt,17/06/2020,431,Clientes efectos comerciales a cobrar,D,-99887.92
+Kreuzung,gesamt,15/07/2020,431,Clientes efectos comerciales a cobrar,D,52021.53
+Kreuzung,gesamt,15/07/2020,700,Ventas de mercaderías,H,42993.00
+Kreuzung,gesamt,15/07/2020,477,H.P. IVA Repercutido,H,9028.53
+Kreuzung,gesamt,15/07/2020,440,Deudores,D,52021.53
+Kreuzung,gesamt,15/07/2020,431,Clientes efectos comerciales a cobrar,D,-52021.53
+Kreuzung,gesamt,04/11/2020,431,Clientes efectos comerciales a cobrar,D,118796.59
+Kreuzung,gesamt,04/11/2020,700,Ventas de mercaderías,H,98179.00
+Kreuzung,gesamt,04/11/2020,477,H.P. IVA Repercutido,H,20617.59
+Kreuzung,gesamt,04/11/2020,440,Deudores,D,118796.59
+Kreuzung,gesamt,04/11/2020,431,Clientes efectos comerciales a cobrar,D,-118796.59
+Kreuzung,gesamt,07/06/2020,431,Clientes efectos comerciales a cobrar,D,71024.58
+Kreuzung,gesamt,07/06/2020,700,Ventas de mercaderías,H,58698.00
+Kreuzung,gesamt,07/06/2020,477,H.P. IVA Repercutido,H,12326.58
+Kreuzung,gesamt,07/06/2020,440,Deudores,D,71024.58
+Kreuzung,gesamt,07/06/2020,431,Clientes efectos comerciales a cobrar,D,-71024.58
+Kreuzung,gesamt,14/05/2020,431,Clientes efectos comerciales a cobrar,D,125145.46
+Kreuzung,gesamt,14/05/2020,700,Ventas de mercaderías,H,103426.00
+Kreuzung,gesamt,14/05/2020,477,H.P. IVA Repercutido,H,21719.46
+Kreuzung,gesamt,14/05/2020,440,Deudores,D,125145.46
+Kreuzung,gesamt,14/05/2020,431,Clientes efectos comerciales a cobrar,D,-125145.46
+Kreuzung,gesamt,14/11/2020,431,Clientes efectos comerciales a cobrar,D,120662.41
+Kreuzung,gesamt,14/11/2020,700,Ventas de mercaderías,H,99721.00
+Kreuzung,gesamt,14/11/2020,477,H.P. IVA Repercutido,H,20941.41
+Kreuzung,gesamt,14/11/2020,440,Deudores,D,120662.41
+Kreuzung,gesamt,14/11/2020,431,Clientes efectos comerciales a cobrar,D,-120662.41
+Kreuzung,gesamt,16/12/2020,431,Clientes efectos comerciales a cobrar,D,123784.21
+Kreuzung,gesamt,16/12/2020,700,Ventas de mercaderías,H,102301.00
+Kreuzung,gesamt,16/12/2020,477,H.P. IVA Repercutido,H,21483.21
+Kreuzung,gesamt,16/12/2020,440,Deudores,D,123784.21
+Kreuzung,gesamt,16/12/2020,431,Clientes efectos comerciales a cobrar,D,-123784.21
+Kreuzung,gesamt,17/09/2020,431,Clientes efectos comerciales a cobrar,D,77447.26
+Kreuzung,gesamt,17/09/2020,700,Ventas de mercaderías,H,64006.00
+Kreuzung,gesamt,17/09/2020,477,H.P. IVA Repercutido,H,13441.26
+Kreuzung,gesamt,17/09/2020,440,Deudores,D,77447.26
+Kreuzung,gesamt,17/09/2020,431,Clientes efectos comerciales a cobrar,D,-77447.26
+Kreuzung,gesamt,01/09/2020,431,Clientes efectos comerciales a cobrar,D,77821.15
+Kreuzung,gesamt,01/09/2020,700,Ventas de mercaderías,H,64315.00
+Kreuzung,gesamt,01/09/2020,477,H.P. IVA Repercutido,H,13506.15
+Kreuzung,gesamt,01/09/2020,440,Deudores,D,77821.15
+Kreuzung,gesamt,01/09/2020,431,Clientes efectos comerciales a cobrar,D,-77821.15
+Kreuzung,gesamt,26/12/2020,431,Clientes efectos comerciales a cobrar,D,52778.99
+Kreuzung,gesamt,26/12/2020,700,Ventas de mercaderías,H,43619.00
+Kreuzung,gesamt,26/12/2020,477,H.P. IVA Repercutido,H,9159.99
+Kreuzung,gesamt,26/12/2020,440,Deudores,D,52778.99
+Kreuzung,gesamt,26/12/2020,431,Clientes efectos comerciales a cobrar,D,-52778.99
+Kreuzung,gesamt,24/02/2020,431,Clientes efectos comerciales a cobrar,D,106968.84
+Kreuzung,gesamt,24/02/2020,700,Ventas de mercaderías,H,88404.00
+Kreuzung,gesamt,24/02/2020,477,H.P. IVA Repercutido,H,18564.84
+Kreuzung,gesamt,24/02/2020,440,Deudores,D,106968.84
+Kreuzung,gesamt,24/02/2020,431,Clientes efectos comerciales a cobrar,D,-106968.84
+Kreuzung,gesamt,09/01/2020,431,Clientes efectos comerciales a cobrar,D,98850.95
+Kreuzung,gesamt,09/01/2020,700,Ventas de mercaderías,H,81695.00
+Kreuzung,gesamt,09/01/2020,477,H.P. IVA Repercutido,H,17155.95
+Kreuzung,gesamt,09/01/2020,440,Deudores,D,98850.95
+Kreuzung,gesamt,09/01/2020,431,Clientes efectos comerciales a cobrar,D,-98850.95
+Kreuzung,gesamt,12/03/2020,431,Clientes efectos comerciales a cobrar,D,115968.82
+Kreuzung,gesamt,12/03/2020,700,Ventas de mercaderías,H,95842.00
+Kreuzung,gesamt,12/03/2020,477,H.P. IVA Repercutido,H,20126.82
+Kreuzung,gesamt,12/03/2020,440,Deudores,D,115968.82
+Kreuzung,gesamt,12/03/2020,431,Clientes efectos comerciales a cobrar,D,-115968.82
+Kreuzung,gesamt,07/05/2020,431,Clientes efectos comerciales a cobrar,D,44421.52
+Kreuzung,gesamt,07/05/2020,700,Ventas de mercaderías,H,36712.00
+Kreuzung,gesamt,07/05/2020,477,H.P. IVA Repercutido,H,7709.52
+Kreuzung,gesamt,07/05/2020,440,Deudores,D,44421.52
+Kreuzung,gesamt,07/05/2020,431,Clientes efectos comerciales a cobrar,D,-44421.52
+Kreuzung,gesamt,08/05/2020,431,Clientes efectos comerciales a cobrar,D,86279.05
+Kreuzung,gesamt,08/05/2020,700,Ventas de mercaderías,H,71305.00
+Kreuzung,gesamt,08/05/2020,477,H.P. IVA Repercutido,H,14974.05
+Kreuzung,gesamt,08/05/2020,440,Deudores,D,86279.05
+Kreuzung,gesamt,08/05/2020,431,Clientes efectos comerciales a cobrar,D,-86279.05
+Kreuzung,gesamt,06/11/2020,431,Clientes efectos comerciales a cobrar,D,97943.45
+Kreuzung,gesamt,06/11/2020,700,Ventas de mercaderías,H,80945.00
+Kreuzung,gesamt,06/11/2020,477,H.P. IVA Repercutido,H,16998.45
+Kreuzung,gesamt,06/11/2020,440,Deudores,D,97943.45
+Kreuzung,gesamt,06/11/2020,431,Clientes efectos comerciales a cobrar,D,-97943.45
+Kreuzung,gesamt,11/05/2020,431,Clientes efectos comerciales a cobrar,D,109651.41
+Kreuzung,gesamt,11/05/2020,700,Ventas de mercaderías,H,90621.00
+Kreuzung,gesamt,11/05/2020,477,H.P. IVA Repercutido,H,19030.41
+Kreuzung,gesamt,11/05/2020,440,Deudores,D,109651.41
+Kreuzung,gesamt,11/05/2020,431,Clientes efectos comerciales a cobrar,D,-109651.41
+Kreuzung,gesamt,10/02/2020,431,Clientes efectos comerciales a cobrar,D,88558.69
+Kreuzung,gesamt,10/02/2020,700,Ventas de mercaderías,H,73189.00
+Kreuzung,gesamt,10/02/2020,477,H.P. IVA Repercutido,H,15369.69
+Kreuzung,gesamt,10/02/2020,440,Deudores,D,88558.69
+Kreuzung,gesamt,10/02/2020,431,Clientes efectos comerciales a cobrar,D,-88558.69
+Kreuzung,gesamt,17/04/2020,431,Clientes efectos comerciales a cobrar,D,68844.16
+Kreuzung,gesamt,17/04/2020,700,Ventas de mercaderías,H,56896.00
+Kreuzung,gesamt,17/04/2020,477,H.P. IVA Repercutido,H,11948.16
+Kreuzung,gesamt,17/04/2020,440,Deudores,D,68844.16
+Kreuzung,gesamt,17/04/2020,431,Clientes efectos comerciales a cobrar,D,-68844.16
+Kreuzung,gesamt,11/09/2020,431,Clientes efectos comerciales a cobrar,D,64557.13
+Kreuzung,gesamt,11/09/2020,700,Ventas de mercaderías,H,53353.00
+Kreuzung,gesamt,11/09/2020,477,H.P. IVA Repercutido,H,11204.13
+Kreuzung,gesamt,11/09/2020,440,Deudores,D,64557.13
+Kreuzung,gesamt,11/09/2020,431,Clientes efectos comerciales a cobrar,D,-64557.13
+Kreuzung,gesamt,08/05/2020,431,Clientes efectos comerciales a cobrar,D,52756.00
+Kreuzung,gesamt,08/05/2020,700,Ventas de mercaderías,H,43600.00
+Kreuzung,gesamt,08/05/2020,477,H.P. IVA Repercutido,H,9156.00
+Kreuzung,gesamt,08/05/2020,440,Deudores,D,52756.00
+Kreuzung,gesamt,08/05/2020,431,Clientes efectos comerciales a cobrar,D,-52756.00
+Kreuzung,gesamt,11/06/2020,570,Caja €,D,191842.33
+Kreuzung,gesamt,11/06/2020,700,Ventas de mercaderías,H,17221.00
+Kreuzung,gesamt,11/06/2020,477,H.P. IVA Repercutido,H,3616.41
+Kreuzung,gesamt,04/06/2020,570,Caja €,D,21271.80
+Kreuzung,gesamt,04/06/2020,700,Ventas de mercaderías,H,17580.00
+Kreuzung,gesamt,04/06/2020,477,H.P. IVA Repercutido,H,3691.80
+Kreuzung,gesamt,05/07/2020,570,Caja €,D,25929.09
+Kreuzung,gesamt,05/07/2020,700,Ventas de mercaderías,H,21429.00
+Kreuzung,gesamt,05/07/2020,477,H.P. IVA Repercutido,H,4500.09
+Kreuzung,gesamt,07/10/2020,570,Caja €,D,23071.07
+Kreuzung,gesamt,07/10/2020,700,Ventas de mercaderías,H,19067.00
+Kreuzung,gesamt,07/10/2020,477,H.P. IVA Repercutido,H,4004.07
+Kreuzung,gesamt,03/06/2020,570,Caja €,D,14455.87
+Kreuzung,gesamt,03/06/2020,700,Ventas de mercaderías,H,11947.00
+Kreuzung,gesamt,03/06/2020,477,H.P. IVA Repercutido,H,2508.87
+Kreuzung,gesamt,01/07/2020,570,Caja €,D,18016.90
+Kreuzung,gesamt,01/07/2020,700,Ventas de mercaderías,H,14890.00
+Kreuzung,gesamt,01/07/2020,477,H.P. IVA Repercutido,H,3126.90
+Kreuzung,gesamt,16/09/2020,570,Caja €,D,18078.61
+Kreuzung,gesamt,16/09/2020,700,Ventas de mercaderías,H,14941.00
+Kreuzung,gesamt,16/09/2020,477,H.P. IVA Repercutido,H,3137.61
+Kreuzung,gesamt,22/05/2020,570,Caja €,D,19788.34
+Kreuzung,gesamt,22/05/2020,700,Ventas de mercaderías,H,16354.00
+Kreuzung,gesamt,22/05/2020,477,H.P. IVA Repercutido,H,3434.34
+Kreuzung,gesamt,23/10/2020,570,Caja €,D,22739.53
+Kreuzung,gesamt,23/10/2020,700,Ventas de mercaderías,H,18793.00
+Kreuzung,gesamt,23/10/2020,477,H.P. IVA Repercutido,H,3946.53
+Kreuzung,gesamt,07/03/2020,570,Caja €,D,11618.42
+Kreuzung,gesamt,07/03/2020,700,Ventas de mercaderías,H,9602.00
+Kreuzung,gesamt,07/03/2020,477,H.P. IVA Repercutido,H,2016.42
+Kreuzung,gesamt,04/12/2020,570,Caja €,D,20211.84
+Kreuzung,gesamt,04/12/2020,700,Ventas de mercaderías,H,16704.00
+Kreuzung,gesamt,04/12/2020,477,H.P. IVA Repercutido,H,3507.84
+Kreuzung,gesamt,04/09/2020,431,Clientes efectos comerciales a cobrar,D,77415.80
+Kreuzung,gesamt,04/09/2020,700,Ventas de mercaderías,H,63980.00
+Kreuzung,gesamt,04/09/2020,477,H.P. IVA Repercutido,H,13435.80
+Kreuzung,gesamt,04/09/2020,572,Bancos c/c,D,77415.80
+Kreuzung,gesamt,04/09/2020,431,Clientes efectos comerciales a cobrar,D,-77415.80
+Kreuzung,gesamt,07/08/2020,431,Clientes efectos comerciales a cobrar,D,95887.66
+Kreuzung,gesamt,07/08/2020,700,Ventas de mercaderías,H,79246.00
+Kreuzung,gesamt,07/08/2020,477,H.P. IVA Repercutido,H,16641.66
+Kreuzung,gesamt,07/08/2020,572,Bancos c/c,D,95887.66
+Kreuzung,gesamt,07/08/2020,431,Clientes efectos comerciales a cobrar,D,-95887.66
+Kreuzung,gesamt,21/04/2020,431,Clientes efectos comerciales a cobrar,D,70578.09
+Kreuzung,gesamt,21/04/2020,700,Ventas de mercaderías,H,58329.00
+Kreuzung,gesamt,21/04/2020,477,H.P. IVA Repercutido,H,12249.09
+Kreuzung,gesamt,21/04/2020,572,Bancos c/c,D,70578.09
+Kreuzung,gesamt,21/04/2020,431,Clientes efectos comerciales a cobrar,D,-70578.09
+Kreuzung,gesamt,19/11/2020,431,Clientes efectos comerciales a cobrar,D,88729.30
+Kreuzung,gesamt,19/11/2020,700,Ventas de mercaderías,H,73330.00
+Kreuzung,gesamt,19/11/2020,477,H.P. IVA Repercutido,H,15399.30
+Kreuzung,gesamt,19/11/2020,572,Bancos c/c,D,88729.30
+Kreuzung,gesamt,19/11/2020,431,Clientes efectos comerciales a cobrar,D,-88729.30
+Kreuzung,gesamt,06/06/2020,431,Clientes efectos comerciales a cobrar,D,63472.97
+Kreuzung,gesamt,06/06/2020,700,Ventas de mercaderías,H,52457.00
+Kreuzung,gesamt,06/06/2020,477,H.P. IVA Repercutido,H,11015.97
+Kreuzung,gesamt,06/06/2020,572,Bancos c/c,D,63472.97
+Kreuzung,gesamt,06/06/2020,431,Clientes efectos comerciales a cobrar,D,-63472.97
+Kreuzung,gesamt,02/08/2020,431,Clientes efectos comerciales a cobrar,D,57075.70
+Kreuzung,gesamt,02/08/2020,700,Ventas de mercaderías,H,47170.00
+Kreuzung,gesamt,02/08/2020,477,H.P. IVA Repercutido,H,9905.70
+Kreuzung,gesamt,02/08/2020,572,Bancos c/c,D,57075.70
+Kreuzung,gesamt,02/08/2020,431,Clientes efectos comerciales a cobrar,D,-57075.70
+Kreuzung,gesamt,01/08/2020,431,Clientes efectos comerciales a cobrar,D,92170.54
+Kreuzung,gesamt,01/08/2020,700,Ventas de mercaderías,H,76174.00
+Kreuzung,gesamt,01/08/2020,477,H.P. IVA Repercutido,H,15996.54
+Kreuzung,gesamt,01/08/2020,572,Bancos c/c,D,92170.54
+Kreuzung,gesamt,01/08/2020,431,Clientes efectos comerciales a cobrar,D,-92170.54
+Kreuzung,gesamt,04/09/2020,431,Clientes efectos comerciales a cobrar,D,85750.28
+Kreuzung,gesamt,04/09/2020,700,Ventas de mercaderías,H,70868.00
+Kreuzung,gesamt,04/09/2020,477,H.P. IVA Repercutido,H,14882.28
+Kreuzung,gesamt,04/09/2020,572,Bancos c/c,D,85750.28
+Kreuzung,gesamt,04/09/2020,431,Clientes efectos comerciales a cobrar,D,-85750.28
+Kreuzung,gesamt,17/08/2020,431,Clientes efectos comerciales a cobrar,D,90249.06
+Kreuzung,gesamt,17/08/2020,700,Ventas de mercaderías,H,74586.00
+Kreuzung,gesamt,17/08/2020,477,H.P. IVA Repercutido,H,15663.06
+Kreuzung,gesamt,17/08/2020,572,Bancos c/c,D,90249.06
+Kreuzung,gesamt,17/08/2020,431,Clientes efectos comerciales a cobrar,D,-90249.06
+Kreuzung,gesamt,14/01/2020,431,Clientes efectos comerciales a cobrar,D,45655.72
+Kreuzung,gesamt,14/01/2020,700,Ventas de mercaderías,H,37732.00
+Kreuzung,gesamt,14/01/2020,477,H.P. IVA Repercutido,H,7923.72
+Kreuzung,gesamt,14/01/2020,572,Bancos c/c,D,45655.72
+Kreuzung,gesamt,14/01/2020,431,Clientes efectos comerciales a cobrar,D,-45655.72
+Kreuzung,gesamt,17/05/2020,431,Clientes efectos comerciales a cobrar,D,46408.34
+Kreuzung,gesamt,17/05/2020,700,Ventas de mercaderías,H,38354.00
+Kreuzung,gesamt,17/05/2020,477,H.P. IVA Repercutido,H,8054.34
+Kreuzung,gesamt,17/05/2020,572,Bancos c/c,D,46408.34
+Kreuzung,gesamt,17/05/2020,431,Clientes efectos comerciales a cobrar,D,-46408.34
+Kreuzung,gesamt,28/08/2020,431,Clientes efectos comerciales a cobrar,D,85677.68
+Kreuzung,gesamt,28/08/2020,700,Ventas de mercaderías,H,70808.00
+Kreuzung,gesamt,28/08/2020,477,H.P. IVA Repercutido,H,14869.68
+Kreuzung,gesamt,28/08/2020,572,Bancos c/c,D,85677.68
+Kreuzung,gesamt,28/08/2020,431,Clientes efectos comerciales a cobrar,D,-85677.68
+Kreuzung,gesamt,27/05/2020,431,Clientes efectos comerciales a cobrar,D,82640.58
+Kreuzung,gesamt,27/05/2020,700,Ventas de mercaderías,H,68298.00
+Kreuzung,gesamt,27/05/2020,477,H.P. IVA Repercutido,H,14342.58
+Kreuzung,gesamt,27/05/2020,572,Bancos c/c,D,82640.58
+Kreuzung,gesamt,27/05/2020,431,Clientes efectos comerciales a cobrar,D,-82640.58
+Kreuzung,gesamt,08/05/2020,431,Clientes efectos comerciales a cobrar,D,99843.15
+Kreuzung,gesamt,08/05/2020,700,Ventas de mercaderías,H,82515.00
+Kreuzung,gesamt,08/05/2020,477,H.P. IVA Repercutido,H,17328.15
+Kreuzung,gesamt,08/05/2020,572,Bancos c/c,D,99843.15
+Kreuzung,gesamt,08/05/2020,431,Clientes efectos comerciales a cobrar,D,-99843.15
+Kreuzung,gesamt,20/03/2020,431,Clientes efectos comerciales a cobrar,D,103410.23
+Kreuzung,gesamt,20/03/2020,700,Ventas de mercaderías,H,85463.00
+Kreuzung,gesamt,20/03/2020,477,H.P. IVA Repercutido,H,17947.23
+Kreuzung,gesamt,20/03/2020,572,Bancos c/c,D,103410.23
+Kreuzung,gesamt,20/03/2020,431,Clientes efectos comerciales a cobrar,D,-103410.23
+Kreuzung,gesamt,08/04/2020,431,Clientes efectos comerciales a cobrar,D,68074.60
+Kreuzung,gesamt,08/04/2020,700,Ventas de mercaderías,H,56260.00
+Kreuzung,gesamt,08/04/2020,477,H.P. IVA Repercutido,H,11814.60
+Kreuzung,gesamt,08/04/2020,572,Bancos c/c,D,68074.60
+Kreuzung,gesamt,08/04/2020,431,Clientes efectos comerciales a cobrar,D,-68074.60
+Kreuzung,gesamt,10/02/2020,431,Clientes efectos comerciales a cobrar,D,97052.89
+Kreuzung,gesamt,10/02/2020,700,Ventas de mercaderías,H,80209.00
+Kreuzung,gesamt,10/02/2020,477,H.P. IVA Repercutido,H,16843.89
+Kreuzung,gesamt,10/02/2020,572,Bancos c/c,D,97052.89
+Kreuzung,gesamt,10/02/2020,431,Clientes efectos comerciales a cobrar,D,-97052.89
+Kreuzung,gesamt,21/03/2020,431,Clientes efectos comerciales a cobrar,D,59501.75
+Kreuzung,gesamt,21/03/2020,700,Ventas de mercaderías,H,49175.00
+Kreuzung,gesamt,21/03/2020,477,H.P. IVA Repercutido,H,10326.75
+Kreuzung,gesamt,21/03/2020,572,Bancos c/c,D,59501.75
+Kreuzung,gesamt,21/03/2020,431,Clientes efectos comerciales a cobrar,D,-59501.75
+Kreuzung,gesamt,01/08/2020,431,Clientes efectos comerciales a cobrar,D,59603.39
+Kreuzung,gesamt,01/08/2020,700,Ventas de mercaderías,H,49259.00
+Kreuzung,gesamt,01/08/2020,477,H.P. IVA Repercutido,H,10344.39
+Kreuzung,gesamt,01/08/2020,572,Bancos c/c,D,59603.39
+Kreuzung,gesamt,01/08/2020,431,Clientes efectos comerciales a cobrar,D,-59603.39
+Kreuzung,gesamt,18/09/2020,431,Clientes efectos comerciales a cobrar,D,55657.58
+Kreuzung,gesamt,18/09/2020,700,Ventas de mercaderías,H,45998.00
+Kreuzung,gesamt,18/09/2020,477,H.P. IVA Repercutido,H,9659.58
+Kreuzung,gesamt,18/09/2020,572,Bancos c/c,D,55657.58
+Kreuzung,gesamt,18/09/2020,431,Clientes efectos comerciales a cobrar,D,-55657.58
+Kreuzung,gesamt,04/11/2020,431,Clientes efectos comerciales a cobrar,D,65165.76
+Kreuzung,gesamt,04/11/2020,700,Ventas de mercaderías,H,53856.00
+Kreuzung,gesamt,04/11/2020,477,H.P. IVA Repercutido,H,11309.76
+Kreuzung,gesamt,04/11/2020,572,Bancos c/c,D,65165.76
+Kreuzung,gesamt,04/11/2020,431,Clientes efectos comerciales a cobrar,D,-65165.76
+Kreuzung,gesamt,11/07/2020,431,Clientes efectos comerciales a cobrar,D,81998.07
+Kreuzung,gesamt,11/07/2020,700,Ventas de mercaderías,H,67767.00
+Kreuzung,gesamt,11/07/2020,477,H.P. IVA Repercutido,H,14231.07
+Kreuzung,gesamt,11/07/2020,572,Bancos c/c,D,81998.07
+Kreuzung,gesamt,11/07/2020,431,Clientes efectos comerciales a cobrar,D,-81998.07
+Kreuzung,gesamt,11/06/2020,431,Clientes efectos comerciales a cobrar,D,95337.11
+Kreuzung,gesamt,11/06/2020,700,Ventas de mercaderías,H,78791.00
+Kreuzung,gesamt,11/06/2020,477,H.P. IVA Repercutido,H,16546.11
+Kreuzung,gesamt,11/06/2020,572,Bancos c/c,D,95337.11
+Kreuzung,gesamt,11/06/2020,431,Clientes efectos comerciales a cobrar,D,-95337.11
+Kreuzung,gesamt,09/03/2020,601,Compras de materias primas,D,1916962.81
+Kreuzung,gesamt,09/03/2020,472,H.P. IVA Soportado,D,402562.19
+Kreuzung,gesamt,09/03/2020,400,Proveedores,H,2319525.00
+Kreuzung,gesamt,03/07/2020,601,Compras de materias primas,D,499795.87
+Kreuzung,gesamt,03/07/2020,472,H.P. IVA Soportado,D,104957.13
+Kreuzung,gesamt,03/07/2020,400,Proveedores,H,604753.00
+Kreuzung,gesamt,07/05/2020,601,Compras de materias primas,D,594865.29
+Kreuzung,gesamt,07/05/2020,472,H.P. IVA Soportado,D,124921.71
+Kreuzung,gesamt,07/05/2020,400,Proveedores,H,719787.00
+Kreuzung,gesamt,16/09/2020,601,Compras de materias primas,D,395752.07
+Kreuzung,gesamt,16/09/2020,472,H.P. IVA Soportado,D,83107.93
+Kreuzung,gesamt,16/09/2020,400,Proveedores,H,478860.00
+Kreuzung,gesamt,12/03/2020,601,Compras de materias primas,D,241738.02
+Kreuzung,gesamt,12/03/2020,472,H.P. IVA Soportado,D,50764.98
+Kreuzung,gesamt,12/03/2020,400,Proveedores,H,292503.00
+Kreuzung,gesamt,21/02/2020,601,Compras de materias primas,D,525440.50
+Kreuzung,gesamt,21/02/2020,472,H.P. IVA Soportado,D,110342.50
+Kreuzung,gesamt,21/02/2020,400,Proveedores,H,635783.00
+Kreuzung,gesamt,10/09/2020,601,Compras de materias primas,D,369951.24
+Kreuzung,gesamt,10/09/2020,472,H.P. IVA Soportado,D,77689.76
+Kreuzung,gesamt,10/09/2020,400,Proveedores,H,447641.00
+Kreuzung,gesamt,12/02/2020,601,Compras de materias primas,D,261108.26
+Kreuzung,gesamt,12/02/2020,472,H.P. IVA Soportado,D,54832.74
+Kreuzung,gesamt,12/02/2020,400,Proveedores,H,315941.00
+Kreuzung,gesamt,27/08/2020,601,Compras de materias primas,D,216838.84
+Kreuzung,gesamt,27/08/2020,472,H.P. IVA Soportado,D,45536.16
+Kreuzung,gesamt,27/08/2020,400,Proveedores,H,262375.00
+Kreuzung,gesamt,13/03/2020,601,Compras de materias primas,D,629286.78
+Kreuzung,gesamt,13/03/2020,472,H.P. IVA Soportado,D,132150.22
+Kreuzung,gesamt,13/03/2020,400,Proveedores,H,761437.00
+Kreuzung,gesamt,21/02/2020,601,Compras de materias primas,D,580811.57
+Kreuzung,gesamt,21/02/2020,472,H.P. IVA Soportado,D,121970.43
+Kreuzung,gesamt,21/02/2020,400,Proveedores,H,702782.00
+Kreuzung,gesamt,18/05/2020,601,Compras de materias primas,D,271830.58
+Kreuzung,gesamt,18/05/2020,472,H.P. IVA Soportado,D,57084.42
+Kreuzung,gesamt,18/05/2020,400,Proveedores,H,328915.00
+Kreuzung,gesamt,10/05/2020,601,Compras de materias primas,D,225430.58
+Kreuzung,gesamt,10/05/2020,472,H.P. IVA Soportado,D,47340.42
+Kreuzung,gesamt,10/05/2020,400,Proveedores,H,272771.00
+Kreuzung,gesamt,04/01/2020,601,Compras de materias primas,D,566885.95
+Kreuzung,gesamt,04/01/2020,472,H.P. IVA Soportado,D,119046.05
+Kreuzung,gesamt,04/01/2020,400,Proveedores,H,685932.00
+Kreuzung,gesamt,17/03/2020,601,Compras de materias primas,D,567916.53
+Kreuzung,gesamt,17/03/2020,472,H.P. IVA Soportado,D,119262.47
+Kreuzung,gesamt,17/03/2020,400,Proveedores,H,687179.00
+Kreuzung,gesamt,12/11/2020,601,Compras de materias primas,D,447822.31
+Kreuzung,gesamt,12/11/2020,472,H.P. IVA Soportado,D,94042.69
+Kreuzung,gesamt,12/11/2020,400,Proveedores,H,541865.00
+Kreuzung,gesamt,27/07/2020,601,Compras de materias primas,D,377842.98
+Kreuzung,gesamt,27/07/2020,472,H.P. IVA Soportado,D,79347.02
+Kreuzung,gesamt,27/07/2020,400,Proveedores,H,457190.00
+Kreuzung,gesamt,14/06/2020,601,Compras de materias primas,D,472018.18
+Kreuzung,gesamt,14/06/2020,472,H.P. IVA Soportado,D,99123.82
+Kreuzung,gesamt,14/06/2020,400,Proveedores,H,571142.00
+Kreuzung,gesamt,25/07/2020,601,Compras de materias primas,D,343817.36
+Kreuzung,gesamt,25/07/2020,472,H.P. IVA Soportado,D,72201.64
+Kreuzung,gesamt,25/07/2020,400,Proveedores,H,416019.00
+Kreuzung,gesamt,18/08/2020,601,Compras de materias primas,D,246391.74
+Kreuzung,gesamt,18/08/2020,472,H.P. IVA Soportado,D,51742.26
+Kreuzung,gesamt,18/08/2020,400,Proveedores,H,298134.00
+Kreuzung,gesamt,23/08/2020,601,Compras de materias primas,D,601325.62
+Kreuzung,gesamt,23/08/2020,472,H.P. IVA Soportado,D,126278.38
+Kreuzung,gesamt,23/08/2020,400,Proveedores,H,727604.00
+Kreuzung,gesamt,26/11/2020,601,Compras de materias primas,D,212933.06
+Kreuzung,gesamt,26/11/2020,472,H.P. IVA Soportado,D,44715.94
+Kreuzung,gesamt,26/11/2020,400,Proveedores,H,257649.00
+Kreuzung,gesamt,18/10/2020,601,Compras de materias primas,D,258374.38
+Kreuzung,gesamt,18/10/2020,472,H.P. IVA Soportado,D,54258.62
+Kreuzung,gesamt,18/10/2020,400,Proveedores,H,312633.00
+Kreuzung,gesamt,18/08/2020,601,Compras de materias primas,D,510396.69
+Kreuzung,gesamt,18/08/2020,472,H.P. IVA Soportado,D,107183.31
+Kreuzung,gesamt,18/08/2020,400,Proveedores,H,617580.00
+Kreuzung,gesamt,10/05/2020,622,Reparaciones y conservación,D,242862.50
+Kreuzung,gesamt,10/05/2020,472,HP IVA Soportado,D,51001.13
+Kreuzung,gesamt,10/05/2020,410,Acreedores por prestación de servicios,H,293863.63
+Kreuzung,gesamt,05/02/2020,622,Reparaciones y conservación,D,242862.50
+Kreuzung,gesamt,05/02/2020,472,HP IVA Soportado,D,51001.13
+Kreuzung,gesamt,05/02/2020,410,Acreedores por prestación de servicios,H,293863.63
+Kreuzung,gesamt,18/09/2020,623,Servicios de profesionales independientes,D,136802.50
+Kreuzung,gesamt,18/09/2020,472,HP IVA Soportado,D,28728.53
+Kreuzung,gesamt,18/09/2020,410,Acreedores por prestación de servicios,H,165531.03
+Kreuzung,gesamt,10/06/2020,623,Servicios de profesionales independientes,D,136802.50
+Kreuzung,gesamt,10/06/2020,472,HP IVA Soportado,D,28728.53
+Kreuzung,gesamt,10/06/2020,410,Acreedores por prestación de servicios,H,165531.03
+Kreuzung,gesamt,05/08/2020,623,Servicios de profesionales independientes,D,136802.50
+Kreuzung,gesamt,05/08/2020,472,HP IVA Soportado,D,28728.53
+Kreuzung,gesamt,05/08/2020,410,Acreedores por prestación de servicios,H,165531.03
+Kreuzung,gesamt,18/12/2020,623,Servicios de profesionales independientes,D,136802.50
+Kreuzung,gesamt,18/12/2020,472,HP IVA Soportado,D,28728.53
+Kreuzung,gesamt,18/12/2020,410,Acreedores por prestación de servicios,H,165531.03
+Kreuzung,gesamt,10/01/2020,628,Suministros,D,9640.83
+Kreuzung,gesamt,10/01/2020,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,10/01/2020,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,22/10/2020,628,Suministros,D,9640.83
+Kreuzung,gesamt,22/10/2020,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,22/10/2020,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,14/02/2020,628,Suministros,D,9640.83
+Kreuzung,gesamt,14/02/2020,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,14/02/2020,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,04/06/2020,628,Suministros,D,9640.83
+Kreuzung,gesamt,04/06/2020,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,04/06/2020,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,25/08/2020,628,Suministros,D,9640.83
+Kreuzung,gesamt,25/08/2020,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,25/08/2020,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,25/08/2020,628,Suministros,D,9640.83
+Kreuzung,gesamt,25/08/2020,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,25/08/2020,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,05/04/2020,628,Suministros,D,9640.83
+Kreuzung,gesamt,05/04/2020,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,05/04/2020,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,25/11/2020,628,Suministros,D,9640.83
+Kreuzung,gesamt,25/11/2020,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,25/11/2020,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,16/04/2020,628,Suministros,D,9640.83
+Kreuzung,gesamt,16/04/2020,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,16/04/2020,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,22/01/2020,628,Suministros,D,9640.83
+Kreuzung,gesamt,22/01/2020,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,22/01/2020,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,12/09/2020,628,Suministros,D,9640.83
+Kreuzung,gesamt,12/09/2020,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,12/09/2020,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,26/11/2020,628,Suministros,D,9640.83
+Kreuzung,gesamt,26/11/2020,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,26/11/2020,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,13/10/2020,629,Otros servicios,D,504267.56
+Kreuzung,gesamt,13/10/2020,472,HP IVA Soportado,D,105896.19
+Kreuzung,gesamt,13/10/2020,410,Acreedores por prestación de servicios,H,610163.75
+Kreuzung,gesamt,19/04/2020,601,Compras de materias primas,D,537963.64
+Kreuzung,gesamt,19/04/2020,472,H.P. IVA Soportado,D,112972.36
+Kreuzung,gesamt,19/04/2020,400,Proveedores,H,650936.00
+Kreuzung,gesamt,19/04/2020,520,Deudas a c/p,H,650936.00
+Kreuzung,gesamt,19/04/2020,400,Proveedores,H,-650936.00
+Kreuzung,gesamt,02/10/2020,601,Compras de materias primas,D,474599.17
+Kreuzung,gesamt,02/10/2020,472,H.P. IVA Soportado,D,99665.83
+Kreuzung,gesamt,02/10/2020,400,Proveedores,H,574265.00
+Kreuzung,gesamt,02/10/2020,520,Deudas a c/p,H,574265.00
+Kreuzung,gesamt,02/10/2020,400,Proveedores,H,-574265.00
+Kreuzung,gesamt,17/09/2020,601,Compras de materias primas,D,553066.94
+Kreuzung,gesamt,17/09/2020,472,H.P. IVA Soportado,D,116144.06
+Kreuzung,gesamt,17/09/2020,400,Proveedores,H,669211.00
+Kreuzung,gesamt,17/09/2020,520,Deudas a c/p,H,669211.00
+Kreuzung,gesamt,17/09/2020,400,Proveedores,H,-669211.00
+Kreuzung,gesamt,27/11/2020,601,Compras de materias primas,D,470638.02
+Kreuzung,gesamt,27/11/2020,472,H.P. IVA Soportado,D,98833.98
+Kreuzung,gesamt,27/11/2020,400,Proveedores,H,569472.00
+Kreuzung,gesamt,27/11/2020,520,Deudas a c/p,H,569472.00
+Kreuzung,gesamt,27/11/2020,400,Proveedores,H,-569472.00
+Kreuzung,gesamt,10/04/2020,601,Compras de materias primas,D,503945.45
+Kreuzung,gesamt,10/04/2020,472,H.P. IVA Soportado,D,105828.55
+Kreuzung,gesamt,10/04/2020,400,Proveedores,H,609774.00
+Kreuzung,gesamt,10/04/2020,520,Deudas a c/p,H,609774.00
+Kreuzung,gesamt,10/04/2020,400,Proveedores,H,-609774.00
+Kreuzung,gesamt,12/07/2020,601,Compras de materias primas,D,342126.45
+Kreuzung,gesamt,12/07/2020,472,H.P. IVA Soportado,D,71846.55
+Kreuzung,gesamt,12/07/2020,400,Proveedores,H,413973.00
+Kreuzung,gesamt,12/07/2020,520,Deudas a c/p,H,413973.00
+Kreuzung,gesamt,12/07/2020,400,Proveedores,H,-413973.00
+Kreuzung,gesamt,14/11/2020,601,Compras de materias primas,D,494710.74
+Kreuzung,gesamt,14/11/2020,472,H.P. IVA Soportado,D,103889.26
+Kreuzung,gesamt,14/11/2020,400,Proveedores,H,598600.00
+Kreuzung,gesamt,14/11/2020,520,Deudas a c/p,H,598600.00
+Kreuzung,gesamt,14/11/2020,400,Proveedores,H,-598600.00
+Kreuzung,gesamt,27/06/2020,601,Compras de materias primas,D,361423.97
+Kreuzung,gesamt,27/06/2020,472,H.P. IVA Soportado,D,75899.03
+Kreuzung,gesamt,27/06/2020,400,Proveedores,H,437323.00
+Kreuzung,gesamt,27/06/2020,520,Deudas a c/p,H,437323.00,
+Kreuzung,gesamt,27/06/2020,400,Proveedores,H,-437323.00,
+Kreuzung,gesamt,17/04/2020,601,Compras de materias primas,D,558384.30,
+Kreuzung,gesamt,17/04/2020,472,H.P. IVA Soportado,D,117260.70,
+Kreuzung,gesamt,17/04/2020,400,Proveedores,H,675645.00,
+Kreuzung,gesamt,17/04/2020,520,Deudas a c/p,H,675645.00,
+Kreuzung,gesamt,17/04/2020,400,Proveedores,H,-675645.00,
+Kreuzung,gesamt,31/12/2020,472,H.P. IVA Soportado,D,-5114423.67,Liquidacion IVA
+Kreuzung,gesamt,31/12/2020,477,H.P. IVA Repercutido,H,-4241403.11,Liquidacion IVA
+Kreuzung,gesamt,31/12/2020,470,H.P. IVA deudora por IVA,D,873020.56,cierre
+Kreuzung,gesamt,31/12/2020,475,H.P. acreedora por conceptos fiscales,H,-873020.56,cierre
+Kreuzung,gesamt,31/12/2020,310,Materias primas,D,1272000.00,cierre
+Kreuzung,gesamt,31/12/2020,330,Productos en curso,D,2520000.00,cierre
+Kreuzung,gesamt,31/12/2020,350,Productos terminados,D,1104000.00,cierre
+Kreuzung,gesamt,31/12/2020,170,Deudas a l/p entidades de crédito,H,4000000.00,cierre
+Kreuzung,gesamt,31/12/2020,171,Deudas a l/p,H,3440000.00,cierre
+Kreuzung,gesamt,31/12/2020,129,Resultado del ejercicio,H,400000.00,cierre
+Kreuzung,gesamt,01/01/2021,100,Capital social,H,3200000.00,apertura
+Kreuzung,gesamt,01/01/2021,112,Reserva legal,H,640000.00,apertura
+Kreuzung,gesamt,01/01/2021,113,Reservas voluntarias,H,4240000.00,apertura
+Kreuzung,gesamt,01/01/2021,203,Propiedad industrial,D,1600000.00,apertura
+Kreuzung,gesamt,01/01/2021,210,Terrenos y bienes naturales,D,1552000.00,apertura
+Kreuzung,gesamt,01/01/2021,211,Construcciones,D,3200000.00,apertura
+Kreuzung,gesamt,01/01/2021,213,Maquinaria,D,2234000.00,apertura
+Kreuzung,gesamt,01/01/2021,216,Mobiliario,D,134000.00,apertura
+Kreuzung,gesamt,01/01/2021,218,Elementos de transporte,D,380000.00,apertura
+Kreuzung,gesamt,01/01/2021,250,Inversiones financieras l/p instrum. Patr.,D,416000.00,apertura
+Kreuzung,gesamt,01/01/2021,572,Bancos c/c,D,1680000.00,apertura
+Kreuzung,gesamt,01/01/2021,520,Deudas a c/p,H,801.00,apertura
+Kreuzung,gesamt,01/01/2021,470,H.P. IVA deudora por IVA,D,873020.56,apertura
+Kreuzung,gesamt,02/02/2021,210,Terrenos y bienes naturales,D,820000.00,
+Kreuzung,gesamt,02/02/2021,472,H.P. IVA Soportado,D,172200.00,
+Kreuzung,gesamt,02/02/2021,572,Bancos c/c,D,-992200.00,
+Kreuzung,gesamt,10/04/2021,210,Terrenos y bienes naturales,D,1188000.00,
+Kreuzung,gesamt,10/04/2021,472,H.P. IVA Soportado,D,249480.00,
+Kreuzung,gesamt,10/04/2021,572,Bancos c/c,D,-1437480.00,
+Kreuzung,gesamt,17/09/2021,210,Terrenos y bienes naturales,D,820000.00,
+Kreuzung,gesamt,17/09/2021,472,H.P. IVA Soportado,D,172200.00,
+Kreuzung,gesamt,17/09/2021,572,Bancos c/c,D,-992200.00,
+Kreuzung,gesamt,11/02/2021,210,Terrenos y bienes naturales,D,820000.00,
+Kreuzung,gesamt,11/02/2021,472,H.P. IVA Soportado,D,172200.00,
+Kreuzung,gesamt,11/02/2021,572,Bancos c/c,D,-992200.00,
+Kreuzung,gesamt,21/08/2021,211,Construcciones,D,104000.00,
+Kreuzung,gesamt,21/08/2021,472,H.P. IVA Soportado,D,21840.00,
+Kreuzung,gesamt,21/08/2021,572,Bancos c/c,D,-125840.00,
+Kreuzung,gesamt,27/02/2021,213,Maquinaria,D,34000.00,
+Kreuzung,gesamt,27/02/2021,472,H.P. IVA Soportado,D,7140.00,
+Kreuzung,gesamt,27/02/2021,572,Bancos c/c,D,-41140.00,
+Kreuzung,gesamt,01/03/2021,218,Elementos de transporte,D,62000.00,
+Kreuzung,gesamt,01/03/2021,472,H.P. IVA Soportado,D,13020.00,
+Kreuzung,gesamt,01/03/2021,572,Bancos c/c,D,-75020.00,
+Kreuzung,gesamt,17/06/2021,250,Inversiones financieras l/p instrum. Patr.,D,224000.00,
+Kreuzung,gesamt,17/06/2021,570,Caja €,D,-224000.00,
+Kreuzung,gesamt,23/09/2021,430,Clientes,D,64028.36,
+Kreuzung,gesamt,23/09/2021,700,Ventas de mercaderías,H,52916.00,
+Kreuzung,gesamt,23/09/2021,477,H.P. IVA Repercutido,H,11112.36,
+Kreuzung,gesamt,21/05/2021,430,Clientes,D,13534.00,
+Kreuzung,gesamt,21/05/2021,700,Ventas de mercaderías,H,11185.12,
+Kreuzung,gesamt,21/05/2021,477,H.P. IVA Repercutido,H,2348.88,
+Kreuzung,gesamt,18/10/2021,430,Clientes,D,75209.97,
+Kreuzung,gesamt,18/10/2021,700,Ventas de mercaderías,H,62157.00,
+Kreuzung,gesamt,18/10/2021,477,H.P. IVA Repercutido,H,13052.97,
+Kreuzung,gesamt,15/01/2021,430,Clientes,D,55853.60,
+Kreuzung,gesamt,15/01/2021,700,Ventas de mercaderías,H,46160.00,
+Kreuzung,gesamt,15/01/2021,477,H.P. IVA Repercutido,H,9693.60
+Kreuzung,gesamt,08/10/2021,430,Clientes,D,111650.33
+Kreuzung,gesamt,08/10/2021,700,Ventas de mercaderías,H,92273.00
+Kreuzung,gesamt,08/10/2021,477,H.P. IVA Repercutido,H,19377.33
+Kreuzung,gesamt,23/11/2021,430,Clientes,D,109191.61
+Kreuzung,gesamt,23/11/2021,700,Ventas de mercaderías,H,90241.00
+Kreuzung,gesamt,23/11/2021,477,H.P. IVA Repercutido,H,18950.61
+Kreuzung,gesamt,09/10/2021,430,Clientes,D,49516.83
+Kreuzung,gesamt,09/10/2021,700,Ventas de mercaderías,H,40923.00
+Kreuzung,gesamt,09/10/2021,477,H.P. IVA Repercutido,H,8593.83
+Kreuzung,gesamt,28/01/2021,430,Clientes,D,47824.04
+Kreuzung,gesamt,28/01/2021,700,Ventas de mercaderías,H,39524.00
+Kreuzung,gesamt,28/01/2021,477,H.P. IVA Repercutido,H,8300.04
+Kreuzung,gesamt,26/06/2021,430,Clientes,D,54647.23
+Kreuzung,gesamt,26/06/2021,700,Ventas de mercaderías,H,45163.00
+Kreuzung,gesamt,26/06/2021,477,H.P. IVA Repercutido,H,9484.23
+Kreuzung,gesamt,05/09/2021,430,Clientes,D,111448.26
+Kreuzung,gesamt,05/09/2021,700,Ventas de mercaderías,H,92106.00
+Kreuzung,gesamt,05/09/2021,477,H.P. IVA Repercutido,H,19342.26
+Kreuzung,gesamt,17/04/2021,430,Clientes,D,54181.38
+Kreuzung,gesamt,17/04/2021,700,Ventas de mercaderías,H,44778.00
+Kreuzung,gesamt,17/04/2021,477,H.P. IVA Repercutido,H,9403.38
+Kreuzung,gesamt,26/02/2021,430,Clientes,D,53209.75
+Kreuzung,gesamt,26/02/2021,700,Ventas de mercaderías,H,43975.00
+Kreuzung,gesamt,26/02/2021,477,H.P. IVA Repercutido,H,9234.75
+Kreuzung,gesamt,11/10/2021,430,Clientes,D,93904.47
+Kreuzung,gesamt,11/10/2021,700,Ventas de mercaderías,H,77607.00
+Kreuzung,gesamt,11/10/2021,477,H.P. IVA Repercutido,H,16297.47
+Kreuzung,gesamt,02/04/2021,430,Clientes,D,109525.57
+Kreuzung,gesamt,02/04/2021,700,Ventas de mercaderías,H,90517.00
+Kreuzung,gesamt,02/04/2021,477,H.P. IVA Repercutido,H,19008.57
+Kreuzung,gesamt,04/07/2021,430,Clientes,D,77701.36
+Kreuzung,gesamt,04/07/2021,700,Ventas de mercaderías,H,64216.00
+Kreuzung,gesamt,04/07/2021,477,H.P. IVA Repercutido,H,13485.36
+Kreuzung,gesamt,02/04/2021,430,Clientes,D,111303.06
+Kreuzung,gesamt,02/04/2021,700,Ventas de mercaderías,H,91986.00
+Kreuzung,gesamt,02/04/2021,477,H.P. IVA Repercutido,H,19317.06
+Kreuzung,gesamt,21/04/2021,430,Clientes,D,48998.95
+Kreuzung,gesamt,21/04/2021,700,Ventas de mercaderías,H,40495.00
+Kreuzung,gesamt,21/04/2021,477,H.P. IVA Repercutido,H,8503.95
+Kreuzung,gesamt,20/02/2021,430,Clientes,D,87682.65
+Kreuzung,gesamt,20/02/2021,700,Ventas de mercaderías,H,72465.00
+Kreuzung,gesamt,20/02/2021,477,H.P. IVA Repercutido,H,15217.65
+Kreuzung,gesamt,12/08/2021,430,Clientes,D,48796.88
+Kreuzung,gesamt,12/08/2021,700,Ventas de mercaderías,H,40328.00
+Kreuzung,gesamt,12/08/2021,477,H.P. IVA Repercutido,H,8468.88
+Kreuzung,gesamt,25/06/2021,430,Clientes,D,113845.27
+Kreuzung,gesamt,25/06/2021,700,Ventas de mercaderías,H,94087.00
+Kreuzung,gesamt,25/06/2021,477,H.P. IVA Repercutido,H,19758.27
+Kreuzung,gesamt,10/05/2021,430,Clientes,D,98777.14
+Kreuzung,gesamt,10/05/2021,700,Ventas de mercaderías,H,81634.00
+Kreuzung,gesamt,10/05/2021,477,H.P. IVA Repercutido,H,17143.14
+Kreuzung,gesamt,17/01/2021,430,Clientes,D,44006.49
+Kreuzung,gesamt,17/01/2021,700,Ventas de mercaderías,H,36369.00
+Kreuzung,gesamt,17/01/2021,477,H.P. IVA Repercutido,H,7637.49
+Kreuzung,gesamt,14/02/2021,430,Clientes,D,93501.54
+Kreuzung,gesamt,14/02/2021,700,Ventas de mercaderías,H,77274.00
+Kreuzung,gesamt,14/02/2021,477,H.P. IVA Repercutido,H,16227.54
+Kreuzung,gesamt,05/10/2021,430,Clientes,D,118138.35
+Kreuzung,gesamt,05/10/2021,700,Ventas de mercaderías,H,97635.00
+Kreuzung,gesamt,05/10/2021,477,H.P. IVA Repercutido,H,20503.35
+Kreuzung,gesamt,22/01/2021,430,Clientes,D,54285.44
+Kreuzung,gesamt,22/01/2021,700,Ventas de mercaderías,H,44864.00
+Kreuzung,gesamt,22/01/2021,477,H.P. IVA Repercutido,H,9421.44
+Kreuzung,gesamt,08/11/2021,430,Clientes,D,75122.85
+Kreuzung,gesamt,08/11/2021,700,Ventas de mercaderías,H,62085.00
+Kreuzung,gesamt,08/11/2021,477,H.P. IVA Repercutido,H,13037.85
+Kreuzung,gesamt,27/05/2021,430,Clientes,D,49582.17
+Kreuzung,gesamt,27/05/2021,700,Ventas de mercaderías,H,40977.00
+Kreuzung,gesamt,27/05/2021,477,H.P. IVA Repercutido,H,8605.17
+Kreuzung,gesamt,04/03/2021,430,Clientes,D,125945.27
+Kreuzung,gesamt,04/03/2021,700,Ventas de mercaderías,H,104087.00
+Kreuzung,gesamt,04/03/2021,477,H.P. IVA Repercutido,H,21858.27
+Kreuzung,gesamt,22/12/2021,430,Clientes,D,80898.18
+Kreuzung,gesamt,22/12/2021,700,Ventas de mercaderías,H,66858.00
+Kreuzung,gesamt,22/12/2021,477,H.P. IVA Repercutido,H,14040.18
+Kreuzung,gesamt,28/06/2021,430,Clientes,D,110078.54
+Kreuzung,gesamt,28/06/2021,700,Ventas de mercaderías,H,90974.00
+Kreuzung,gesamt,28/06/2021,477,H.P. IVA Repercutido,H,19104.54
+Kreuzung,gesamt,25/10/2021,430,Clientes,D,74523.90
+Kreuzung,gesamt,25/10/2021,700,Ventas de mercaderías,H,61590.00
+Kreuzung,gesamt,25/10/2021,477,H.P. IVA Repercutido,H,12933.90
+Kreuzung,gesamt,04/03/2021,430,Clientes,D,112292.84
+Kreuzung,gesamt,04/03/2021,700,Ventas de mercaderías,H,92804.00
+Kreuzung,gesamt,04/03/2021,477,H.P. IVA Repercutido,H,19488.84
+Kreuzung,gesamt,11/02/2021,430,Clientes,D,74145.17
+Kreuzung,gesamt,11/02/2021,700,Ventas de mercaderías,H,61277.00
+Kreuzung,gesamt,11/02/2021,477,H.P. IVA Repercutido,H,12868.17
+Kreuzung,gesamt,02/06/2021,430,Clientes,D,105227.65
+Kreuzung,gesamt,02/06/2021,700,Ventas de mercaderías,H,86965.00
+Kreuzung,gesamt,02/06/2021,477,H.P. IVA Repercutido,H,18262.65
+Kreuzung,gesamt,12/04/2021,430,Clientes,D,72812.96
+Kreuzung,gesamt,12/04/2021,700,Ventas de mercaderías,H,60176.00
+Kreuzung,gesamt,12/04/2021,477,H.P. IVA Repercutido,H,12636.96
+Kreuzung,gesamt,05/01/2021,430,Clientes,D,92148.76
+Kreuzung,gesamt,05/01/2021,700,Ventas de mercaderías,H,76156.00
+Kreuzung,gesamt,05/01/2021,477,H.P. IVA Repercutido,H,15992.76
+Kreuzung,gesamt,06/11/2021,430,Clientes,D,118035.50
+Kreuzung,gesamt,06/11/2021,700,Ventas de mercaderías,H,97550.00
+Kreuzung,gesamt,06/11/2021,477,H.P. IVA Repercutido,H,20485.50
+Kreuzung,gesamt,17/11/2021,430,Clientes,D,45009.58
+Kreuzung,gesamt,17/11/2021,700,Ventas de mercaderías,H,37198.00
+Kreuzung,gesamt,17/11/2021,477,H.P. IVA Repercutido,H,7811.58
+Kreuzung,gesamt,07/06/2021,430,Clientes,D,54013.19
+Kreuzung,gesamt,07/06/2021,700,Ventas de mercaderías,H,44639.00
+Kreuzung,gesamt,07/06/2021,477,H.P. IVA Repercutido,H,9374.19
+Kreuzung,gesamt,08/02/2021,430,Clientes,D,125087.38
+Kreuzung,gesamt,08/02/2021,700,Ventas de mercaderías,H,103378.00
+Kreuzung,gesamt,08/02/2021,477,H.P. IVA Repercutido,H,21709.38
+Kreuzung,gesamt,02/09/2021,430,Clientes,D,87691.12
+Kreuzung,gesamt,02/09/2021,700,Ventas de mercaderías,H,72472.00
+Kreuzung,gesamt,02/09/2021,477,H.P. IVA Repercutido,H,15219.12
+Kreuzung,gesamt,25/10/2021,430,Clientes,D,71900.62
+Kreuzung,gesamt,25/10/2021,700,Ventas de mercaderías,H,59422.00
+Kreuzung,gesamt,25/10/2021,477,H.P. IVA Repercutido,H,12478.62
+Kreuzung,gesamt,05/08/2021,430,Clientes,D,66715.77
+Kreuzung,gesamt,05/08/2021,700,Ventas de mercaderías,H,55137.00
+Kreuzung,gesamt,05/08/2021,477,H.P. IVA Repercutido,H,11578.77
+Kreuzung,gesamt,27/06/2021,430,Clientes,D,109086.34
+Kreuzung,gesamt,27/06/2021,700,Ventas de mercaderías,H,90154.00
+Kreuzung,gesamt,27/06/2021,477,H.P. IVA Repercutido,H,18932.34
+Kreuzung,gesamt,16/01/2021,430,Clientes,D,43763.28
+Kreuzung,gesamt,16/01/2021,700,Ventas de mercaderías,H,36168.00
+Kreuzung,gesamt,16/01/2021,477,H.P. IVA Repercutido,H,7595.28
+Kreuzung,gesamt,06/10/2021,430,Clientes,D,100333.20
+Kreuzung,gesamt,06/10/2021,700,Ventas de mercaderías,H,82920.00
+Kreuzung,gesamt,06/10/2021,477,H.P. IVA Repercutido,H,17413.20
+Kreuzung,gesamt,17/02/2021,430,Clientes,D,54920.69
+Kreuzung,gesamt,17/02/2021,700,Ventas de mercaderías,H,45389.00
+Kreuzung,gesamt,17/02/2021,477,H.P. IVA Repercutido,H,9531.69
+Kreuzung,gesamt,26/01/2021,430,Clientes,D,62627.18
+Kreuzung,gesamt,26/01/2021,700,Ventas de mercaderías,H,51758.00
+Kreuzung,gesamt,26/01/2021,477,H.P. IVA Repercutido,H,10869.18
+Kreuzung,gesamt,16/04/2021,430,Clientes,D,47727.24
+Kreuzung,gesamt,16/04/2021,700,Ventas de mercaderías,H,39444.00
+Kreuzung,gesamt,16/04/2021,477,H.P. IVA Repercutido,H,8283.24
+Kreuzung,gesamt,13/06/2021,430,Clientes,D,72430.60
+Kreuzung,gesamt,13/06/2021,700,Ventas de mercaderías,H,59860.00
+Kreuzung,gesamt,13/06/2021,477,H.P. IVA Repercutido,H,12570.60
+Kreuzung,gesamt,06/03/2021,430,Clientes,D,102519.67
+Kreuzung,gesamt,06/03/2021,700,Ventas de mercaderías,H,84727.00
+Kreuzung,gesamt,06/03/2021,477,H.P. IVA Repercutido,H,17792.67
+Kreuzung,gesamt,04/07/2021,430,Clientes,D,117285.30
+Kreuzung,gesamt,04/07/2021,700,Ventas de mercaderías,H,96930.00
+Kreuzung,gesamt,04/07/2021,477,H.P. IVA Repercutido,H,20355.30
+Kreuzung,gesamt,10/07/2021,430,Clientes,D,108061.47
+Kreuzung,gesamt,10/07/2021,700,Ventas de mercaderías,H,89307.00
+Kreuzung,gesamt,10/07/2021,477,H.P. IVA Repercutido,H,18754.47
+Kreuzung,gesamt,21/03/2021,430,Clientes,D,111886.28
+Kreuzung,gesamt,21/03/2021,700,Ventas de mercaderías,H,92468.00
+Kreuzung,gesamt,21/03/2021,477,H.P. IVA Repercutido,H,19418.28
+Kreuzung,gesamt,10/07/2021,430,Clientes,D,102323.65
+Kreuzung,gesamt,10/07/2021,700,Ventas de mercaderías,H,84565.00
+Kreuzung,gesamt,10/07/2021,477,H.P. IVA Repercutido,H,17758.65
+Kreuzung,gesamt,02/09/2021,430,Clientes,D,63382.22
+Kreuzung,gesamt,02/09/2021,700,Ventas de mercaderías,H,52382.00
+Kreuzung,gesamt,02/09/2021,477,H.P. IVA Repercutido,H,11000.22
+Kreuzung,gesamt,05/12/2021,430,Clientes,D,119253.97
+Kreuzung,gesamt,05/12/2021,700,Ventas de mercaderías,H,98557.00
+Kreuzung,gesamt,05/12/2021,477,H.P. IVA Repercutido,H,20696.97
+Kreuzung,gesamt,06/10/2021,430,Clientes,D,119495.97
+Kreuzung,gesamt,06/10/2021,700,Ventas de mercaderías,H,98757.00
+Kreuzung,gesamt,06/10/2021,477,H.P. IVA Repercutido,H,20738.97
+Kreuzung,gesamt,14/01/2021,430,Clientes,D,105933.08
+Kreuzung,gesamt,14/01/2021,700,Ventas de mercaderías,H,87548.00
+Kreuzung,gesamt,14/01/2021,477,H.P. IVA Repercutido,H,18385.08
+Kreuzung,gesamt,14/10/2021,430,Clientes,D,105380.11
+Kreuzung,gesamt,14/10/2021,700,Ventas de mercaderías,H,87091.00
+Kreuzung,gesamt,14/10/2021,477,H.P. IVA Repercutido,H,18289.11
+Kreuzung,gesamt,12/02/2021,430,Clientes,D,69758.92
+Kreuzung,gesamt,12/02/2021,700,Ventas de mercaderías,H,57652.00
+Kreuzung,gesamt,12/02/2021,477,H.P. IVA Repercutido,H,12106.92
+Kreuzung,gesamt,22/06/2021,430,Clientes,D,48257.22
+Kreuzung,gesamt,22/06/2021,700,Ventas de mercaderías,H,39882.00
+Kreuzung,gesamt,22/06/2021,477,H.P. IVA Repercutido,H,8375.22
+Kreuzung,gesamt,18/10/2021,430,Clientes,D,91801.49
+Kreuzung,gesamt,18/10/2021,700,Ventas de mercaderías,H,75869.00
+Kreuzung,gesamt,18/10/2021,477,H.P. IVA Repercutido,H,15932.49
+Kreuzung,gesamt,14/10/2021,430,Clientes,D,83323.02
+Kreuzung,gesamt,14/10/2021,700,Ventas de mercaderías,H,68862.00
+Kreuzung,gesamt,14/10/2021,477,H.P. IVA Repercutido,H,14461.02
+Kreuzung,gesamt,15/03/2021,430,Clientes,D,114481.73
+Kreuzung,gesamt,15/03/2021,700,Ventas de mercaderías,H,94613.00
+Kreuzung,gesamt,15/03/2021,477,H.P. IVA Repercutido,H,19868.73
+Kreuzung,gesamt,01/12/2021,430,Clientes,D,44929.72
+Kreuzung,gesamt,01/12/2021,700,Ventas de mercaderías,H,37132.00
+Kreuzung,gesamt,01/12/2021,477,H.P. IVA Repercutido,H,7797.72
+Kreuzung,gesamt,16/10/2021,430,Clientes,D,74060.47
+Kreuzung,gesamt,16/10/2021,700,Ventas de mercaderías,H,61207.00
+Kreuzung,gesamt,16/10/2021,477,H.P. IVA Repercutido,H,12853.47
+Kreuzung,gesamt,18/01/2021,430,Clientes,D,92878.39
+Kreuzung,gesamt,18/01/2021,700,Ventas de mercaderías,H,76759.00
+Kreuzung,gesamt,18/01/2021,477,H.P. IVA Repercutido,H,16119.39
+Kreuzung,gesamt,05/11/2021,430,Clientes,D,109537.67
+Kreuzung,gesamt,05/11/2021,700,Ventas de mercaderías,H,90527.00
+Kreuzung,gesamt,05/11/2021,477,H.P. IVA Repercutido,H,19010.67
+Kreuzung,gesamt,23/04/2021,430,Clientes,D,63619.38
+Kreuzung,gesamt,23/04/2021,700,Ventas de mercaderías,H,52578.00
+Kreuzung,gesamt,23/04/2021,477,H.P. IVA Repercutido,H,11041.38
+Kreuzung,gesamt,20/03/2021,430,Clientes,D,110907.39
+Kreuzung,gesamt,20/03/2021,700,Ventas de mercaderías,H,91659.00
+Kreuzung,gesamt,20/03/2021,477,H.P. IVA Repercutido,H,19248.39
+Kreuzung,gesamt,01/01/2021,430,Clientes,D,58991.13
+Kreuzung,gesamt,01/01/2021,700,Ventas de mercaderías,H,48753.00
+Kreuzung,gesamt,01/01/2021,477,H.P. IVA Repercutido,H,10238.13
+Kreuzung,gesamt,22/11/2021,430,Clientes,D,76983.83
+Kreuzung,gesamt,22/11/2021,700,Ventas de mercaderías,H,63623.00
+Kreuzung,gesamt,22/11/2021,477,H.P. IVA Repercutido,H,13360.83
+Kreuzung,gesamt,19/03/2021,430,Clientes,D,63027.69
+Kreuzung,gesamt,19/03/2021,700,Ventas de mercaderías,H,52089.00
+Kreuzung,gesamt,19/03/2021,477,H.P. IVA Repercutido,H,10938.69
+Kreuzung,gesamt,21/12/2021,430,Clientes,D,81933.94
+Kreuzung,gesamt,21/12/2021,700,Ventas de mercaderías,H,67714.00
+Kreuzung,gesamt,21/12/2021,477,H.P. IVA Repercutido,H,14219.94
+Kreuzung,gesamt,08/02/2021,430,Clientes,D,97262.22
+Kreuzung,gesamt,08/02/2021,700,Ventas de mercaderías,H,80382.00
+Kreuzung,gesamt,08/02/2021,477,H.P. IVA Repercutido,H,16880.22
+Kreuzung,gesamt,06/08/2021,430,Clientes,D,99775.39
+Kreuzung,gesamt,06/08/2021,700,Ventas de mercaderías,H,82459.00
+Kreuzung,gesamt,06/08/2021,477,H.P. IVA Repercutido,H,17316.39
+Kreuzung,gesamt,20/11/2021,430,Clientes,D,112749.01
+Kreuzung,gesamt,20/11/2021,700,Ventas de mercaderías,H,93181.00
+Kreuzung,gesamt,20/11/2021,477,H.P. IVA Repercutido,H,19568.01
+Kreuzung,gesamt,22/05/2021,430,Clientes,D,46784.65
+Kreuzung,gesamt,22/05/2021,700,Ventas de mercaderías,H,38665.00
+Kreuzung,gesamt,22/05/2021,477,H.P. IVA Repercutido,H,8119.65
+Kreuzung,gesamt,26/03/2021,430,Clientes,D,120773.73
+Kreuzung,gesamt,26/03/2021,700,Ventas de mercaderías,H,99813.00
+Kreuzung,gesamt,26/03/2021,477,H.P. IVA Repercutido,H,20960.73
+Kreuzung,gesamt,09/06/2021,430,Clientes,D,72328.96
+Kreuzung,gesamt,09/06/2021,700,Ventas de mercaderías,H,59776.00
+Kreuzung,gesamt,09/06/2021,477,H.P. IVA Repercutido,H,12552.96
+Kreuzung,gesamt,26/03/2021,430,Clientes,D,123802.36
+Kreuzung,gesamt,26/03/2021,700,Ventas de mercaderías,H,102316.00
+Kreuzung,gesamt,26/03/2021,477,H.P. IVA Repercutido,H,21486.36
+Kreuzung,gesamt,23/01/2021,430,Clientes,D,92315.74
+Kreuzung,gesamt,23/01/2021,700,Ventas de mercaderías,H,76294.00
+Kreuzung,gesamt,23/01/2021,477,H.P. IVA Repercutido,H,16021.74
+Kreuzung,gesamt,21/01/2021,430,Clientes,D,109571.55
+Kreuzung,gesamt,21/01/2021,700,Ventas de mercaderías,H,90555.00
+Kreuzung,gesamt,21/01/2021,477,H.P. IVA Repercutido,H,19016.55,
+Kreuzung,gesamt,04/10/2021,430,Clientes,D,71739.69,
+Kreuzung,gesamt,04/10/2021,700,Ventas de mercaderías,H,59289.00,
+Kreuzung,gesamt,04/10/2021,477,H.P. IVA Repercutido,H,12450.69,
+Kreuzung,gesamt,16/10/2021,431,Clientes efectos comerciales a cobrar,D,106071.48,
+Kreuzung,gesamt,16/10/2021,700,Ventas de mercaderías,H,87662.38,
+Kreuzung,gesamt,16/10/2021,477,H.P. IVA Repercutido,H,18409.10,
+Kreuzung,gesamt,01/07/2021,431,Clientes efectos comerciales a cobrar,D,63523.79,
+Kreuzung,gesamt,01/07/2021,700,Ventas de mercaderías,H,52499.00,
+Kreuzung,gesamt,01/07/2021,477,H.P. IVA Repercutido,H,11024.79,
+Kreuzung,gesamt,11/09/2021,431,Clientes efectos comerciales a cobrar,D,102019.94,
+Kreuzung,gesamt,11/09/2021,700,Ventas de mercaderías,H,84314.00,
+Kreuzung,gesamt,11/09/2021,477,H.P. IVA Repercutido,H,17705.94,
+Kreuzung,gesamt,12/12/2021,431,Clientes efectos comerciales a cobrar,D,81578.20,
+Kreuzung,gesamt,12/12/2021,700,Ventas de mercaderías,H,67420.00,
+Kreuzung,gesamt,12/12/2021,477,H.P. IVA Repercutido,H,14158.20,
+Kreuzung,gesamt,09/06/2021,431,Clientes efectos comerciales a cobrar,D,80333.11
+Kreuzung,gesamt,09/06/2021,700,Ventas de mercaderías,H,66391.00
+Kreuzung,gesamt,09/06/2021,477,H.P. IVA Repercutido,H,13942.11
+Kreuzung,gesamt,27/04/2021,431,Clientes efectos comerciales a cobrar,D,121925.65
+Kreuzung,gesamt,27/04/2021,700,Ventas de mercaderías,H,100765.00
+Kreuzung,gesamt,27/04/2021,477,H.P. IVA Repercutido,H,21160.65
+Kreuzung,gesamt,15/11/2021,431,Clientes efectos comerciales a cobrar,D,49784.24
+Kreuzung,gesamt,15/11/2021,700,Ventas de mercaderías,H,41144.00
+Kreuzung,gesamt,15/11/2021,477,H.P. IVA Repercutido,H,8640.24
+Kreuzung,gesamt,21/05/2021,431,Clientes efectos comerciales a cobrar,D,57712.16
+Kreuzung,gesamt,21/05/2021,700,Ventas de mercaderías,H,47696.00
+Kreuzung,gesamt,21/05/2021,477,H.P. IVA Repercutido,H,10016.16
+Kreuzung,gesamt,23/05/2021,431,Clientes efectos comerciales a cobrar,D,81451.15
+Kreuzung,gesamt,23/05/2021,700,Ventas de mercaderías,H,67315.00
+Kreuzung,gesamt,23/05/2021,477,H.P. IVA Repercutido,H,14136.15
+Kreuzung,gesamt,27/07/2021,431,Clientes efectos comerciales a cobrar,D,99885.50
+Kreuzung,gesamt,27/07/2021,700,Ventas de mercaderías,H,82550.00
+Kreuzung,gesamt,27/07/2021,477,H.P. IVA Repercutido,H,17335.50
+Kreuzung,gesamt,18/05/2021,431,Clientes efectos comerciales a cobrar,D,125145.46
+Kreuzung,gesamt,18/05/2021,700,Ventas de mercaderías,H,103426.00
+Kreuzung,gesamt,18/05/2021,477,H.P. IVA Repercutido,H,21719.46
+Kreuzung,gesamt,04/07/2021,431,Clientes efectos comerciales a cobrar,D,120662.41
+Kreuzung,gesamt,04/07/2021,700,Ventas de mercaderías,H,99721.00
+Kreuzung,gesamt,04/07/2021,477,H.P. IVA Repercutido,H,20941.41
+Kreuzung,gesamt,15/10/2021,431,Clientes efectos comerciales a cobrar,D,123784.21
+Kreuzung,gesamt,15/10/2021,700,Ventas de mercaderías,H,102301.00
+Kreuzung,gesamt,15/10/2021,477,H.P. IVA Repercutido,H,21483.21
+Kreuzung,gesamt,25/04/2021,431,Clientes efectos comerciales a cobrar,D,77447.26
+Kreuzung,gesamt,25/04/2021,700,Ventas de mercaderías,H,64006.00
+Kreuzung,gesamt,25/04/2021,477,H.P. IVA Repercutido,H,13441.26
+Kreuzung,gesamt,28/10/2021,431,Clientes efectos comerciales a cobrar,D,52756.00
+Kreuzung,gesamt,28/10/2021,700,Ventas de mercaderías,H,43600.00
+Kreuzung,gesamt,28/10/2021,477,H.P. IVA Repercutido,H,9156.00
+Kreuzung,gesamt,11/03/2021,431,Clientes efectos comerciales a cobrar,D,107088.63
+Kreuzung,gesamt,11/03/2021,700,Ventas de mercaderías,H,88503.00
+Kreuzung,gesamt,11/03/2021,477,H.P. IVA Repercutido,H,18585.63
+Kreuzung,gesamt,03/05/2021,431,Clientes efectos comerciales a cobrar,D,113606.90
+Kreuzung,gesamt,03/05/2021,700,Ventas de mercaderías,H,93890.00
+Kreuzung,gesamt,03/05/2021,477,H.P. IVA Repercutido,H,19716.90
+Kreuzung,gesamt,22/08/2021,431,Clientes efectos comerciales a cobrar,D,116439.51
+Kreuzung,gesamt,22/08/2021,700,Ventas de mercaderías,H,96231.00
+Kreuzung,gesamt,22/08/2021,477,H.P. IVA Repercutido,H,20208.51
+Kreuzung,gesamt,13/10/2021,431,Clientes efectos comerciales a cobrar,D,99887.92
+Kreuzung,gesamt,13/10/2021,700,Ventas de mercaderías,H,82552.00
+Kreuzung,gesamt,13/10/2021,477,H.P. IVA Repercutido,H,17335.92
+Kreuzung,gesamt,03/02/2021,431,Clientes efectos comerciales a cobrar,D,77821.15
+Kreuzung,gesamt,03/02/2021,700,Ventas de mercaderías,H,64315.00
+Kreuzung,gesamt,03/02/2021,477,H.P. IVA Repercutido,H,13506.15
+Kreuzung,gesamt,19/12/2021,431,Clientes efectos comerciales a cobrar,D,106968.84
+Kreuzung,gesamt,19/12/2021,700,Ventas de mercaderías,H,88404.00
+Kreuzung,gesamt,19/12/2021,477,H.P. IVA Repercutido,H,18564.84
+Kreuzung,gesamt,14/08/2021,431,Clientes efectos comerciales a cobrar,D,98850.95
+Kreuzung,gesamt,14/08/2021,700,Ventas de mercaderías,H,81695.00
+Kreuzung,gesamt,14/08/2021,477,H.P. IVA Repercutido,H,17155.95
+Kreuzung,gesamt,05/04/2021,431,Clientes efectos comerciales a cobrar,D,115968.82
+Kreuzung,gesamt,05/04/2021,700,Ventas de mercaderías,H,95842.00
+Kreuzung,gesamt,05/04/2021,477,H.P. IVA Repercutido,H,20126.82
+Kreuzung,gesamt,20/09/2021,431,Clientes efectos comerciales a cobrar,D,88558.69
+Kreuzung,gesamt,20/09/2021,700,Ventas de mercaderías,H,73189.00
+Kreuzung,gesamt,20/09/2021,477,H.P. IVA Repercutido,H,15369.69
+Kreuzung,gesamt,21/09/2021,431,Clientes efectos comerciales a cobrar,D,52021.53
+Kreuzung,gesamt,21/09/2021,700,Ventas de mercaderías,H,42993.00
+Kreuzung,gesamt,21/09/2021,477,H.P. IVA Repercutido,H,9028.53
+Kreuzung,gesamt,23/10/2021,431,Clientes efectos comerciales a cobrar,D,52778.99
+Kreuzung,gesamt,23/10/2021,700,Ventas de mercaderías,H,43619.00
+Kreuzung,gesamt,23/10/2021,477,H.P. IVA Repercutido,H,9159.99
+Kreuzung,gesamt,27/02/2021,431,Clientes efectos comerciales a cobrar,D,44421.52
+Kreuzung,gesamt,27/02/2021,700,Ventas de mercaderías,H,36712.00
+Kreuzung,gesamt,27/02/2021,477,H.P. IVA Repercutido,H,7709.52
+Kreuzung,gesamt,01/06/2021,431,Clientes efectos comerciales a cobrar,D,86279.05
+Kreuzung,gesamt,01/06/2021,700,Ventas de mercaderías,H,71305.00
+Kreuzung,gesamt,01/06/2021,477,H.P. IVA Repercutido,H,14974.05
+Kreuzung,gesamt,06/06/2021,431,Clientes efectos comerciales a cobrar,D,68844.16
+Kreuzung,gesamt,06/06/2021,700,Ventas de mercaderías,H,56896.00
+Kreuzung,gesamt,06/06/2021,477,H.P. IVA Repercutido,H,11948.16
+Kreuzung,gesamt,19/11/2021,431,Clientes efectos comerciales a cobrar,D,64557.13
+Kreuzung,gesamt,19/11/2021,700,Ventas de mercaderías,H,53353.00
+Kreuzung,gesamt,19/11/2021,477,H.P. IVA Repercutido,H,11204.13
+Kreuzung,gesamt,09/03/2021,431,Clientes efectos comerciales a cobrar,D,109651.41
+Kreuzung,gesamt,09/03/2021,700,Ventas de mercaderías,H,90621.00
+Kreuzung,gesamt,09/03/2021,477,H.P. IVA Repercutido,H,19030.41
+Kreuzung,gesamt,06/12/2021,431,Clientes efectos comerciales a cobrar,D,97943.45
+Kreuzung,gesamt,06/12/2021,700,Ventas de mercaderías,H,80945.00
+Kreuzung,gesamt,06/12/2021,477,H.P. IVA Repercutido,H,16998.45
+Kreuzung,gesamt,07/03/2021,431,Clientes efectos comerciales a cobrar,D,112690.93
+Kreuzung,gesamt,07/03/2021,700,Ventas de mercaderías,H,93133.00
+Kreuzung,gesamt,07/03/2021,477,H.P. IVA Repercutido,H,19557.93
+Kreuzung,gesamt,08/04/2021,431,Clientes efectos comerciales a cobrar,D,99048.18
+Kreuzung,gesamt,08/04/2021,700,Ventas de mercaderías,H,81858.00
+Kreuzung,gesamt,08/04/2021,477,H.P. IVA Repercutido,H,17190.18
+Kreuzung,gesamt,09/11/2021,431,Clientes efectos comerciales a cobrar,D,53267.83
+Kreuzung,gesamt,09/11/2021,700,Ventas de mercaderías,H,44023.00
+Kreuzung,gesamt,09/11/2021,477,H.P. IVA Repercutido,H,9244.83
+Kreuzung,gesamt,07/12/2021,431,Clientes efectos comerciales a cobrar,D,49222.80
+Kreuzung,gesamt,07/12/2021,700,Ventas de mercaderías,H,40680.00
+Kreuzung,gesamt,07/12/2021,477,H.P. IVA Repercutido,H,8542.80
+Kreuzung,gesamt,22/01/2021,431,Clientes efectos comerciales a cobrar,D,110477.84
+Kreuzung,gesamt,22/01/2021,700,Ventas de mercaderías,H,91304.00
+Kreuzung,gesamt,22/01/2021,477,H.P. IVA Repercutido,H,19173.84
+Kreuzung,gesamt,07/08/2021,431,Clientes efectos comerciales a cobrar,D,116619.80
+Kreuzung,gesamt,07/08/2021,700,Ventas de mercaderías,H,96380.00
+Kreuzung,gesamt,07/08/2021,477,H.P. IVA Repercutido,H,20239.80
+Kreuzung,gesamt,28/06/2021,431,Clientes efectos comerciales a cobrar,D,120799.14
+Kreuzung,gesamt,28/06/2021,700,Ventas de mercaderías,H,99834.00
+Kreuzung,gesamt,28/06/2021,477,H.P. IVA Repercutido,H,20965.14
+Kreuzung,gesamt,20/11/2021,431,Clientes efectos comerciales a cobrar,D,94136.79
+Kreuzung,gesamt,20/11/2021,700,Ventas de mercaderías,H,77799.00
+Kreuzung,gesamt,20/11/2021,477,H.P. IVA Repercutido,H,16337.79
+Kreuzung,gesamt,06/02/2021,431,Clientes efectos comerciales a cobrar,D,48830.76
+Kreuzung,gesamt,06/02/2021,700,Ventas de mercaderías,H,40356.00
+Kreuzung,gesamt,06/02/2021,477,H.P. IVA Repercutido,H,8474.76
+Kreuzung,gesamt,06/03/2021,431,Clientes efectos comerciales a cobrar,D,76334.06
+Kreuzung,gesamt,06/03/2021,700,Ventas de mercaderías,H,63086.00
+Kreuzung,gesamt,06/03/2021,477,H.P. IVA Repercutido,H,13248.06
+Kreuzung,gesamt,18/12/2021,431,Clientes efectos comerciales a cobrar,D,92715.04
+Kreuzung,gesamt,18/12/2021,700,Ventas de mercaderías,H,76624.00
+Kreuzung,gesamt,18/12/2021,477,H.P. IVA Repercutido,H,16091.04
+Kreuzung,gesamt,18/02/2021,431,Clientes efectos comerciales a cobrar,D,101589.18
+Kreuzung,gesamt,18/02/2021,700,Ventas de mercaderías,H,83958.00
+Kreuzung,gesamt,18/02/2021,477,H.P. IVA Repercutido,H,17631.18
+Kreuzung,gesamt,22/02/2021,431,Clientes efectos comerciales a cobrar,D,111831.83
+Kreuzung,gesamt,22/02/2021,700,Ventas de mercaderías,H,92423.00
+Kreuzung,gesamt,22/02/2021,477,H.P. IVA Repercutido,H,19408.83
+Kreuzung,gesamt,06/09/2021,431,Clientes efectos comerciales a cobrar,D,120453.08
+Kreuzung,gesamt,06/09/2021,700,Ventas de mercaderías,H,99548.00
+Kreuzung,gesamt,06/09/2021,477,H.P. IVA Repercutido,H,20905.08
+Kreuzung,gesamt,20/06/2021,431,Clientes efectos comerciales a cobrar,D,72574.59
+Kreuzung,gesamt,20/06/2021,700,Ventas de mercaderías,H,59979.00
+Kreuzung,gesamt,20/06/2021,477,H.P. IVA Repercutido,H,12595.59
+Kreuzung,gesamt,26/05/2021,431,Clientes efectos comerciales a cobrar,D,60700.86
+Kreuzung,gesamt,26/05/2021,700,Ventas de mercaderías,H,50166.00
+Kreuzung,gesamt,26/05/2021,477,H.P. IVA Repercutido,H,10534.86
+Kreuzung,gesamt,17/11/2021,431,Clientes efectos comerciales a cobrar,D,105190.14
+Kreuzung,gesamt,17/11/2021,700,Ventas de mercaderías,H,86934.00
+Kreuzung,gesamt,17/11/2021,477,H.P. IVA Repercutido,H,18256.14
+Kreuzung,gesamt,20/04/2021,431,Clientes efectos comerciales a cobrar,D,109561.87
+Kreuzung,gesamt,20/04/2021,700,Ventas de mercaderías,H,90547.00
+Kreuzung,gesamt,20/04/2021,477,H.P. IVA Repercutido,H,19014.87
+Kreuzung,gesamt,13/06/2021,431,Clientes efectos comerciales a cobrar,D,113979.58
+Kreuzung,gesamt,13/06/2021,700,Ventas de mercaderías,H,94198.00
+Kreuzung,gesamt,13/06/2021,477,H.P. IVA Repercutido,H,19781.58
+Kreuzung,gesamt,12/12/2021,431,Clientes efectos comerciales a cobrar,D,53121.42
+Kreuzung,gesamt,12/12/2021,700,Ventas de mercaderías,H,43902.00
+Kreuzung,gesamt,12/12/2021,477,H.P. IVA Repercutido,H,9219.42
+Kreuzung,gesamt,26/10/2021,431,Clientes efectos comerciales a cobrar,D,109184.35
+Kreuzung,gesamt,26/10/2021,700,Ventas de mercaderías,H,90235.00
+Kreuzung,gesamt,26/10/2021,477,H.P. IVA Repercutido,H,18949.35
+Kreuzung,gesamt,23/06/2021,431,Clientes efectos comerciales a cobrar,D,105061.88
+Kreuzung,gesamt,23/06/2021,700,Ventas de mercaderías,H,86828.00
+Kreuzung,gesamt,23/06/2021,477,H.P. IVA Repercutido,H,18233.88
+Kreuzung,gesamt,21/09/2021,431,Clientes efectos comerciales a cobrar,D,49796.34
+Kreuzung,gesamt,21/09/2021,700,Ventas de mercaderías,H,41154.00
+Kreuzung,gesamt,21/09/2021,477,H.P. IVA Repercutido,H,8642.34
+Kreuzung,gesamt,14/04/2021,431,Clientes efectos comerciales a cobrar,D,85131.97
+Kreuzung,gesamt,14/04/2021,700,Ventas de mercaderías,H,70357.00
+Kreuzung,gesamt,14/04/2021,477,H.P. IVA Repercutido,H,14774.97
+Kreuzung,gesamt,20/07/2021,431,Clientes efectos comerciales a cobrar,D,75330.97
+Kreuzung,gesamt,20/07/2021,700,Ventas de mercaderías,H,62257.00
+Kreuzung,gesamt,20/07/2021,477,H.P. IVA Repercutido,H,13073.97
+Kreuzung,gesamt,23/10/2021,431,Clientes efectos comerciales a cobrar,D,104944.51
+Kreuzung,gesamt,23/10/2021,700,Ventas de mercaderías,H,86731.00
+Kreuzung,gesamt,23/10/2021,477,H.P. IVA Repercutido,H,18213.51
+Kreuzung,gesamt,02/05/2021,431,Clientes efectos comerciales a cobrar,D,68966.37
+Kreuzung,gesamt,02/05/2021,700,Ventas de mercaderías,H,56997.00
+Kreuzung,gesamt,02/05/2021,477,H.P. IVA Repercutido,H,11969.37
+Kreuzung,gesamt,26/01/2021,431,Clientes efectos comerciales a cobrar,D,49317.18
+Kreuzung,gesamt,26/01/2021,700,Ventas de mercaderías,H,40758.00
+Kreuzung,gesamt,26/01/2021,477,H.P. IVA Repercutido,H,8559.18
+Kreuzung,gesamt,03/09/2021,431,Clientes efectos comerciales a cobrar,D,88672.43
+Kreuzung,gesamt,03/09/2021,700,Ventas de mercaderías,H,73283.00
+Kreuzung,gesamt,03/09/2021,477,H.P. IVA Repercutido,H,15389.43
+Kreuzung,gesamt,11/03/2021,431,Clientes efectos comerciales a cobrar,D,125157.56
+Kreuzung,gesamt,11/03/2021,700,Ventas de mercaderías,H,103436.00
+Kreuzung,gesamt,11/03/2021,477,H.P. IVA Repercutido,H,21721.56
+Kreuzung,gesamt,07/02/2021,431,Clientes efectos comerciales a cobrar,D,118981.72
+Kreuzung,gesamt,07/02/2021,700,Ventas de mercaderías,H,98332.00
+Kreuzung,gesamt,07/02/2021,477,H.P. IVA Repercutido,H,20649.72
+Kreuzung,gesamt,22/02/2021,431,Clientes efectos comerciales a cobrar,D,106744.99
+Kreuzung,gesamt,22/02/2021,700,Ventas de mercaderías,H,88219.00
+Kreuzung,gesamt,22/02/2021,477,H.P. IVA Repercutido,H,18525.99
+Kreuzung,gesamt,28/11/2021,431,Clientes efectos comerciales a cobrar,D,106986.99
+Kreuzung,gesamt,28/11/2021,700,Ventas de mercaderías,H,88419.00
+Kreuzung,gesamt,28/11/2021,477,H.P. IVA Repercutido,H,18567.99
+Kreuzung,gesamt,16/07/2021,431,Clientes efectos comerciales a cobrar,D,91408.24
+Kreuzung,gesamt,16/07/2021,700,Ventas de mercaderías,H,75544.00
+Kreuzung,gesamt,16/07/2021,477,H.P. IVA Repercutido,H,15864.24
+Kreuzung,gesamt,05/07/2021,431,Clientes efectos comerciales a cobrar,D,76013.41
+Kreuzung,gesamt,05/07/2021,700,Ventas de mercaderías,H,62821.00
+Kreuzung,gesamt,05/07/2021,477,H.P. IVA Repercutido,H,13192.41
+Kreuzung,gesamt,25/07/2021,431,Clientes efectos comerciales a cobrar,D,62262.97
+Kreuzung,gesamt,25/07/2021,700,Ventas de mercaderías,H,51457.00
+Kreuzung,gesamt,25/07/2021,477,H.P. IVA Repercutido,H,10805.97
+Kreuzung,gesamt,17/11/2021,431,Clientes efectos comerciales a cobrar,D,50613.09
+Kreuzung,gesamt,17/11/2021,700,Ventas de mercaderías,H,41829.00
+Kreuzung,gesamt,17/11/2021,477,H.P. IVA Repercutido,H,8784.09
+Kreuzung,gesamt,09/09/2021,431,Clientes efectos comerciales a cobrar,D,80719.10
+Kreuzung,gesamt,09/09/2021,700,Ventas de mercaderías,H,66710.00
+Kreuzung,gesamt,09/09/2021,477,H.P. IVA Repercutido,H,14009.10
+Kreuzung,gesamt,23/11/2021,431,Clientes efectos comerciales a cobrar,D,123743.07
+Kreuzung,gesamt,23/11/2021,700,Ventas de mercaderías,H,102267.00
+Kreuzung,gesamt,23/11/2021,477,H.P. IVA Repercutido,H,21476.07
+Kreuzung,gesamt,04/03/2021,431,Clientes efectos comerciales a cobrar,D,72315.65
+Kreuzung,gesamt,04/03/2021,700,Ventas de mercaderías,H,59765.00
+Kreuzung,gesamt,04/03/2021,477,H.P. IVA Repercutido,H,12550.65
+Kreuzung,gesamt,18/06/2021,431,Clientes efectos comerciales a cobrar,D,111629.76
+Kreuzung,gesamt,18/06/2021,700,Ventas de mercaderías,H,92256.00
+Kreuzung,gesamt,18/06/2021,477,H.P. IVA Repercutido,H,19373.76
+Kreuzung,gesamt,11/03/2021,431,Clientes efectos comerciales a cobrar,D,89616.23
+Kreuzung,gesamt,11/03/2021,700,Ventas de mercaderías,H,74063.00
+Kreuzung,gesamt,11/03/2021,477,H.P. IVA Repercutido,H,15553.23
+Kreuzung,gesamt,27/03/2021,431,Clientes efectos comerciales a cobrar,D,98538.77
+Kreuzung,gesamt,27/03/2021,700,Ventas de mercaderías,H,81437.00
+Kreuzung,gesamt,27/03/2021,477,H.P. IVA Repercutido,H,17101.77
+Kreuzung,gesamt,18/03/2021,431,Clientes efectos comerciales a cobrar,D,72544.34
+Kreuzung,gesamt,18/03/2021,700,Ventas de mercaderías,H,59954.00
+Kreuzung,gesamt,18/03/2021,477,H.P. IVA Repercutido,H,12590.34
+Kreuzung,gesamt,23/01/2021,431,Clientes efectos comerciales a cobrar,D,100572.78
+Kreuzung,gesamt,23/01/2021,700,Ventas de mercaderías,H,83118.00
+Kreuzung,gesamt,23/01/2021,477,H.P. IVA Repercutido,H,17454.78
+Kreuzung,gesamt,08/08/2021,431,Clientes efectos comerciales a cobrar,D,99091.74
+Kreuzung,gesamt,08/08/2021,700,Ventas de mercaderías,H,81894.00
+Kreuzung,gesamt,08/08/2021,477,H.P. IVA Repercutido,H,17197.74
+Kreuzung,gesamt,01/04/2021,431,Clientes efectos comerciales a cobrar,D,95114.47
+Kreuzung,gesamt,01/04/2021,700,Ventas de mercaderías,H,78607.00
+Kreuzung,gesamt,01/04/2021,477,H.P. IVA Repercutido,H,16507.47
+Kreuzung,gesamt,24/06/2021,431,Clientes efectos comerciales a cobrar,D,93829.45
+Kreuzung,gesamt,24/06/2021,700,Ventas de mercaderías,H,77545.00
+Kreuzung,gesamt,24/06/2021,477,H.P. IVA Repercutido,H,16284.45
+Kreuzung,gesamt,04/08/2021,431,Clientes efectos comerciales a cobrar,D,116840.02
+Kreuzung,gesamt,04/08/2021,700,Ventas de mercaderías,H,96562.00
+Kreuzung,gesamt,04/08/2021,477,H.P. IVA Repercutido,H,20278.02
+Kreuzung,gesamt,26/08/2021,431,Clientes efectos comerciales a cobrar,D,75062.35
+Kreuzung,gesamt,26/08/2021,700,Ventas de mercaderías,H,62035.00
+Kreuzung,gesamt,26/08/2021,477,H.P. IVA Repercutido,H,13027.35
+Kreuzung,gesamt,23/10/2021,431,Clientes efectos comerciales a cobrar,D,99810.48
+Kreuzung,gesamt,23/10/2021,700,Ventas de mercaderías,H,82488.00
+Kreuzung,gesamt,23/10/2021,477,H.P. IVA Repercutido,H,17322.48
+Kreuzung,gesamt,03/04/2021,431,Clientes efectos comerciales a cobrar,D,92197.16
+Kreuzung,gesamt,03/04/2021,700,Ventas de mercaderías,H,76196.00
+Kreuzung,gesamt,03/04/2021,477,H.P. IVA Repercutido,H,16001.16
+Kreuzung,gesamt,01/07/2021,431,Clientes efectos comerciales a cobrar,D,71024.58
+Kreuzung,gesamt,01/07/2021,700,Ventas de mercaderías,H,58698.00
+Kreuzung,gesamt,01/07/2021,477,H.P. IVA Repercutido,H,12326.58
+Kreuzung,gesamt,15/06/2021,431,Clientes efectos comerciales a cobrar,D,118796.59
+Kreuzung,gesamt,15/06/2021,700,Ventas de mercaderías,H,98179.00
+Kreuzung,gesamt,15/06/2021,477,H.P. IVA Repercutido,H,20617.59
+Kreuzung,gesamt,21/09/2021,431,Clientes efectos comerciales a cobrar,D,47006.08
+Kreuzung,gesamt,21/09/2021,700,Ventas de mercaderías,H,38848.00
+Kreuzung,gesamt,21/09/2021,477,H.P. IVA Repercutido,H,8158.08
+Kreuzung,gesamt,09/08/2021,431,Clientes efectos comerciales a cobrar,D,54562.53
+Kreuzung,gesamt,09/08/2021,700,Ventas de mercaderías,H,45093.00
+Kreuzung,gesamt,09/08/2021,477,H.P. IVA Repercutido,H,9469.53
+Kreuzung,gesamt,02/09/2021,431,Clientes efectos comerciales a cobrar,D,84096.21
+Kreuzung,gesamt,02/09/2021,700,Ventas de mercaderías,H,69501.00
+Kreuzung,gesamt,02/09/2021,477,H.P. IVA Repercutido,H,14595.21
+Kreuzung,gesamt,19/06/2021,431,Clientes efectos comerciales a cobrar,D,66738.76
+Kreuzung,gesamt,19/06/2021,700,Ventas de mercaderías,H,55156.00,
+Kreuzung,gesamt,19/06/2021,477,H.P. IVA Repercutido,H,11582.76,
+Kreuzung,gesamt,19/03/2021,431,Clientes efectos comerciales a cobrar,D,64659.98,
+Kreuzung,gesamt,19/03/2021,700,Ventas de mercaderías,H,53438.00,
+Kreuzung,gesamt,19/03/2021,477,H.P. IVA Repercutido,H,11221.98,
+Kreuzung,gesamt,09/01/2021,431,Clientes efectos comerciales a cobrar,D,391020.00,
+Kreuzung,gesamt,09/01/2021,700,Ventas de mercaderías,H,323157.02,
+Kreuzung,gesamt,09/01/2021,477,H.P. IVA Repercutido,H,67862.98,
+Kreuzung,gesamt,09/01/2021,440,Deudores,D,391020.00,
+Kreuzung,gesamt,09/01/2021,431,Clientes efectos comerciales a cobrar,D,-391020.00,
+Kreuzung,gesamt,12/03/2021,431,Clientes efectos comerciales a cobrar,D,115968.82,
+Kreuzung,gesamt,12/03/2021,700,Ventas de mercaderías,H,95842.00,
+Kreuzung,gesamt,12/03/2021,477,H.P. IVA Repercutido,H,20126.82,
+Kreuzung,gesamt,12/03/2021,440,Deudores,D,115968.82,
+Kreuzung,gesamt,12/03/2021,431,Clientes efectos comerciales a cobrar,D,-115968.82,
+Kreuzung,gesamt,07/05/2021,431,Clientes efectos comerciales a cobrar,D,44421.52,
+Kreuzung,gesamt,07/05/2021,700,Ventas de mercaderías,H,36712.00
+Kreuzung,gesamt,07/05/2021,477,H.P. IVA Repercutido,H,7709.52
+Kreuzung,gesamt,07/05/2021,440,Deudores,D,44421.52
+Kreuzung,gesamt,07/05/2021,431,Clientes efectos comerciales a cobrar,D,-44421.52
+Kreuzung,gesamt,08/05/2021,431,Clientes efectos comerciales a cobrar,D,86279.05
+Kreuzung,gesamt,08/05/2021,700,Ventas de mercaderías,H,71305.00
+Kreuzung,gesamt,08/05/2021,477,H.P. IVA Repercutido,H,14974.05
+Kreuzung,gesamt,08/05/2021,440,Deudores,D,86279.05
+Kreuzung,gesamt,08/05/2021,431,Clientes efectos comerciales a cobrar,D,-86279.05
+Kreuzung,gesamt,06/11/2021,431,Clientes efectos comerciales a cobrar,D,97943.45
+Kreuzung,gesamt,06/11/2021,700,Ventas de mercaderías,H,80945.00
+Kreuzung,gesamt,06/11/2021,477,H.P. IVA Repercutido,H,16998.45
+Kreuzung,gesamt,06/11/2021,440,Deudores,D,97943.45
+Kreuzung,gesamt,06/11/2021,431,Clientes efectos comerciales a cobrar,D,-97943.45
+Kreuzung,gesamt,11/05/2021,431,Clientes efectos comerciales a cobrar,D,109651.41
+Kreuzung,gesamt,11/05/2021,700,Ventas de mercaderías,H,90621.00
+Kreuzung,gesamt,11/05/2021,477,H.P. IVA Repercutido,H,19030.41
+Kreuzung,gesamt,11/05/2021,440,Deudores,D,109651.41
+Kreuzung,gesamt,11/05/2021,431,Clientes efectos comerciales a cobrar,D,-109651.41
+Kreuzung,gesamt,10/02/2021,431,Clientes efectos comerciales a cobrar,D,88558.69
+Kreuzung,gesamt,10/02/2021,700,Ventas de mercaderías,H,73189.00
+Kreuzung,gesamt,10/02/2021,477,H.P. IVA Repercutido,H,15369.69
+Kreuzung,gesamt,10/02/2021,440,Deudores,D,88558.69
+Kreuzung,gesamt,10/02/2021,431,Clientes efectos comerciales a cobrar,D,-88558.69
+Kreuzung,gesamt,17/04/2021,431,Clientes efectos comerciales a cobrar,D,68844.16
+Kreuzung,gesamt,17/04/2021,700,Ventas de mercaderías,H,56896.00
+Kreuzung,gesamt,17/04/2021,477,H.P. IVA Repercutido,H,11948.16
+Kreuzung,gesamt,17/04/2021,440,Deudores,D,68844.16
+Kreuzung,gesamt,17/04/2021,431,Clientes efectos comerciales a cobrar,D,-68844.16
+Kreuzung,gesamt,11/09/2021,431,Clientes efectos comerciales a cobrar,D,64557.13
+Kreuzung,gesamt,11/09/2021,700,Ventas de mercaderías,H,53353.00
+Kreuzung,gesamt,11/09/2021,477,H.P. IVA Repercutido,H,11204.13
+Kreuzung,gesamt,11/09/2021,440,Deudores,D,64557.13
+Kreuzung,gesamt,11/09/2021,431,Clientes efectos comerciales a cobrar,D,-64557.13
+Kreuzung,gesamt,08/05/2021,431,Clientes efectos comerciales a cobrar,D,52756.00
+Kreuzung,gesamt,08/05/2021,700,Ventas de mercaderías,H,43600.00
+Kreuzung,gesamt,08/05/2021,477,H.P. IVA Repercutido,H,9156.00
+Kreuzung,gesamt,08/05/2021,440,Deudores,D,52756.00
+Kreuzung,gesamt,08/05/2021,431,Clientes efectos comerciales a cobrar,D,-52756.00
+Kreuzung,gesamt,11/06/2021,570,Caja €,D,20837.41
+Kreuzung,gesamt,11/06/2021,700,Ventas de mercaderías,H,17221.00
+Kreuzung,gesamt,11/06/2021,477,H.P. IVA Repercutido,H,3616.41
+Kreuzung,gesamt,04/06/2021,570,Caja €,D,21271.80
+Kreuzung,gesamt,04/06/2021,700,Ventas de mercaderías,H,17580.00
+Kreuzung,gesamt,04/06/2021,477,H.P. IVA Repercutido,H,3691.80
+Kreuzung,gesamt,05/07/2021,570,Caja €,D,25929.09
+Kreuzung,gesamt,05/07/2021,700,Ventas de mercaderías,H,21429.00
+Kreuzung,gesamt,05/07/2021,477,H.P. IVA Repercutido,H,4500.09
+Kreuzung,gesamt,07/10/2021,570,Caja €,D,23071.07
+Kreuzung,gesamt,07/10/2021,700,Ventas de mercaderías,H,19067.00
+Kreuzung,gesamt,07/10/2021,477,H.P. IVA Repercutido,H,4004.07
+Kreuzung,gesamt,03/06/2021,570,Caja €,D,14455.87
+Kreuzung,gesamt,03/06/2021,700,Ventas de mercaderías,H,11947.00
+Kreuzung,gesamt,03/06/2021,477,H.P. IVA Repercutido,H,2508.87
+Kreuzung,gesamt,01/07/2021,570,Caja €,D,18016.90
+Kreuzung,gesamt,01/07/2021,700,Ventas de mercaderías,H,14890.00
+Kreuzung,gesamt,01/07/2021,477,H.P. IVA Repercutido,H,3126.90
+Kreuzung,gesamt,01/07/2021,570,Caja €,D,18016.90
+Kreuzung,gesamt,01/07/2021,700,Ventas de mercaderías,H,14890.00
+Kreuzung,gesamt,01/07/2021,477,H.P. IVA Repercutido,H,3126.90
+Kreuzung,gesamt,16/09/2021,570,Caja €,D,18078.61
+Kreuzung,gesamt,16/09/2021,700,Ventas de mercaderías,H,14941.00
+Kreuzung,gesamt,16/09/2021,477,H.P. IVA Repercutido,H,3137.61
+Kreuzung,gesamt,22/05/2021,570,Caja €,D,19788.34
+Kreuzung,gesamt,22/05/2021,700,Ventas de mercaderías,H,16354.00
+Kreuzung,gesamt,22/05/2021,477,H.P. IVA Repercutido,H,3434.34
+Kreuzung,gesamt,23/10/2021,570,Caja €,D,22739.53
+Kreuzung,gesamt,23/10/2021,700,Ventas de mercaderías,H,18793.00
+Kreuzung,gesamt,23/10/2021,477,H.P. IVA Repercutido,H,3946.53
+Kreuzung,gesamt,07/03/2021,570,Caja €,D,11618.42
+Kreuzung,gesamt,07/03/2021,700,Ventas de mercaderías,H,9602.00
+Kreuzung,gesamt,07/03/2021,477,H.P. IVA Repercutido,H,2016.42
+Kreuzung,gesamt,04/12/2021,570,Caja €,D,20211.84
+Kreuzung,gesamt,04/12/2021,700,Ventas de mercaderías,H,16704.00
+Kreuzung,gesamt,04/12/2021,477,H.P. IVA Repercutido,H,3507.84
+Kreuzung,gesamt,04/06/2021,570,Caja €,D,21271.80
+Kreuzung,gesamt,04/06/2021,700,Ventas de mercaderías,H,17580.00
+Kreuzung,gesamt,04/06/2021,477,H.P. IVA Repercutido,H,3691.80
+Kreuzung,gesamt,05/07/2021,570,Caja €,D,25929.09
+Kreuzung,gesamt,05/07/2021,700,Ventas de mercaderías,H,21429.00
+Kreuzung,gesamt,05/07/2021,477,H.P. IVA Repercutido,H,4500.09
+Kreuzung,gesamt,07/10/2021,570,Caja €,D,23071.07
+Kreuzung,gesamt,07/10/2021,700,Ventas de mercaderías,H,19067.00
+Kreuzung,gesamt,07/10/2021,477,H.P. IVA Repercutido,H,4004.07
+Kreuzung,gesamt,03/06/2021,570,Caja €,D,14455.87
+Kreuzung,gesamt,03/06/2021,700,Ventas de mercaderías,H,11947.00
+Kreuzung,gesamt,03/06/2021,477,H.P. IVA Repercutido,H,2508.87
+Kreuzung,gesamt,16/09/2021,570,Caja €,D,18078.61
+Kreuzung,gesamt,16/09/2021,700,Ventas de mercaderías,H,14941.00
+Kreuzung,gesamt,16/09/2021,477,H.P. IVA Repercutido,H,3137.61
+Kreuzung,gesamt,22/05/2021,570,Caja €,D,19788.34
+Kreuzung,gesamt,22/05/2021,700,Ventas de mercaderías,H,16354.00
+Kreuzung,gesamt,22/05/2021,477,H.P. IVA Repercutido,H,3434.34
+Kreuzung,gesamt,23/10/2021,570,Caja €,D,22739.53
+Kreuzung,gesamt,23/10/2021,700,Ventas de mercaderías,H,18793.00
+Kreuzung,gesamt,23/10/2021,477,H.P. IVA Repercutido,H,3946.53
+Kreuzung,gesamt,04/12/2021,570,Caja €,D,20211.84
+Kreuzung,gesamt,04/12/2021,700,Ventas de mercaderías,H,16704.00
+Kreuzung,gesamt,04/12/2021,477,H.P. IVA Repercutido,H,3507.84
+Kreuzung,gesamt,04/12/2021,570,Caja €,D,8399.00
+Kreuzung,gesamt,04/12/2021,700,Ventas de mercaderías,H,6941.32
+Kreuzung,gesamt,04/12/2021,477,H.P. IVA Repercutido,H,1457.68
+Kreuzung,gesamt,11/06/2021,570,Caja €,D,20837.41
+Kreuzung,gesamt,11/06/2021,700,Ventas de mercaderías,H,17221.00
+Kreuzung,gesamt,11/06/2021,477,H.P. IVA Repercutido,H,3616.41
+Kreuzung,gesamt,04/06/2021,570,Caja €,D,21271.80
+Kreuzung,gesamt,04/06/2021,700,Ventas de mercaderías,H,17580.00
+Kreuzung,gesamt,04/06/2021,477,H.P. IVA Repercutido,H,3691.80
+Kreuzung,gesamt,05/07/2021,570,Caja €,D,25929.09
+Kreuzung,gesamt,05/07/2021,700,Ventas de mercaderías,H,21429.00
+Kreuzung,gesamt,05/07/2021,477,H.P. IVA Repercutido,H,4500.09
+Kreuzung,gesamt,07/10/2021,570,Caja €,D,23071.07
+Kreuzung,gesamt,07/10/2021,700,Ventas de mercaderías,H,19067.00
+Kreuzung,gesamt,07/10/2021,477,H.P. IVA Repercutido,H,4004.07
+Kreuzung,gesamt,03/06/2021,570,Caja €,D,14455.87
+Kreuzung,gesamt,03/06/2021,700,Ventas de mercaderías,H,11947.00
+Kreuzung,gesamt,03/06/2021,477,H.P. IVA Repercutido,H,2508.87
+Kreuzung,gesamt,01/07/2021,570,Caja €,D,18016.90
+Kreuzung,gesamt,01/07/2021,700,Ventas de mercaderías,H,14890.00
+Kreuzung,gesamt,01/07/2021,477,H.P. IVA Repercutido,H,3126.90
+Kreuzung,gesamt,16/09/2021,570,Caja €,D,18078.61
+Kreuzung,gesamt,16/09/2021,700,Ventas de mercaderías,H,14941.00
+Kreuzung,gesamt,16/09/2021,477,H.P. IVA Repercutido,H,3137.61
+Kreuzung,gesamt,22/05/2021,570,Caja €,D,19788.34
+Kreuzung,gesamt,22/05/2021,700,Ventas de mercaderías,H,16354.00
+Kreuzung,gesamt,22/05/2021,477,H.P. IVA Repercutido,H,3434.34
+Kreuzung,gesamt,23/10/2021,570,Caja €,D,22739.53
+Kreuzung,gesamt,23/10/2021,700,Ventas de mercaderías,H,18793.00
+Kreuzung,gesamt,23/10/2021,477,H.P. IVA Repercutido,H,3946.53
+Kreuzung,gesamt,07/03/2021,570,Caja €,D,11618.42
+Kreuzung,gesamt,07/03/2021,700,Ventas de mercaderías,H,9602.00
+Kreuzung,gesamt,07/03/2021,477,H.P. IVA Repercutido,H,2016.42
+Kreuzung,gesamt,04/12/2021,570,Caja €,D,20211.84
+Kreuzung,gesamt,04/12/2021,700,Ventas de mercaderías,H,16704.00
+Kreuzung,gesamt,04/12/2021,477,H.P. IVA Repercutido,H,3507.84
+Kreuzung,gesamt,04/09/2021,431,Clientes efectos comerciales a cobrar,D,77415.80
+Kreuzung,gesamt,04/09/2021,700,Ventas de mercaderías,H,63980.00
+Kreuzung,gesamt,04/09/2021,477,H.P. IVA Repercutido,H,13435.80
+Kreuzung,gesamt,04/09/2021,572,Bancos c/c,D,77415.80
+Kreuzung,gesamt,04/09/2021,431,Clientes efectos comerciales a cobrar,D,-77415.80
+Kreuzung,gesamt,07/08/2021,431,Clientes efectos comerciales a cobrar,D,95887.66
+Kreuzung,gesamt,07/08/2021,700,Ventas de mercaderías,H,79246.00
+Kreuzung,gesamt,07/08/2021,477,H.P. IVA Repercutido,H,16641.66
+Kreuzung,gesamt,07/08/2021,572,Bancos c/c,D,95887.66
+Kreuzung,gesamt,07/08/2021,431,Clientes efectos comerciales a cobrar,D,-95887.66
+Kreuzung,gesamt,21/04/2021,431,Clientes efectos comerciales a cobrar,D,70578.09
+Kreuzung,gesamt,21/04/2021,700,Ventas de mercaderías,H,58329.00
+Kreuzung,gesamt,21/04/2021,477,H.P. IVA Repercutido,H,12249.09
+Kreuzung,gesamt,21/04/2021,572,Bancos c/c,D,70578.09
+Kreuzung,gesamt,21/04/2021,431,Clientes efectos comerciales a cobrar,D,-70578.09
+Kreuzung,gesamt,19/11/2021,431,Clientes efectos comerciales a cobrar,D,88729.30
+Kreuzung,gesamt,19/11/2021,700,Ventas de mercaderías,H,73330.00
+Kreuzung,gesamt,19/11/2021,477,H.P. IVA Repercutido,H,15399.30
+Kreuzung,gesamt,19/11/2021,572,Bancos c/c,D,88729.30
+Kreuzung,gesamt,19/11/2021,431,Clientes efectos comerciales a cobrar,D,-88729.30
+Kreuzung,gesamt,06/06/2021,431,Clientes efectos comerciales a cobrar,D,63472.97
+Kreuzung,gesamt,06/06/2021,700,Ventas de mercaderías,H,52457.00
+Kreuzung,gesamt,06/06/2021,477,H.P. IVA Repercutido,H,11015.97
+Kreuzung,gesamt,06/06/2021,572,Bancos c/c,D,63472.97
+Kreuzung,gesamt,06/06/2021,431,Clientes efectos comerciales a cobrar,D,-63472.97
+Kreuzung,gesamt,02/08/2021,431,Clientes efectos comerciales a cobrar,D,57075.70
+Kreuzung,gesamt,02/08/2021,700,Ventas de mercaderías,H,47170.00
+Kreuzung,gesamt,02/08/2021,477,H.P. IVA Repercutido,H,9905.70
+Kreuzung,gesamt,02/08/2021,572,Bancos c/c,D,57075.70
+Kreuzung,gesamt,02/08/2021,431,Clientes efectos comerciales a cobrar,D,-57075.70
+Kreuzung,gesamt,04/09/2021,431,Clientes efectos comerciales a cobrar,D,77415.80
+Kreuzung,gesamt,04/09/2021,700,Ventas de mercaderías,H,63980.00
+Kreuzung,gesamt,04/09/2021,477,H.P. IVA Repercutido,H,13435.80
+Kreuzung,gesamt,04/09/2021,572,Bancos c/c,D,77415.80
+Kreuzung,gesamt,04/09/2021,431,Clientes efectos comerciales a cobrar,D,-77415.80
+Kreuzung,gesamt,07/08/2021,431,Clientes efectos comerciales a cobrar,D,95887.66
+Kreuzung,gesamt,07/08/2021,700,Ventas de mercaderías,H,79246.00
+Kreuzung,gesamt,07/08/2021,477,H.P. IVA Repercutido,H,16641.66
+Kreuzung,gesamt,07/08/2021,572,Bancos c/c,D,95887.66
+Kreuzung,gesamt,07/08/2021,431,Clientes efectos comerciales a cobrar,D,-95887.66
+Kreuzung,gesamt,21/04/2021,431,Clientes efectos comerciales a cobrar,D,70578.09
+Kreuzung,gesamt,21/04/2021,700,Ventas de mercaderías,H,58329.00
+Kreuzung,gesamt,21/04/2021,477,H.P. IVA Repercutido,H,12249.09
+Kreuzung,gesamt,21/04/2021,572,Bancos c/c,D,70578.09
+Kreuzung,gesamt,21/04/2021,431,Clientes efectos comerciales a cobrar,D,-70578.09
+Kreuzung,gesamt,10/02/2021,431,Clientes efectos comerciales a cobrar,D,97052.89
+Kreuzung,gesamt,10/02/2021,700,Ventas de mercaderías,H,80209.00
+Kreuzung,gesamt,10/02/2021,477,H.P. IVA Repercutido,H,16843.89
+Kreuzung,gesamt,10/02/2021,572,Bancos c/c,D,97052.89
+Kreuzung,gesamt,10/02/2021,431,Clientes efectos comerciales a cobrar,D,-97052.89
+Kreuzung,gesamt,21/03/2021,431,Clientes efectos comerciales a cobrar,D,59501.75
+Kreuzung,gesamt,21/03/2021,700,Ventas de mercaderías,H,49175.00
+Kreuzung,gesamt,21/03/2021,477,H.P. IVA Repercutido,H,10326.75
+Kreuzung,gesamt,21/03/2021,572,Bancos c/c,D,59501.75
+Kreuzung,gesamt,21/03/2021,431,Clientes efectos comerciales a cobrar,D,-59501.75
+Kreuzung,gesamt,01/08/2021,431,Clientes efectos comerciales a cobrar,D,59603.39
+Kreuzung,gesamt,01/08/2021,700,Ventas de mercaderías,H,49259.00
+Kreuzung,gesamt,01/08/2021,477,H.P. IVA Repercutido,H,10344.39
+Kreuzung,gesamt,01/08/2021,572,Bancos c/c,D,59603.39
+Kreuzung,gesamt,01/08/2021,431,Clientes efectos comerciales a cobrar,D,-59603.39
+Kreuzung,gesamt,18/09/2021,431,Clientes efectos comerciales a cobrar,D,55657.58
+Kreuzung,gesamt,18/09/2021,700,Ventas de mercaderías,H,45998.00
+Kreuzung,gesamt,18/09/2021,477,H.P. IVA Repercutido,H,9659.58
+Kreuzung,gesamt,18/09/2021,572,Bancos c/c,D,55657.58
+Kreuzung,gesamt,18/09/2021,431,Clientes efectos comerciales a cobrar,D,-55657.58
+Kreuzung,gesamt,04/11/2021,431,Clientes efectos comerciales a cobrar,D,65165.76
+Kreuzung,gesamt,04/11/2021,700,Ventas de mercaderías,H,53856.00
+Kreuzung,gesamt,04/11/2021,477,H.P. IVA Repercutido,H,11309.76
+Kreuzung,gesamt,04/11/2021,572,Bancos c/c,D,65165.76
+Kreuzung,gesamt,04/11/2021,431,Clientes efectos comerciales a cobrar,D,-65165.76
+Kreuzung,gesamt,11/07/2021,431,Clientes efectos comerciales a cobrar,D,81998.07
+Kreuzung,gesamt,11/07/2021,700,Ventas de mercaderías,H,67767.00
+Kreuzung,gesamt,11/07/2021,477,H.P. IVA Repercutido,H,14231.07
+Kreuzung,gesamt,11/07/2021,572,Bancos c/c,D,81998.07
+Kreuzung,gesamt,11/07/2021,431,Clientes efectos comerciales a cobrar,D,-81998.07
+Kreuzung,gesamt,11/06/2021,431,Clientes efectos comerciales a cobrar,D,95337.11
+Kreuzung,gesamt,11/06/2021,700,Ventas de mercaderías,H,78791.00
+Kreuzung,gesamt,11/06/2021,477,H.P. IVA Repercutido,H,16546.11
+Kreuzung,gesamt,11/06/2021,572,Bancos c/c,D,95337.11
+Kreuzung,gesamt,11/06/2021,431,Clientes efectos comerciales a cobrar,D,-95337.11
+Kreuzung,gesamt,10/02/2021,431,Clientes efectos comerciales a cobrar,D,97052.89
+Kreuzung,gesamt,10/02/2021,700,Ventas de mercaderías,H,80209.00
+Kreuzung,gesamt,10/02/2021,477,H.P. IVA Repercutido,H,16843.89
+Kreuzung,gesamt,10/02/2021,572,Bancos c/c,D,97052.89
+Kreuzung,gesamt,10/02/2021,431,Clientes efectos comerciales a cobrar,D,-97052.89
+Kreuzung,gesamt,21/03/2021,431,Clientes efectos comerciales a cobrar,D,59501.75
+Kreuzung,gesamt,21/03/2021,700,Ventas de mercaderías,H,49175.00
+Kreuzung,gesamt,21/03/2021,477,H.P. IVA Repercutido,H,10326.75
+Kreuzung,gesamt,21/03/2021,572,Bancos c/c,D,59501.75
+Kreuzung,gesamt,21/03/2021,431,Clientes efectos comerciales a cobrar,D,-59501.75
+Kreuzung,gesamt,01/08/2021,431,Clientes efectos comerciales a cobrar,D,59603.39
+Kreuzung,gesamt,01/08/2021,700,Ventas de mercaderías,H,49259.00
+Kreuzung,gesamt,01/08/2021,477,H.P. IVA Repercutido,H,10344.39
+Kreuzung,gesamt,01/08/2021,572,Bancos c/c,D,59603.39
+Kreuzung,gesamt,01/08/2021,431,Clientes efectos comerciales a cobrar,D,-59603.39
+Kreuzung,gesamt,18/09/2021,431,Clientes efectos comerciales a cobrar,D,55657.58
+Kreuzung,gesamt,18/09/2021,700,Ventas de mercaderías,H,45998.00
+Kreuzung,gesamt,18/09/2021,477,H.P. IVA Repercutido,H,9659.58
+Kreuzung,gesamt,18/09/2021,572,Bancos c/c,D,55657.58
+Kreuzung,gesamt,18/09/2021,431,Clientes efectos comerciales a cobrar,D,-55657.58
+Kreuzung,gesamt,04/11/2021,431,Clientes efectos comerciales a cobrar,D,65165.76
+Kreuzung,gesamt,04/11/2021,700,Ventas de mercaderías,H,53856.00
+Kreuzung,gesamt,04/11/2021,477,H.P. IVA Repercutido,H,11309.76
+Kreuzung,gesamt,04/11/2021,572,Bancos c/c,D,65165.76
+Kreuzung,gesamt,04/11/2021,431,Clientes efectos comerciales a cobrar,D,-65165.76
+Kreuzung,gesamt,11/07/2021,431,Clientes efectos comerciales a cobrar,D,81998.07
+Kreuzung,gesamt,11/07/2021,700,Ventas de mercaderías,H,67767.00
+Kreuzung,gesamt,11/07/2021,477,H.P. IVA Repercutido,H,14231.07
+Kreuzung,gesamt,11/07/2021,572,Bancos c/c,D,81998.07
+Kreuzung,gesamt,11/07/2021,431,Clientes efectos comerciales a cobrar,D,-81998.07
+Kreuzung,gesamt,11/06/2021,431,Clientes efectos comerciales a cobrar,D,95337.11
+Kreuzung,gesamt,11/06/2021,700,Ventas de mercaderías,H,78791.00
+Kreuzung,gesamt,11/06/2021,477,H.P. IVA Repercutido,H,16546.11
+Kreuzung,gesamt,11/06/2021,572,Bancos c/c,D,95337.11
+Kreuzung,gesamt,11/06/2021,431,Clientes efectos comerciales a cobrar,D,-95337.11
+Kreuzung,gesamt,21/04/2021,431,Clientes efectos comerciales a cobrar,D,70578.09
+Kreuzung,gesamt,21/04/2021,700,Ventas de mercaderías,H,58329.00
+Kreuzung,gesamt,21/04/2021,477,H.P. IVA Repercutido,H,12249.09
+Kreuzung,gesamt,21/04/2021,572,Bancos c/c,D,70578.09
+Kreuzung,gesamt,21/04/2021,431,Clientes efectos comerciales a cobrar,D,-70578.09
+Kreuzung,gesamt,10/02/2021,431,Clientes efectos comerciales a cobrar,D,97052.89
+Kreuzung,gesamt,10/02/2021,700,Ventas de mercaderías,H,80209.00
+Kreuzung,gesamt,10/02/2021,477,H.P. IVA Repercutido,H,16843.89
+Kreuzung,gesamt,10/02/2021,572,Bancos c/c,D,97052.89
+Kreuzung,gesamt,10/02/2021,431,Clientes efectos comerciales a cobrar,D,-97052.89
+Kreuzung,gesamt,21/03/2021,431,Clientes efectos comerciales a cobrar,D,59501.75
+Kreuzung,gesamt,21/03/2021,700,Ventas de mercaderías,H,49175.00
+Kreuzung,gesamt,21/03/2021,477,H.P. IVA Repercutido,H,10326.75
+Kreuzung,gesamt,21/03/2021,572,Bancos c/c,D,59501.75
+Kreuzung,gesamt,21/03/2021,431,Clientes efectos comerciales a cobrar,D,-59501.75
+Kreuzung,gesamt,01/08/2021,431,Clientes efectos comerciales a cobrar,D,59603.39
+Kreuzung,gesamt,01/08/2021,700,Ventas de mercaderías,H,49259.00
+Kreuzung,gesamt,01/08/2021,477,H.P. IVA Repercutido,H,10344.39
+Kreuzung,gesamt,01/08/2021,572,Bancos c/c,D,59603.39
+Kreuzung,gesamt,01/08/2021,431,Clientes efectos comerciales a cobrar,D,-59603.39
+Kreuzung,gesamt,18/09/2021,431,Clientes efectos comerciales a cobrar,D,55657.58
+Kreuzung,gesamt,18/09/2021,700,Ventas de mercaderías,H,45998.00
+Kreuzung,gesamt,18/09/2021,477,H.P. IVA Repercutido,H,9659.58
+Kreuzung,gesamt,18/09/2021,572,Bancos c/c,D,55657.58
+Kreuzung,gesamt,18/09/2021,431,Clientes efectos comerciales a cobrar,D,-55657.58
+Kreuzung,gesamt,04/11/2021,431,Clientes efectos comerciales a cobrar,D,65165.76
+Kreuzung,gesamt,04/11/2021,700,Ventas de mercaderías,H,53856.00
+Kreuzung,gesamt,04/11/2021,477,H.P. IVA Repercutido,H,11309.76
+Kreuzung,gesamt,04/11/2021,572,Bancos c/c,D,65165.76
+Kreuzung,gesamt,04/11/2021,431,Clientes efectos comerciales a cobrar,D,-65165.76
+Kreuzung,gesamt,11/07/2021,431,Clientes efectos comerciales a cobrar,D,81998.07
+Kreuzung,gesamt,11/07/2021,700,Ventas de mercaderías,H,67767.00
+Kreuzung,gesamt,11/07/2021,477,H.P. IVA Repercutido,H,14231.07
+Kreuzung,gesamt,11/07/2021,572,Bancos c/c,D,81998.07
+Kreuzung,gesamt,11/07/2021,431,Clientes efectos comerciales a cobrar,D,-81998.07
+Kreuzung,gesamt,11/06/2021,431,Clientes efectos comerciales a cobrar,D,95337.11
+Kreuzung,gesamt,11/06/2021,700,Ventas de mercaderías,H,78791.00
+Kreuzung,gesamt,11/06/2021,477,H.P. IVA Repercutido,H,16546.11
+Kreuzung,gesamt,11/06/2021,572,Bancos c/c,D,95337.11
+Kreuzung,gesamt,11/06/2021,431,Clientes efectos comerciales a cobrar,D,-95337.11
+Kreuzung,gesamt,10/02/2021,431,Clientes efectos comerciales a cobrar,D,97052.89
+Kreuzung,gesamt,10/02/2021,700,Ventas de mercaderías,H,80209.00
+Kreuzung,gesamt,10/02/2021,477,H.P. IVA Repercutido,H,16843.89
+Kreuzung,gesamt,10/02/2021,572,Bancos c/c,D,97052.89
+Kreuzung,gesamt,10/02/2021,431,Clientes efectos comerciales a cobrar,D,-97052.89
+Kreuzung,gesamt,21/03/2021,431,Clientes efectos comerciales a cobrar,D,59501.75
+Kreuzung,gesamt,21/03/2021,700,Ventas de mercaderías,H,49175.00
+Kreuzung,gesamt,21/03/2021,477,H.P. IVA Repercutido,H,10326.75
+Kreuzung,gesamt,21/03/2021,572,Bancos c/c,D,59501.75
+Kreuzung,gesamt,21/03/2021,431,Clientes efectos comerciales a cobrar,D,-59501.75
+Kreuzung,gesamt,01/08/2021,431,Clientes efectos comerciales a cobrar,D,59603.39
+Kreuzung,gesamt,01/08/2021,700,Ventas de mercaderías,H,49259.00
+Kreuzung,gesamt,01/08/2021,477,H.P. IVA Repercutido,H,10344.39
+Kreuzung,gesamt,01/08/2021,572,Bancos c/c,D,59603.39
+Kreuzung,gesamt,01/08/2021,431,Clientes efectos comerciales a cobrar,D,-59603.39,
+Kreuzung,gesamt,18/09/2021,431,Clientes efectos comerciales a cobrar,D,55657.58,
+Kreuzung,gesamt,18/09/2021,700,Ventas de mercaderías,H,45998.00,
+Kreuzung,gesamt,18/09/2021,477,H.P. IVA Repercutido,H,9659.58,
+Kreuzung,gesamt,18/09/2021,572,Bancos c/c,D,55657.58,
+Kreuzung,gesamt,18/09/2021,431,Clientes efectos comerciales a cobrar,D,-55657.58,
+Kreuzung,gesamt,04/11/2021,431,Clientes efectos comerciales a cobrar,D,65165.76,
+Kreuzung,gesamt,04/11/2021,700,Ventas de mercaderías,H,53856.00,
+Kreuzung,gesamt,04/11/2021,477,H.P. IVA Repercutido,H,11309.76,
+Kreuzung,gesamt,04/11/2021,572,Bancos c/c,D,65165.76,
+Kreuzung,gesamt,04/11/2021,431,Clientes efectos comerciales a cobrar,D,-65165.76,
+Kreuzung,gesamt,11/07/2021,431,Clientes efectos comerciales a cobrar,D,81173.57,
+Kreuzung,gesamt,11/07/2021,700,Ventas de mercaderías,H,67085.60,
+Kreuzung,gesamt,11/07/2021,477,H.P. IVA Repercutido,H,14087.97,
+Kreuzung,gesamt,11/07/2021,572,Bancos c/c,D,81173.57,
+Kreuzung,gesamt,11/07/2021,431,Clientes efectos comerciales a cobrar,D,-81173.57,
+Kreuzung,gesamt,04/09/2021,431,Clientes efectos comerciales a cobrar,D,77415.80
+Kreuzung,gesamt,04/09/2021,700,Ventas de mercaderías,H,63980.00
+Kreuzung,gesamt,04/09/2021,477,H.P. IVA Repercutido,H,13435.80
+Kreuzung,gesamt,04/09/2021,572,Bancos c/c,D,77415.80
+Kreuzung,gesamt,04/09/2021,431,Clientes efectos comerciales a cobrar,D,-77415.80
+Kreuzung,gesamt,07/08/2021,431,Clientes efectos comerciales a cobrar,D,95887.66
+Kreuzung,gesamt,07/08/2021,700,Ventas de mercaderías,H,79246.00
+Kreuzung,gesamt,07/08/2021,477,H.P. IVA Repercutido,H,16641.66
+Kreuzung,gesamt,07/08/2021,572,Bancos c/c,D,95887.66
+Kreuzung,gesamt,07/08/2021,431,Clientes efectos comerciales a cobrar,D,-95887.66
+Kreuzung,gesamt,21/04/2021,431,Clientes efectos comerciales a cobrar,D,70578.09
+Kreuzung,gesamt,21/04/2021,700,Ventas de mercaderías,H,58329.00
+Kreuzung,gesamt,21/04/2021,477,H.P. IVA Repercutido,H,12249.09
+Kreuzung,gesamt,21/04/2021,572,Bancos c/c,D,70578.09
+Kreuzung,gesamt,21/04/2021,431,Clientes efectos comerciales a cobrar,D,-70578.09
+Kreuzung,gesamt,19/11/2021,431,Clientes efectos comerciales a cobrar,D,88729.30
+Kreuzung,gesamt,19/11/2021,700,Ventas de mercaderías,H,73330.00
+Kreuzung,gesamt,19/11/2021,477,H.P. IVA Repercutido,H,15399.30
+Kreuzung,gesamt,19/11/2021,572,Bancos c/c,D,88729.30
+Kreuzung,gesamt,19/11/2021,431,Clientes efectos comerciales a cobrar,D,-88729.30
+Kreuzung,gesamt,06/06/2021,431,Clientes efectos comerciales a cobrar,D,63472.97
+Kreuzung,gesamt,06/06/2021,700,Ventas de mercaderías,H,52457.00
+Kreuzung,gesamt,06/06/2021,477,H.P. IVA Repercutido,H,11015.97
+Kreuzung,gesamt,06/06/2021,572,Bancos c/c,D,63472.97
+Kreuzung,gesamt,06/06/2021,431,Clientes efectos comerciales a cobrar,D,-63472.97
+Kreuzung,gesamt,02/08/2021,431,Clientes efectos comerciales a cobrar,D,57075.70
+Kreuzung,gesamt,02/08/2021,700,Ventas de mercaderías,H,47170.00
+Kreuzung,gesamt,02/08/2021,477,H.P. IVA Repercutido,H,9905.70
+Kreuzung,gesamt,02/08/2021,572,Bancos c/c,D,57075.70
+Kreuzung,gesamt,02/08/2021,431,Clientes efectos comerciales a cobrar,D,-57075.70
+Kreuzung,gesamt,01/08/2021,431,Clientes efectos comerciales a cobrar,D,92170.54
+Kreuzung,gesamt,01/08/2021,700,Ventas de mercaderías,H,76174.00
+Kreuzung,gesamt,01/08/2021,477,H.P. IVA Repercutido,H,15996.54
+Kreuzung,gesamt,01/08/2021,572,Bancos c/c,D,92170.54
+Kreuzung,gesamt,01/08/2021,431,Clientes efectos comerciales a cobrar,D,-92170.54
+Kreuzung,gesamt,04/09/2021,431,Clientes efectos comerciales a cobrar,D,85750.28
+Kreuzung,gesamt,04/09/2021,700,Ventas de mercaderías,H,70868.00
+Kreuzung,gesamt,04/09/2021,477,H.P. IVA Repercutido,H,14882.28
+Kreuzung,gesamt,04/09/2021,572,Bancos c/c,D,85750.28
+Kreuzung,gesamt,04/09/2021,431,Clientes efectos comerciales a cobrar,D,-85750.28
+Kreuzung,gesamt,17/08/2021,431,Clientes efectos comerciales a cobrar,D,90249.06
+Kreuzung,gesamt,17/08/2021,700,Ventas de mercaderías,H,74586.00
+Kreuzung,gesamt,17/08/2021,477,H.P. IVA Repercutido,H,15663.06
+Kreuzung,gesamt,17/08/2021,572,Bancos c/c,D,90249.06
+Kreuzung,gesamt,17/08/2021,431,Clientes efectos comerciales a cobrar,D,-90249.06
+Kreuzung,gesamt,14/01/2021,431,Clientes efectos comerciales a cobrar,D,45655.72
+Kreuzung,gesamt,14/01/2021,700,Ventas de mercaderías,H,37732.00
+Kreuzung,gesamt,14/01/2021,477,H.P. IVA Repercutido,H,7923.72
+Kreuzung,gesamt,14/01/2021,572,Bancos c/c,D,45655.72
+Kreuzung,gesamt,14/01/2021,431,Clientes efectos comerciales a cobrar,D,-45655.72
+Kreuzung,gesamt,17/05/2021,431,Clientes efectos comerciales a cobrar,D,46408.34
+Kreuzung,gesamt,17/05/2021,700,Ventas de mercaderías,H,38354.00
+Kreuzung,gesamt,17/05/2021,477,H.P. IVA Repercutido,H,8054.34
+Kreuzung,gesamt,17/05/2021,572,Bancos c/c,D,46408.34
+Kreuzung,gesamt,17/05/2021,431,Clientes efectos comerciales a cobrar,D,-46408.34
+Kreuzung,gesamt,28/08/2021,431,Clientes efectos comerciales a cobrar,D,85677.68
+Kreuzung,gesamt,28/08/2021,700,Ventas de mercaderías,H,70808.00
+Kreuzung,gesamt,28/08/2021,477,H.P. IVA Repercutido,H,14869.68
+Kreuzung,gesamt,28/08/2021,572,Bancos c/c,D,85677.68
+Kreuzung,gesamt,28/08/2021,431,Clientes efectos comerciales a cobrar,D,-85677.68
+Kreuzung,gesamt,27/05/2021,431,Clientes efectos comerciales a cobrar,D,82640.58
+Kreuzung,gesamt,27/05/2021,700,Ventas de mercaderías,H,68298.00
+Kreuzung,gesamt,27/05/2021,477,H.P. IVA Repercutido,H,14342.58
+Kreuzung,gesamt,27/05/2021,572,Bancos c/c,D,82640.58
+Kreuzung,gesamt,27/05/2021,431,Clientes efectos comerciales a cobrar,D,-82640.58
+Kreuzung,gesamt,08/05/2021,431,Clientes efectos comerciales a cobrar,D,99843.15
+Kreuzung,gesamt,08/05/2021,700,Ventas de mercaderías,H,82515.00
+Kreuzung,gesamt,08/05/2021,477,H.P. IVA Repercutido,H,17328.15
+Kreuzung,gesamt,08/05/2021,572,Bancos c/c,D,99843.15
+Kreuzung,gesamt,08/05/2021,431,Clientes efectos comerciales a cobrar,D,-99843.15
+Kreuzung,gesamt,20/03/2021,431,Clientes efectos comerciales a cobrar,D,103410.23
+Kreuzung,gesamt,20/03/2021,700,Ventas de mercaderías,H,85463.00
+Kreuzung,gesamt,20/03/2021,477,H.P. IVA Repercutido,H,17947.23
+Kreuzung,gesamt,20/03/2021,572,Bancos c/c,D,103410.23
+Kreuzung,gesamt,20/03/2021,431,Clientes efectos comerciales a cobrar,D,-103410.23
+Kreuzung,gesamt,08/04/2021,431,Clientes efectos comerciales a cobrar,D,68074.60
+Kreuzung,gesamt,08/04/2021,700,Ventas de mercaderías,H,56260.00
+Kreuzung,gesamt,08/04/2021,477,H.P. IVA Repercutido,H,11814.60
+Kreuzung,gesamt,08/04/2021,572,Bancos c/c,D,68074.60
+Kreuzung,gesamt,08/04/2021,431,Clientes efectos comerciales a cobrar,D,-68074.60
+Kreuzung,gesamt,10/02/2021,431,Clientes efectos comerciales a cobrar,D,97052.89
+Kreuzung,gesamt,10/02/2021,700,Ventas de mercaderías,H,80209.00
+Kreuzung,gesamt,10/02/2021,477,H.P. IVA Repercutido,H,16843.89
+Kreuzung,gesamt,10/02/2021,572,Bancos c/c,D,97052.89
+Kreuzung,gesamt,10/02/2021,431,Clientes efectos comerciales a cobrar,D,-97052.89
+Kreuzung,gesamt,21/03/2021,431,Clientes efectos comerciales a cobrar,D,59501.75
+Kreuzung,gesamt,21/03/2021,700,Ventas de mercaderías,H,49175.00
+Kreuzung,gesamt,21/03/2021,477,H.P. IVA Repercutido,H,10326.75
+Kreuzung,gesamt,21/03/2021,572,Bancos c/c,D,59501.75
+Kreuzung,gesamt,21/03/2021,431,Clientes efectos comerciales a cobrar,D,-59501.75
+Kreuzung,gesamt,01/08/2021,431,Clientes efectos comerciales a cobrar,D,59603.39
+Kreuzung,gesamt,01/08/2021,700,Ventas de mercaderías,H,49259.00
+Kreuzung,gesamt,01/08/2021,477,H.P. IVA Repercutido,H,10344.39
+Kreuzung,gesamt,01/08/2021,572,Bancos c/c,D,59603.39
+Kreuzung,gesamt,01/08/2021,431,Clientes efectos comerciales a cobrar,D,-59603.39
+Kreuzung,gesamt,18/09/2021,431,Clientes efectos comerciales a cobrar,D,55657.58
+Kreuzung,gesamt,18/09/2021,700,Ventas de mercaderías,H,45998.00
+Kreuzung,gesamt,18/09/2021,477,H.P. IVA Repercutido,H,9659.58
+Kreuzung,gesamt,18/09/2021,572,Bancos c/c,D,55657.58
+Kreuzung,gesamt,18/09/2021,431,Clientes efectos comerciales a cobrar,D,-55657.58
+Kreuzung,gesamt,04/11/2021,431,Clientes efectos comerciales a cobrar,D,65165.76
+Kreuzung,gesamt,04/11/2021,700,Ventas de mercaderías,H,53856.00
+Kreuzung,gesamt,04/11/2021,477,H.P. IVA Repercutido,H,11309.76
+Kreuzung,gesamt,04/11/2021,572,Bancos c/c,D,65165.76
+Kreuzung,gesamt,04/11/2021,431,Clientes efectos comerciales a cobrar,D,-65165.76
+Kreuzung,gesamt,11/07/2021,431,Clientes efectos comerciales a cobrar,D,81998.07
+Kreuzung,gesamt,11/07/2021,700,Ventas de mercaderías,H,67767.00
+Kreuzung,gesamt,11/07/2021,477,H.P. IVA Repercutido,H,14231.07
+Kreuzung,gesamt,11/07/2021,572,Bancos c/c,D,81998.07
+Kreuzung,gesamt,11/07/2021,431,Clientes efectos comerciales a cobrar,D,-81998.07
+Kreuzung,gesamt,11/06/2021,431,Clientes efectos comerciales a cobrar,D,95337.11
+Kreuzung,gesamt,11/06/2021,700,Ventas de mercaderías,H,78791.00
+Kreuzung,gesamt,11/06/2021,477,H.P. IVA Repercutido,H,16546.11,
+Kreuzung,gesamt,11/06/2021,572,Bancos c/c,D,95337.11,
+Kreuzung,gesamt,11/06/2021,431,Clientes efectos comerciales a cobrar,D,-95337.11,
+Kreuzung,gesamt,09/03/2021,601,Compras de materias primas,D,1652500.00,
+Kreuzung,gesamt,09/03/2021,472,H.P. IVA Soportado,D,347025.00,
+Kreuzung,gesamt,09/03/2021,400,Proveedores,H,1999525.00,
+Kreuzung,gesamt,03/07/2021,601,Compras de materias primas,D,112789.26,
+Kreuzung,gesamt,03/07/2021,472,H.P. IVA Soportado,D,23685.74,
+Kreuzung,gesamt,03/07/2021,400,Proveedores,H,136475.00,
+Kreuzung,gesamt,09/03/2021,601,Compras de materias primas,D,1916962.81,
+Kreuzung,gesamt,09/03/2021,472,H.P. IVA Soportado,D,402562.19,
+Kreuzung,gesamt,09/03/2021,400,Proveedores,H,2319525.00,
+Kreuzung,gesamt,03/07/2021,601,Compras de materias primas,D,499795.87,
+Kreuzung,gesamt,03/07/2021,472,H.P. IVA Soportado,D,104957.13,
+Kreuzung,gesamt,03/07/2021,400,Proveedores,H,604753.00,
+Kreuzung,gesamt,07/05/2021,601,Compras de materias primas,D,594865.29,
+Kreuzung,gesamt,07/05/2021,472,H.P. IVA Soportado,D,124921.71
+Kreuzung,gesamt,07/05/2021,400,Proveedores,H,719787.00
+Kreuzung,gesamt,16/09/2021,601,Compras de materias primas,D,395752.07
+Kreuzung,gesamt,16/09/2021,472,H.P. IVA Soportado,D,83107.93
+Kreuzung,gesamt,16/09/2021,400,Proveedores,H,478860.00
+Kreuzung,gesamt,12/03/2021,601,Compras de materias primas,D,241738.02
+Kreuzung,gesamt,12/03/2021,472,H.P. IVA Soportado,D,50764.98
+Kreuzung,gesamt,12/03/2021,400,Proveedores,H,292503.00
+Kreuzung,gesamt,21/02/2021,601,Compras de materias primas,D,525440.50
+Kreuzung,gesamt,21/02/2021,472,H.P. IVA Soportado,D,110342.50
+Kreuzung,gesamt,21/02/2021,400,Proveedores,H,635783.00
+Kreuzung,gesamt,10/09/2021,601,Compras de materias primas,D,369951.24
+Kreuzung,gesamt,10/09/2021,472,H.P. IVA Soportado,D,77689.76
+Kreuzung,gesamt,10/09/2021,400,Proveedores,H,447641.00
+Kreuzung,gesamt,12/02/2021,601,Compras de materias primas,D,261108.26
+Kreuzung,gesamt,12/02/2021,472,H.P. IVA Soportado,D,54832.74
+Kreuzung,gesamt,12/02/2021,400,Proveedores,H,315941.00
+Kreuzung,gesamt,27/08/2021,601,Compras de materias primas,D,216838.84
+Kreuzung,gesamt,27/08/2021,472,H.P. IVA Soportado,D,45536.16
+Kreuzung,gesamt,27/08/2021,400,Proveedores,H,262375.00
+Kreuzung,gesamt,13/03/2021,601,Compras de materias primas,D,629286.78
+Kreuzung,gesamt,13/03/2021,472,H.P. IVA Soportado,D,132150.22
+Kreuzung,gesamt,13/03/2021,400,Proveedores,H,761437.00
+Kreuzung,gesamt,21/02/2021,601,Compras de materias primas,D,580811.57
+Kreuzung,gesamt,21/02/2021,472,H.P. IVA Soportado,D,121970.43
+Kreuzung,gesamt,21/02/2021,400,Proveedores,H,702782.00
+Kreuzung,gesamt,18/05/2021,601,Compras de materias primas,D,271830.58
+Kreuzung,gesamt,18/05/2021,472,H.P. IVA Soportado,D,57084.42
+Kreuzung,gesamt,18/05/2021,400,Proveedores,H,328915.00
+Kreuzung,gesamt,10/05/2021,601,Compras de materias primas,D,225430.58
+Kreuzung,gesamt,10/05/2021,472,H.P. IVA Soportado,D,47340.42
+Kreuzung,gesamt,10/05/2021,400,Proveedores,H,272771.00
+Kreuzung,gesamt,04/01/2021,601,Compras de materias primas,D,566885.95
+Kreuzung,gesamt,04/01/2021,472,H.P. IVA Soportado,D,119046.05
+Kreuzung,gesamt,04/01/2021,400,Proveedores,H,685932.00
+Kreuzung,gesamt,17/03/2021,601,Compras de materias primas,D,567916.53
+Kreuzung,gesamt,17/03/2021,472,H.P. IVA Soportado,D,119262.47
+Kreuzung,gesamt,17/03/2021,400,Proveedores,H,687179.00
+Kreuzung,gesamt,12/11/2021,601,Compras de materias primas,D,447822.31
+Kreuzung,gesamt,12/11/2021,472,H.P. IVA Soportado,D,94042.69
+Kreuzung,gesamt,12/11/2021,400,Proveedores,H,541865.00
+Kreuzung,gesamt,27/07/2021,601,Compras de materias primas,D,377842.98
+Kreuzung,gesamt,27/07/2021,472,H.P. IVA Soportado,D,79347.02
+Kreuzung,gesamt,27/07/2021,400,Proveedores,H,457190.00
+Kreuzung,gesamt,14/06/2021,601,Compras de materias primas,D,472018.18
+Kreuzung,gesamt,14/06/2021,472,H.P. IVA Soportado,D,99123.82
+Kreuzung,gesamt,14/06/2021,400,Proveedores,H,571142.00
+Kreuzung,gesamt,25/07/2021,601,Compras de materias primas,D,343817.36
+Kreuzung,gesamt,25/07/2021,472,H.P. IVA Soportado,D,72201.64
+Kreuzung,gesamt,25/07/2021,400,Proveedores,H,416019.00
+Kreuzung,gesamt,18/08/2021,601,Compras de materias primas,D,246391.74
+Kreuzung,gesamt,18/08/2021,472,H.P. IVA Soportado,D,51742.26
+Kreuzung,gesamt,18/08/2021,400,Proveedores,H,298134.00
+Kreuzung,gesamt,23/08/2021,601,Compras de materias primas,D,601325.62
+Kreuzung,gesamt,23/08/2021,472,H.P. IVA Soportado,D,126278.38
+Kreuzung,gesamt,23/08/2021,400,Proveedores,H,727604.00
+Kreuzung,gesamt,26/11/2021,601,Compras de materias primas,D,212933.06
+Kreuzung,gesamt,26/11/2021,472,H.P. IVA Soportado,D,44715.94
+Kreuzung,gesamt,26/11/2021,400,Proveedores,H,257649.00
+Kreuzung,gesamt,18/10/2021,601,Compras de materias primas,D,258374.38
+Kreuzung,gesamt,18/10/2021,472,H.P. IVA Soportado,D,54258.62
+Kreuzung,gesamt,18/10/2021,400,Proveedores,H,312633.00
+Kreuzung,gesamt,18/08/2021,601,Compras de materias primas,D,510396.69
+Kreuzung,gesamt,18/08/2021,472,H.P. IVA Soportado,D,107183.31
+Kreuzung,gesamt,18/08/2021,400,Proveedores,H,617580.00,
+Kreuzung,gesamt,10/05/2021,622,Reparaciones y conservación,D,242862.50,
+Kreuzung,gesamt,10/05/2021,472,HP IVA Soportado,D,51001.13,
+Kreuzung,gesamt,10/05/2021,410,Acreedores por prestación de servicios,H,0.00,
+Kreuzung,gesamt,05/02/2021,622,Reparaciones y conservación,D,239546.57,
+Kreuzung,gesamt,05/02/2021,472,HP IVA Soportado,D,50304.78,
+Kreuzung,gesamt,05/02/2021,410,Acreedores por prestación de servicios,H,289851.35,
+Kreuzung,gesamt,10/01/2021,628,Suministros,D,9640.83,
+Kreuzung,gesamt,10/01/2021,472,HP IVA Soportado,D,2024.58,
+Kreuzung,gesamt,10/01/2021,410,Acreedores por prestación de servicios,H,11665.41,
+Kreuzung,gesamt,22/10/2021,628,Suministros,D,9640.83,
+Kreuzung,gesamt,22/10/2021,472,HP IVA Soportado,D,2024.58,
+Kreuzung,gesamt,22/10/2021,410,Acreedores por prestación de servicios,H,11665.41,
+Kreuzung,gesamt,14/02/2021,628,Suministros,D,9640.83,
+Kreuzung,gesamt,14/02/2021,472,HP IVA Soportado,D,2024.58,
+Kreuzung,gesamt,14/02/2021,410,Acreedores por prestación de servicios,H,11665.41,
+Kreuzung,gesamt,04/06/2021,628,Suministros,D,9640.83
+Kreuzung,gesamt,04/06/2021,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,04/06/2021,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,25/08/2021,628,Suministros,D,9640.83
+Kreuzung,gesamt,25/08/2021,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,25/08/2021,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,25/08/2021,628,Suministros,D,9640.83
+Kreuzung,gesamt,25/08/2021,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,25/08/2021,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,05/04/2021,628,Suministros,D,9640.83
+Kreuzung,gesamt,05/04/2021,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,05/04/2021,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,25/11/2021,628,Suministros,D,9640.83
+Kreuzung,gesamt,25/11/2021,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,25/11/2021,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,16/04/2021,628,Suministros,D,9640.83
+Kreuzung,gesamt,16/04/2021,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,16/04/2021,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,22/01/2021,628,Suministros,D,9640.83
+Kreuzung,gesamt,22/01/2021,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,22/01/2021,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,12/09/2021,628,Suministros,D,9640.83
+Kreuzung,gesamt,12/09/2021,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,12/09/2021,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,26/11/2021,628,Suministros,D,9640.83
+Kreuzung,gesamt,26/11/2021,472,HP IVA Soportado,D,2024.58
+Kreuzung,gesamt,26/11/2021,410,Acreedores por prestación de servicios,H,11665.41
+Kreuzung,gesamt,13/10/2021,629,Otros servicios,D,504267.56
+Kreuzung,gesamt,13/10/2021,472,HP IVA Soportado,D,105896.19
+Kreuzung,gesamt,13/10/2021,410,Acreedores por prestación de servicios,H,610163.75
+Kreuzung,gesamt,10/04/2021,601,Compras de materias primas,D,226163.64
+Kreuzung,gesamt,10/04/2021,472,H.P. IVA Soportado,D,47494.36
+Kreuzung,gesamt,10/04/2021,400,Proveedores,H,273658.00,
+Kreuzung,gesamt,10/04/2021,520,Deudas a c/p,H,273658.00,
+Kreuzung,gesamt,10/04/2021,400,Proveedores,H,-273658.00,
+Kreuzung,gesamt,12/07/2021,601,Compras de materias primas,D,342126.45,
+Kreuzung,gesamt,12/07/2021,472,H.P. IVA Soportado,D,71846.55,
+Kreuzung,gesamt,12/07/2021,400,Proveedores,H,413973.00,
+Kreuzung,gesamt,12/07/2021,520,Deudas a c/p,H,413973.00,
+Kreuzung,gesamt,12/07/2021,400,Proveedores,H,-413973.00,
+Kreuzung,gesamt,14/11/2021,601,Compras de materias primas,D,494710.74,
+Kreuzung,gesamt,14/11/2021,472,H.P. IVA Soportado,D,103889.26,
+Kreuzung,gesamt,14/11/2021,400,Proveedores,H,598600.00,
+Kreuzung,gesamt,14/11/2021,520,Deudas a c/p,H,598600.00,
+Kreuzung,gesamt,14/11/2021,400,Proveedores,H,-598600.00,
+Kreuzung,gesamt,27/06/2021,601,Compras de materias primas,D,361423.97,
+Kreuzung,gesamt,27/06/2021,472,H.P. IVA Soportado,D,75899.03,
+Kreuzung,gesamt,27/06/2021,400,Proveedores,H,437323.00,
+Kreuzung,gesamt,27/06/2021,520,Deudas a c/p,H,437323.00,
+Kreuzung,gesamt,27/06/2021,400,Proveedores,H,-437323.00,
+Kreuzung,gesamt,17/04/2021,601,Compras de materias primas,D,558384.30,
+Kreuzung,gesamt,17/04/2021,472,H.P. IVA Soportado,D,117260.70,
+Kreuzung,gesamt,17/04/2021,400,Proveedores,H,675645.00,
+Kreuzung,gesamt,17/04/2021,520,Deudas a c/p,H,675645.00,
+Kreuzung,gesamt,17/04/2021,400,Proveedores,H,-675645.00,
+Kreuzung,gesamt,31/12/2021,472,H.P. IVA Soportado,D,-4207140.46,Liquidacion IVA
+Kreuzung,gesamt,31/12/2021,477,H.P. IVA Repercutido,H,-3719617.11,Liquidacion IVA
+Kreuzung,gesamt,31/12/2021,470,H.P. IVA deudora por IVA,D,1360543.90,cierre
+Kreuzung,gesamt,31/12/2021,475,H.P. acreedora por conceptos fiscales,H,96000.00,cierre
+Kreuzung,gesamt,31/12/2021,310,Materias primas,D,960000.00,cierre
+Kreuzung,gesamt,31/12/2021,330,Productos en curso,D,1720000.00,cierre
+Kreuzung,gesamt,31/12/2021,350,Productos terminados,D,1904000.00,cierre
+Kreuzung,gesamt,31/12/2021,170,Deudas a l/p entidades de crédito,H,4616000.00,cierre
+Kreuzung,gesamt,31/12/2021,171,Deudas a l/p,H,4000000.00,cierre
+Kreuzung,gesamt,31/12/2021,129,Resultado del ejercicio,H,320000.00,cierre
